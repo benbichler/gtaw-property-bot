@@ -1,0 +1,182 @@
+[
+  {
+    "id": "2257",
+    "address": "Red E. Office #11",
+    "price": 10000,
+    "coords": [
+      -266.228,
+      -955.426
+    ]
+  },
+  {
+    "id": "101069",
+    "address": "Augury Office Complex - Floor 2, Room 3",
+    "price": 17000,
+    "coords": [
+      -284.546,
+      -447.119
+    ]
+  },
+  {
+    "id": "101070",
+    "address": "Augury Office Complex - Floor 2, Room 4",
+    "price": 17000,
+    "coords": [
+      -284.546,
+      -447.119
+    ]
+  },
+  {
+    "id": "101073",
+    "address": "Augury Office Complex - Floor 3, Room 2",
+    "price": 17000,
+    "coords": [
+      -284.546,
+      -447.119
+    ]
+  },
+  {
+    "id": "101087",
+    "address": "Augury Office Complex - Floor 6, Room 1",
+    "price": 17000,
+    "coords": [
+      -284.546,
+      -447.119
+    ]
+  },
+  {
+    "id": "101090",
+    "address": "Augury Office Complex - Floor 6, Room 4",
+    "price": 17000,
+    "coords": [
+      -284.546,
+      -447.119
+    ]
+  },
+  {
+    "id": "101114",
+    "address": "Badger Tower Office Complex - Floor 1, Room 3",
+    "price": 11000,
+    "coords": [
+      -1057.65,
+      -2917.41
+    ]
+  },
+  {
+    "id": "101120",
+    "address": "Badger Tower Office Complex - Floor 3, Room 1",
+    "price": 11000,
+    "coords": [
+      -1057.65,
+      -2917.41
+    ]
+  },
+  {
+    "id": "101123",
+    "address": "Badger Tower Office Complex - Floor 3, Room 4",
+    "price": 11000,
+    "coords": [
+      -1057.65,
+      -2917.41
+    ]
+  },
+  {
+    "id": "101124",
+    "address": "Badger Tower Office Complex - Floor 4, Room 1",
+    "price": 11000,
+    "coords": [
+      -1057.65,
+      -2917.41
+    ]
+  },
+  {
+    "id": "101125",
+    "address": "Badger Tower Office Complex - Floor 4, Room 2",
+    "price": 11000,
+    "coords": [
+      -1057.65,
+      -2917.41
+    ]
+  },
+  {
+    "id": "101126",
+    "address": "Badger Tower Office Complex - Floor 4, Room 3",
+    "price": 11000,
+    "coords": [
+      -1057.65,
+      -2917.41
+    ]
+  },
+  {
+    "id": "101128",
+    "address": "Badger Tower Office Complex - Floor 5, Room 1",
+    "price": 11000,
+    "coords": [
+      -1057.65,
+      -2917.41
+    ]
+  },
+  {
+    "id": "101129",
+    "address": "Badger Tower Office Complex - Floor 5, Room 2",
+    "price": 11000,
+    "coords": [
+      -1057.65,
+      -2917.41
+    ]
+  },
+  {
+    "id": "101131",
+    "address": "Badger Tower Office Complex - Floor 5, Room 4",
+    "price": 11000,
+    "coords": [
+      -1057.65,
+      -2917.41
+    ]
+  },
+  {
+    "id": "101132",
+    "address": "Badger Tower Office Complex - Floor 6, Room 1",
+    "price": 11000,
+    "coords": [
+      -1057.65,
+      -2917.41
+    ]
+  },
+  {
+    "id": "101133",
+    "address": "Badger Tower Office Complex - Floor 6, Room 2",
+    "price": 11000,
+    "coords": [
+      -1057.65,
+      -2917.41
+    ]
+  },
+  {
+    "id": "101134",
+    "address": "Badger Tower Office Complex - Floor 6, Room 3",
+    "price": 11000,
+    "coords": [
+      -1057.65,
+      -2917.41
+    ]
+  },
+  {
+    "id": "101135",
+    "address": "Badger Tower Office Complex - Floor 6, Room 4",
+    "price": 11000,
+    "coords": [
+      -1057.65,
+      -2917.41
+    ]
+  },
+  {
+    "id": "101495",
+    "address": "Paleto Bay Offices - Room 10",
+    "price": 8000,
+    "coords": [
+      30.3896,
+      6310.97
+    ]
+  }
+]

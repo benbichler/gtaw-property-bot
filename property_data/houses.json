@@ -1,0 +1,470 @@
+[
+  {
+    "id": "790",
+    "address": "231 Alta Street",
+    "price": 135000,
+    "coords": [
+      1.0,
+      63.4741
+    ]
+  },
+  {
+    "id": "3383",
+    "address": "10 San Vitus Boulevard",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -186.296
+    ]
+  },
+  {
+    "id": "3427",
+    "address": "248 Spanish Avenue",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -333.304
+    ]
+  },
+  {
+    "id": "3662",
+    "address": "1574 North Archer Avenue",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -150.198
+    ]
+  },
+  {
+    "id": "7039",
+    "address": "1160 Spanish Avenue #1",
+    "price": 80000,
+    "coords": [
+      1.0,
+      398.759
+    ]
+  },
+  {
+    "id": "7041",
+    "address": "1160 Spanish Avenue #3",
+    "price": 80000,
+    "coords": [
+      1.0,
+      398.872
+    ]
+  },
+  {
+    "id": "7043",
+    "address": "1160 Spanish Avenue #5",
+    "price": 100000,
+    "coords": [
+      1.0,
+      396.786
+    ]
+  },
+  {
+    "id": "7056",
+    "address": "1161 Spanish Avenue #3",
+    "price": 90000,
+    "coords": [
+      1.0,
+      -1083.63
+    ]
+  },
+  {
+    "id": "7057",
+    "address": "1161 Spanish Avenue #4",
+    "price": 90000,
+    "coords": [
+      1.0,
+      -1075.4
+    ]
+  },
+  {
+    "id": "7058",
+    "address": "1161 Spanish Avenue #5",
+    "price": 90000,
+    "coords": [
+      1.0,
+      -1063.71
+    ]
+  },
+  {
+    "id": "7059",
+    "address": "1161 Spanish Avenue #6",
+    "price": 90000,
+    "coords": [
+      1.0,
+      -1055.82
+    ]
+  },
+  {
+    "id": "7060",
+    "address": "1161 Spanish Avenue #7",
+    "price": 90000,
+    "coords": [
+      1.0,
+      -1055.93
+    ]
+  },
+  {
+    "id": "7062",
+    "address": "1161 Spanish Avenue #9",
+    "price": 90000,
+    "coords": [
+      1.0,
+      -1072.56
+    ]
+  },
+  {
+    "id": "7065",
+    "address": "1161 Spanish Avenue #12",
+    "price": 90000,
+    "coords": [
+      1.0,
+      -1075.47
+    ]
+  },
+  {
+    "id": "7070",
+    "address": "1161 Spanish Avenue #17",
+    "price": 90000,
+    "coords": [
+      1.0,
+      -1072.62
+    ]
+  },
+  {
+    "id": "7073",
+    "address": "1161 Spanish Avenue #20",
+    "price": 90000,
+    "coords": [
+      1.0,
+      -1075.44
+    ]
+  },
+  {
+    "id": "7074",
+    "address": "1161 Spanish Avenue #21",
+    "price": 90000,
+    "coords": [
+      1.0,
+      -1063.85
+    ]
+  },
+  {
+    "id": "7075",
+    "address": "1161 Spanish Avenue #22",
+    "price": 90000,
+    "coords": [
+      1.0,
+      -1056.67
+    ]
+  },
+  {
+    "id": "7077",
+    "address": "1161 Spanish Avenue #24",
+    "price": 90000,
+    "coords": [
+      1.0,
+      -1067.76
+    ]
+  },
+  {
+    "id": "7078",
+    "address": "1161 Spanish Avenue #25",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -1067.75
+    ]
+  },
+  {
+    "id": "7079",
+    "address": "1161 Spanish Avenue #26",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -1072.61
+    ]
+  },
+  {
+    "id": "7080",
+    "address": "1161 Spanish Avenue #27",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -1072.57
+    ]
+  },
+  {
+    "id": "7088",
+    "address": "0605 Laguna Place #1",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -1072.66
+    ]
+  },
+  {
+    "id": "7089",
+    "address": "0605 Laguna Place #2",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -1082.73
+    ]
+  },
+  {
+    "id": "7090",
+    "address": "0605 Laguna Place #3",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -1083.71
+    ]
+  },
+  {
+    "id": "7091",
+    "address": "0605 Laguna Place #4",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -1075.49
+    ]
+  },
+  {
+    "id": "7092",
+    "address": "0605 Laguna Place #5",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -1063.68
+    ]
+  },
+  {
+    "id": "7094",
+    "address": "0605 Laguna Place #7",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -1055.93
+    ]
+  },
+  {
+    "id": "7095",
+    "address": "0605 Laguna Place #8",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -1067.82
+    ]
+  },
+  {
+    "id": "7097",
+    "address": "0605 Laguna Place #10",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -1082.8
+    ]
+  },
+  {
+    "id": "7098",
+    "address": "0605 Laguna Place #11",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -1083.62
+    ]
+  },
+  {
+    "id": "7099",
+    "address": "0605 Laguna Place #12",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -1075.46
+    ]
+  },
+  {
+    "id": "7101",
+    "address": "0605 Laguna Place #14",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -1056.65
+    ]
+  },
+  {
+    "id": "7103",
+    "address": "0605 Laguna Place #16",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -1067.81
+    ]
+  },
+  {
+    "id": "7104",
+    "address": "0605 Laguna Place #17",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -1072.57
+    ]
+  },
+  {
+    "id": "7105",
+    "address": "0605 Laguna Place #18",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -1082.74
+    ]
+  },
+  {
+    "id": "7108",
+    "address": "0605 Laguna Place #21",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -1063.82
+    ]
+  },
+  {
+    "id": "7110",
+    "address": "0605 Laguna Place #23",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -1055.88
+    ]
+  },
+  {
+    "id": "7114",
+    "address": "0605 Laguna Place #27",
+    "price": 100000,
+    "coords": [
+      1.0,
+      -1072.53
+    ]
+  },
+  {
+    "id": "7116",
+    "address": "0604 Laguna Place #1",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -1072.41
+    ]
+  },
+  {
+    "id": "7117",
+    "address": "0604 Laguna Place #2",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -1082.96
+    ]
+  },
+  {
+    "id": "7119",
+    "address": "0604 Laguna Place #4",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -1075.4
+    ]
+  },
+  {
+    "id": "7122",
+    "address": "0604 Laguna Place #7",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -1055.88
+    ]
+  },
+  {
+    "id": "7124",
+    "address": "0604 Laguna Place #9",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -1072.36
+    ]
+  },
+  {
+    "id": "7131",
+    "address": "0604 Laguna Place #16",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -1067.79
+    ]
+  },
+  {
+    "id": "7132",
+    "address": "0604 Laguna Place #17",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -1072.45
+    ]
+  },
+  {
+    "id": "7133",
+    "address": "0604 Laguna Place #18",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -1082.83
+    ]
+  },
+  {
+    "id": "7135",
+    "address": "0604 Laguna Place #20",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -1075.51
+    ]
+  },
+  {
+    "id": "7136",
+    "address": "0604 Laguna Place #21",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -1063.9
+    ]
+  },
+  {
+    "id": "7137",
+    "address": "0604 Laguna Place #22",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -1056.57
+    ]
+  },
+  {
+    "id": "7138",
+    "address": "0604 Laguna Place #23",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -1055.84
+    ]
+  },
+  {
+    "id": "7139",
+    "address": "0604 Laguna Place #24",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -1067.79
+    ]
+  }
+]

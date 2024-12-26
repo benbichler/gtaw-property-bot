@@ -1,0 +1,10559 @@
+[
+  {
+    "id": "100",
+    "address": "Unit 582 - 302 Jamestown Street",
+    "price": 45000,
+    "coords": [
+      1.0,
+      281.168
+    ]
+  },
+  {
+    "id": "108",
+    "address": "Unit 587 - 802 Jamestown Street",
+    "price": 45000,
+    "coords": [
+      1.0,
+      343.351
+    ]
+  },
+  {
+    "id": "119",
+    "address": "Unit 587 - 814 Jamestown Street",
+    "price": 45000,
+    "coords": [
+      1.0,
+      345.537
+    ]
+  },
+  {
+    "id": "147",
+    "address": "Unit 585 - 605 Carson Avenue",
+    "price": 45000,
+    "coords": [
+      1.0,
+      356.544
+    ]
+  },
+  {
+    "id": "177",
+    "address": "Unit 583 - 403 Dutch London Street",
+    "price": 45000,
+    "coords": [
+      1.0,
+      294.051
+    ]
+  },
+  {
+    "id": "183",
+    "address": "Unit 583 - 409 Dutch London Street",
+    "price": 45000,
+    "coords": [
+      1.0,
+      301.273
+    ]
+  },
+  {
+    "id": "189",
+    "address": "Unit 584 - 504 Dutch London Street",
+    "price": 45000,
+    "coords": [
+      1.0,
+      323.157
+    ]
+  },
+  {
+    "id": "191",
+    "address": "Unit 584 - 506 Dutch London Street",
+    "price": 45000,
+    "coords": [
+      1.0,
+      332.532
+    ]
+  },
+  {
+    "id": "927",
+    "address": "1805 Strawberry Avenue Room 5",
+    "price": 35000,
+    "coords": [
+      1.0,
+      -109.584
+    ]
+  },
+  {
+    "id": "2018",
+    "address": "926 Las Lagunas Boulevard, Apt. 5",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -102.263
+    ]
+  },
+  {
+    "id": "2346",
+    "address": "2105 Vespucci Blvd - Floor 1, Room 3",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2347",
+    "address": "2105 Vespucci Blvd - Floor 1, Room 4",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2350",
+    "address": "2105 Vespucci Blvd - Floor 1, Room 7",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2351",
+    "address": "2105 Vespucci Blvd - Floor 1, Room 8",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2354",
+    "address": "2105 Vespucci Blvd - Floor 1, Room 11",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2355",
+    "address": "2105 Vespucci Blvd - Floor 1, Room 12",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2356",
+    "address": "2105 Vespucci Blvd - Floor 1, Room 13",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2357",
+    "address": "2105 Vespucci Blvd - Floor 1, Room 14",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2362",
+    "address": "2105 Vespucci Blvd - Floor 2, Room 4",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2363",
+    "address": "2105 Vespucci Blvd - Floor 2, Room 5",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2364",
+    "address": "2105 Vespucci Blvd - Floor 2, Room 6",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2365",
+    "address": "2105 Vespucci Blvd - Floor 2, Room 7",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2366",
+    "address": "2105 Vespucci Blvd - Floor 2, Room 8",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2367",
+    "address": "2105 Vespucci Blvd - Floor 2, Room 9",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2368",
+    "address": "2105 Vespucci Blvd - Floor 2, Room 10",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2369",
+    "address": "2105 Vespucci Blvd - Floor 2, Room 11",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2371",
+    "address": "2105 Vespucci Blvd - Floor 2, Room 13",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2372",
+    "address": "2105 Vespucci Blvd - Floor 2, Room 14",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2373",
+    "address": "2105 Vespucci Blvd - Floor 2, Room 15",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2374",
+    "address": "2105 Vespucci Blvd - Floor 3, Room 1",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2375",
+    "address": "2105 Vespucci Blvd - Floor 3, Room 2",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2376",
+    "address": "2105 Vespucci Blvd - Floor 3, Room 3",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2378",
+    "address": "2105 Vespucci Blvd - Floor 3, Room 5",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2379",
+    "address": "2105 Vespucci Blvd - Floor 3, Room 6",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2380",
+    "address": "2105 Vespucci Blvd - Floor 3, Room 7",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2381",
+    "address": "2105 Vespucci Blvd - Floor 3, Room 8",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2382",
+    "address": "2105 Vespucci Blvd - Floor 3, Room 9",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2383",
+    "address": "2105 Vespucci Blvd - Floor 3, Room 10",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2384",
+    "address": "2105 Vespucci Blvd - Floor 3, Room 11",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2386",
+    "address": "2105 Vespucci Blvd - Floor 3, Room 13",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2387",
+    "address": "2105 Vespucci Blvd - Floor 3, Room 14",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2388",
+    "address": "2105 Vespucci Blvd - Floor 3, Room 15",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2389",
+    "address": "2105 Vespucci Blvd - Floor 4, Room 1",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2390",
+    "address": "2105 Vespucci Blvd - Floor 4, Room 2",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2391",
+    "address": "2105 Vespucci Blvd - Floor 4, Room 3",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2393",
+    "address": "2105 Vespucci Blvd - Floor 4, Room 5",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2394",
+    "address": "2105 Vespucci Blvd - Floor 4, Room 6",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2395",
+    "address": "2105 Vespucci Blvd - Floor 4, Room 7",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2397",
+    "address": "2105 Vespucci Blvd - Floor 4, Room 9",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2398",
+    "address": "2105 Vespucci Blvd - Floor 4, Room 10",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2400",
+    "address": "2105 Vespucci Blvd - Floor 4, Room 12",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2401",
+    "address": "2105 Vespucci Blvd - Floor 4, Room 13",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2402",
+    "address": "2105 Vespucci Blvd - Floor 4, Room 14",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2404",
+    "address": "2105 Vespucci Blvd - Floor 5, Room 1",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2405",
+    "address": "2105 Vespucci Blvd - Floor 5, Room 2",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2406",
+    "address": "2105 Vespucci Blvd - Floor 5, Room 3",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2408",
+    "address": "2105 Vespucci Blvd - Floor 5, Room 5",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2410",
+    "address": "2105 Vespucci Blvd - Floor 5, Room 7",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2411",
+    "address": "2105 Vespucci Blvd - Floor 5, Room 8",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2412",
+    "address": "2105 Vespucci Blvd - Floor 5, Room 9",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2413",
+    "address": "2105 Vespucci Blvd - Floor 5, Room 10",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2414",
+    "address": "2105 Vespucci Blvd - Floor 5, Room 11",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2416",
+    "address": "2105 Vespucci Blvd - Floor 5, Room 13",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2417",
+    "address": "2105 Vespucci Blvd - Floor 5, Room 14",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2419",
+    "address": "2105 Vespucci Blvd - Floor 6, Room 1",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2420",
+    "address": "2105 Vespucci Blvd - Floor 6, Room 2",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2421",
+    "address": "2105 Vespucci Blvd - Floor 6, Room 3",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2423",
+    "address": "2105 Vespucci Blvd - Floor 6, Room 5",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2424",
+    "address": "2105 Vespucci Blvd - Floor 6, Room 6",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2426",
+    "address": "2105 Vespucci Blvd - Floor 6, Room 8",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2428",
+    "address": "2105 Vespucci Blvd - Floor 6, Room 10",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2429",
+    "address": "2105 Vespucci Blvd - Floor 6, Room 11",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2430",
+    "address": "2105 Vespucci Blvd - Floor 6, Room 12",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2432",
+    "address": "2105 Vespucci Blvd - Floor 6, Room 14",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2434",
+    "address": "2105 Vespucci Blvd - Floor 7, Room 1",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2435",
+    "address": "2105 Vespucci Blvd - Floor 7, Room 2",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2436",
+    "address": "2105 Vespucci Blvd - Floor 7, Room 3",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2437",
+    "address": "2105 Vespucci Blvd - Floor 7, Room 4",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2440",
+    "address": "2105 Vespucci Blvd - Floor 7, Room 7",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2443",
+    "address": "2105 Vespucci Blvd - Floor 7, Room 10",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2444",
+    "address": "2105 Vespucci Blvd - Floor 7, Room 11",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2448",
+    "address": "2105 Vespucci Blvd - Floor 7, Room 15",
+    "price": 80000,
+    "coords": [
+      1.0,
+      154.193
+    ]
+  },
+  {
+    "id": "2451",
+    "address": "2103 Vespucci Blvd - Floor 1, Room 3",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2453",
+    "address": "2103 Vespucci Blvd - Floor 1, Room 5",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2454",
+    "address": "2103 Vespucci Blvd - Floor 1, Room 6",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2455",
+    "address": "2103 Vespucci Blvd - Floor 1, Room 7",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2457",
+    "address": "2103 Vespucci Blvd - Floor 1, Room 9",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2458",
+    "address": "2103 Vespucci Blvd - Floor 1, Room 10",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2459",
+    "address": "2103 Vespucci Blvd - Floor 1, Room 11",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2460",
+    "address": "2103 Vespucci Blvd - Floor 1, Room 12",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2461",
+    "address": "2103 Vespucci Blvd - Floor 1, Room 13",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2462",
+    "address": "2103 Vespucci Blvd - Floor 1, Room 14",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2464",
+    "address": "2103 Vespucci Blvd - Floor 2, Room 1",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2465",
+    "address": "2103 Vespucci Blvd - Floor 2, Room 2",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2466",
+    "address": "2103 Vespucci Blvd - Floor 2, Room 3",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2468",
+    "address": "2103 Vespucci Blvd - Floor 2, Room 5",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2469",
+    "address": "2103 Vespucci Blvd - Floor 2, Room 6",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2472",
+    "address": "2103 Vespucci Blvd - Floor 2, Room 9",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2474",
+    "address": "2103 Vespucci Blvd - Floor 2, Room 11",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2476",
+    "address": "2103 Vespucci Blvd - Floor 2, Room 13",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2477",
+    "address": "2103 Vespucci Blvd - Floor 2, Room 14",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2478",
+    "address": "2103 Vespucci Blvd - Floor 2, Room 15",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2483",
+    "address": "2103 Vespucci Blvd - Floor 3, Room 5",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2488",
+    "address": "2103 Vespucci Blvd - Floor 3, Room 10",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2491",
+    "address": "2103 Vespucci Blvd - Floor 3, Room 13",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2493",
+    "address": "2103 Vespucci Blvd - Floor 3, Room 15",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2494",
+    "address": "2103 Vespucci Blvd - Floor 4, Room 1",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2495",
+    "address": "2103 Vespucci Blvd - Floor 4, Room 2",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2497",
+    "address": "2103 Vespucci Blvd - Floor 4, Room 4",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2498",
+    "address": "2103 Vespucci Blvd - Floor 4, Room 5",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2501",
+    "address": "2103 Vespucci Blvd - Floor 4, Room 8",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2504",
+    "address": "2103 Vespucci Blvd - Floor 4, Room 11",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2506",
+    "address": "2103 Vespucci Blvd - Floor 4, Room 13",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2507",
+    "address": "2103 Vespucci Blvd - Floor 4, Room 14",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2508",
+    "address": "2103 Vespucci Blvd - Floor 4, Room 15",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2510",
+    "address": "2103 Vespucci Blvd - Floor 5, Room 2",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2514",
+    "address": "2103 Vespucci Blvd - Floor 5, Room 6",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2516",
+    "address": "2103 Vespucci Blvd - Floor 5, Room 8",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2518",
+    "address": "2103 Vespucci Blvd - Floor 5, Room 10",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2519",
+    "address": "2103 Vespucci Blvd - Floor 5, Room 11",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2522",
+    "address": "2103 Vespucci Blvd - Floor 5, Room 14",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2523",
+    "address": "2103 Vespucci Blvd - Floor 5, Room 15",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2524",
+    "address": "2103 Vespucci Blvd - Floor 6, Room 1",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2525",
+    "address": "2103 Vespucci Blvd - Floor 6, Room 2",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2526",
+    "address": "2103 Vespucci Blvd - Floor 6, Room 3",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2527",
+    "address": "2103 Vespucci Blvd - Floor 6, Room 4",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2528",
+    "address": "2103 Vespucci Blvd - Floor 6, Room 5",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2529",
+    "address": "2103 Vespucci Blvd - Floor 6, Room 6",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2530",
+    "address": "2103 Vespucci Blvd - Floor 6, Room 7",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2531",
+    "address": "2103 Vespucci Blvd - Floor 6, Room 8",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2533",
+    "address": "2103 Vespucci Blvd - Floor 6, Room 10",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2534",
+    "address": "2103 Vespucci Blvd - Floor 6, Room 11",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2535",
+    "address": "2103 Vespucci Blvd - Floor 6, Room 12",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2538",
+    "address": "2103 Vespucci Blvd - Floor 6, Room 15",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2539",
+    "address": "2103 Vespucci Blvd - Floor 7, Room 1",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2540",
+    "address": "2103 Vespucci Blvd - Floor 7, Room 2",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2541",
+    "address": "2103 Vespucci Blvd - Floor 7, Room 3",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2542",
+    "address": "2103 Vespucci Blvd - Floor 7, Room 4",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2543",
+    "address": "2103 Vespucci Blvd - Floor 7, Room 5",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2546",
+    "address": "2103 Vespucci Blvd - Floor 7, Room 8",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2550",
+    "address": "2103 Vespucci Blvd - Floor 7, Room 12",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2551",
+    "address": "2103 Vespucci Blvd - Floor 7, Room 13",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2552",
+    "address": "2103 Vespucci Blvd - Floor 7, Room 14",
+    "price": 80000,
+    "coords": [
+      1.0,
+      140.244
+    ]
+  },
+  {
+    "id": "2558",
+    "address": "28 Fantastic Pl - Floor 1, Room 5",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2563",
+    "address": "28 Fantastic Pl - Floor 1, Room 10",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2565",
+    "address": "28 Fantastic Pl - Floor 1, Room 12",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2566",
+    "address": "28 Fantastic Pl - Floor 1, Room 13",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2570",
+    "address": "28 Fantastic Pl - Floor 2, Room 2",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2573",
+    "address": "28 Fantastic Pl - Floor 2, Room 5",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2574",
+    "address": "28 Fantastic Pl - Floor 2, Room 6",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2576",
+    "address": "28 Fantastic Pl - Floor 2, Room 8",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2578",
+    "address": "28 Fantastic Pl - Floor 2, Room 10",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2580",
+    "address": "28 Fantastic Pl - Floor 2, Room 12",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2581",
+    "address": "28 Fantastic Pl - Floor 2, Room 13",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2582",
+    "address": "28 Fantastic Pl - Floor 2, Room 14",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2585",
+    "address": "28 Fantastic Pl - Floor 3, Room 2",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2586",
+    "address": "28 Fantastic Pl - Floor 3, Room 3",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2588",
+    "address": "28 Fantastic Pl - Floor 3, Room 5",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2589",
+    "address": "28 Fantastic Pl - Floor 3, Room 6",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2590",
+    "address": "28 Fantastic Pl - Floor 3, Room 7",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2591",
+    "address": "28 Fantastic Pl - Floor 3, Room 8",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2593",
+    "address": "28 Fantastic Pl - Floor 3, Room 10",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2598",
+    "address": "28 Fantastic Pl - Floor 3, Room 15",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2600",
+    "address": "28 Fantastic Pl - Floor 4, Room 2",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2601",
+    "address": "28 Fantastic Pl - Floor 4, Room 3",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2602",
+    "address": "28 Fantastic Pl - Floor 4, Room 4",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2604",
+    "address": "28 Fantastic Pl - Floor 4, Room 6",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2606",
+    "address": "28 Fantastic Pl - Floor 4, Room 8",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2607",
+    "address": "28 Fantastic Pl - Floor 4, Room 9",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2608",
+    "address": "28 Fantastic Pl - Floor 4, Room 10",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2610",
+    "address": "28 Fantastic Pl - Floor 4, Room 12",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2612",
+    "address": "28 Fantastic Pl - Floor 4, Room 14",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2615",
+    "address": "28 Fantastic Pl - Floor 5, Room 2",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2616",
+    "address": "28 Fantastic Pl - Floor 5, Room 3",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2617",
+    "address": "28 Fantastic Pl - Floor 5, Room 4",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2619",
+    "address": "28 Fantastic Pl - Floor 5, Room 6",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2627",
+    "address": "28 Fantastic Pl - Floor 5, Room 14",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2628",
+    "address": "28 Fantastic Pl - Floor 5, Room 15",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2631",
+    "address": "28 Fantastic Pl - Floor 6, Room 3",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2635",
+    "address": "28 Fantastic Pl - Floor 6, Room 7",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2639",
+    "address": "28 Fantastic Pl - Floor 6, Room 11",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2641",
+    "address": "28 Fantastic Pl - Floor 6, Room 13",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2656",
+    "address": "28 Fantastic Pl - Floor 7, Room 13",
+    "price": 80000,
+    "coords": [
+      1.0,
+      329.483
+    ]
+  },
+  {
+    "id": "2666",
+    "address": "Integrity Hotel - Floor 4, Room 2",
+    "price": 185000,
+    "coords": [
+      1.0,
+      278.595
+    ]
+  },
+  {
+    "id": "2671",
+    "address": "Integrity Hotel - Floor 7, Room 1",
+    "price": 185000,
+    "coords": [
+      1.0,
+      278.595
+    ]
+  },
+  {
+    "id": "2714",
+    "address": "2110 Vespucci Blvd - Floor 3, Room 6",
+    "price": 120000,
+    "coords": [
+      1.0,
+      371.208
+    ]
+  },
+  {
+    "id": "2722",
+    "address": "2110 Vespucci Blvd - Floor 5, Room 2",
+    "price": 120000,
+    "coords": [
+      1.0,
+      371.208
+    ]
+  },
+  {
+    "id": "2727",
+    "address": "1003 Strawberry Avenue - Floor 1, Room 1",
+    "price": 120000,
+    "coords": [
+      1.0,
+      363.086
+    ]
+  },
+  {
+    "id": "2729",
+    "address": "1003 Strawberry Avenue - Floor 1, Room 3",
+    "price": 120000,
+    "coords": [
+      1.0,
+      363.086
+    ]
+  },
+  {
+    "id": "2730",
+    "address": "1003 Strawberry Avenue - Floor 1, Room 4",
+    "price": 120000,
+    "coords": [
+      1.0,
+      363.086
+    ]
+  },
+  {
+    "id": "2732",
+    "address": "1003 Strawberry Avenue - Floor 2, Room 2",
+    "price": 120000,
+    "coords": [
+      1.0,
+      363.086
+    ]
+  },
+  {
+    "id": "2735",
+    "address": "1003 Strawberry Avenue - Floor 3, Room 1",
+    "price": 120000,
+    "coords": [
+      1.0,
+      363.086
+    ]
+  },
+  {
+    "id": "2737",
+    "address": "1003 Strawberry Avenue - Floor 3, Room 3",
+    "price": 120000,
+    "coords": [
+      1.0,
+      363.086
+    ]
+  },
+  {
+    "id": "2738",
+    "address": "1003 Strawberry Avenue - Floor 3, Room 4",
+    "price": 120000,
+    "coords": [
+      1.0,
+      363.086
+    ]
+  },
+  {
+    "id": "2740",
+    "address": "1003 Strawberry Avenue - Floor 4, Room 2",
+    "price": 120000,
+    "coords": [
+      1.0,
+      363.086
+    ]
+  },
+  {
+    "id": "2741",
+    "address": "1003 Strawberry Avenue - Floor 4, Room 3",
+    "price": 120000,
+    "coords": [
+      1.0,
+      363.086
+    ]
+  },
+  {
+    "id": "2742",
+    "address": "1003 Strawberry Avenue - Floor 4, Room 4",
+    "price": 120000,
+    "coords": [
+      1.0,
+      363.086
+    ]
+  },
+  {
+    "id": "2743",
+    "address": "1003 Strawberry Avenue - Floor 5, Room 1",
+    "price": 120000,
+    "coords": [
+      1.0,
+      363.086
+    ]
+  },
+  {
+    "id": "2744",
+    "address": "1003 Strawberry Avenue - Floor 5, Room 2",
+    "price": 120000,
+    "coords": [
+      1.0,
+      363.086
+    ]
+  },
+  {
+    "id": "2748",
+    "address": "1003 Strawberry Avenue - Floor 6, Room 2",
+    "price": 120000,
+    "coords": [
+      1.0,
+      363.086
+    ]
+  },
+  {
+    "id": "2750",
+    "address": "1003 Strawberry Avenue - Floor 6, Room 4",
+    "price": 120000,
+    "coords": [
+      1.0,
+      363.086
+    ]
+  },
+  {
+    "id": "2772",
+    "address": "1202 Vespucci Blvd - Floor 3, Room 1",
+    "price": 120000,
+    "coords": [
+      1.0,
+      265.764
+    ]
+  },
+  {
+    "id": "2783",
+    "address": "3 Alta Street - Floor 1, Room 2",
+    "price": 225000,
+    "coords": [
+      1.0,
+      -261.447
+    ]
+  },
+  {
+    "id": "2784",
+    "address": "3 Alta Street - Floor 2, Room 1",
+    "price": 225000,
+    "coords": [
+      1.0,
+      -261.447
+    ]
+  },
+  {
+    "id": "2787",
+    "address": "3 Alta Street - Floor 3, Room 2",
+    "price": 225000,
+    "coords": [
+      1.0,
+      -261.447
+    ]
+  },
+  {
+    "id": "2788",
+    "address": "3 Alta Street - Floor 4, Room 1",
+    "price": 225000,
+    "coords": [
+      1.0,
+      -261.447
+    ]
+  },
+  {
+    "id": "2789",
+    "address": "3 Alta Street - Floor 4, Room 2",
+    "price": 225000,
+    "coords": [
+      1.0,
+      -261.447
+    ]
+  },
+  {
+    "id": "2829",
+    "address": "2003 San Andreas Blvd - Floor 3, Room 2",
+    "price": 135000,
+    "coords": [
+      1.0,
+      101.697
+    ]
+  },
+  {
+    "id": "2830",
+    "address": "2003 San Andreas Blvd - Floor 3, Room 3",
+    "price": 135000,
+    "coords": [
+      1.0,
+      101.697
+    ]
+  },
+  {
+    "id": "2837",
+    "address": "2003 San Andreas Blvd - Floor 6, Room 1",
+    "price": 135000,
+    "coords": [
+      1.0,
+      101.697
+    ]
+  },
+  {
+    "id": "2839",
+    "address": "2003 San Andreas Blvd - Floor 6, Room 3",
+    "price": 135000,
+    "coords": [
+      1.0,
+      101.697
+    ]
+  },
+  {
+    "id": "2840",
+    "address": "2003 San Andreas Blvd - Floor 7, Room 1",
+    "price": 135000,
+    "coords": [
+      1.0,
+      101.697
+    ]
+  },
+  {
+    "id": "2841",
+    "address": "2003 San Andreas Blvd - Floor 7, Room 2",
+    "price": 135000,
+    "coords": [
+      1.0,
+      101.697
+    ]
+  },
+  {
+    "id": "2842",
+    "address": "2003 San Andreas Blvd - Floor 7, Room 3",
+    "price": 135000,
+    "coords": [
+      1.0,
+      101.697
+    ]
+  },
+  {
+    "id": "2843",
+    "address": "2003 San Andreas Blvd - Floor 8, Room 1",
+    "price": 135000,
+    "coords": [
+      1.0,
+      101.697
+    ]
+  },
+  {
+    "id": "2844",
+    "address": "2003 San Andreas Blvd - Floor 8, Room 2",
+    "price": 135000,
+    "coords": [
+      1.0,
+      101.697
+    ]
+  },
+  {
+    "id": "2845",
+    "address": "2003 San Andreas Blvd - Floor 8, Room 3",
+    "price": 135000,
+    "coords": [
+      1.0,
+      101.697
+    ]
+  },
+  {
+    "id": "2848",
+    "address": "2003 San Andreas Blvd - Floor 9, Room 3",
+    "price": 135000,
+    "coords": [
+      1.0,
+      101.697
+    ]
+  },
+  {
+    "id": "2862",
+    "address": "2005 San Andreas Blvd - Floor 4, Room 2",
+    "price": 200000,
+    "coords": [
+      1.0,
+      107.812
+    ]
+  },
+  {
+    "id": "2865",
+    "address": "2005 San Andreas Blvd - Floor 6, Room 1",
+    "price": 200000,
+    "coords": [
+      1.0,
+      107.812
+    ]
+  },
+  {
+    "id": "2869",
+    "address": "2005 San Andreas Blvd - Floor 8, Room 1",
+    "price": 200000,
+    "coords": [
+      1.0,
+      107.812
+    ]
+  },
+  {
+    "id": "2874",
+    "address": "2005 San Andreas Blvd - Floor 10, Room 2",
+    "price": 200000,
+    "coords": [
+      1.0,
+      107.812
+    ]
+  },
+  {
+    "id": "2876",
+    "address": "1000 Strawberry Avenue - Floor 1, Room 2",
+    "price": 110000,
+    "coords": [
+      1.0,
+      270.403
+    ]
+  },
+  {
+    "id": "2878",
+    "address": "1000 Strawberry Avenue - Floor 1, Room 4",
+    "price": 110000,
+    "coords": [
+      1.0,
+      270.403
+    ]
+  },
+  {
+    "id": "2879",
+    "address": "1000 Strawberry Avenue - Floor 2, Room 1",
+    "price": 110000,
+    "coords": [
+      1.0,
+      270.403
+    ]
+  },
+  {
+    "id": "2880",
+    "address": "1000 Strawberry Avenue - Floor 2, Room 2",
+    "price": 110000,
+    "coords": [
+      1.0,
+      270.403
+    ]
+  },
+  {
+    "id": "2882",
+    "address": "1000 Strawberry Avenue - Floor 2, Room 4",
+    "price": 110000,
+    "coords": [
+      1.0,
+      270.403
+    ]
+  },
+  {
+    "id": "2883",
+    "address": "1000 Strawberry Avenue - Floor 3, Room 1",
+    "price": 110000,
+    "coords": [
+      1.0,
+      270.403
+    ]
+  },
+  {
+    "id": "2885",
+    "address": "1000 Strawberry Avenue - Floor 3, Room 3",
+    "price": 110000,
+    "coords": [
+      1.0,
+      270.403
+    ]
+  },
+  {
+    "id": "2886",
+    "address": "1000 Strawberry Avenue - Floor 3, Room 4",
+    "price": 110000,
+    "coords": [
+      1.0,
+      270.403
+    ]
+  },
+  {
+    "id": "2903",
+    "address": "1068 San Andreas Avenue - Floor 1, Room 5",
+    "price": 70000,
+    "coords": [
+      1.0,
+      337.148
+    ]
+  },
+  {
+    "id": "2907",
+    "address": "1068 San Andreas Avenue - Floor 1, Room 9",
+    "price": 70000,
+    "coords": [
+      1.0,
+      337.148
+    ]
+  },
+  {
+    "id": "2911",
+    "address": "1068 San Andreas Avenue - Floor 2, Room 3",
+    "price": 70000,
+    "coords": [
+      1.0,
+      337.148
+    ]
+  },
+  {
+    "id": "2913",
+    "address": "1068 San Andreas Avenue - Floor 2, Room 5",
+    "price": 70000,
+    "coords": [
+      1.0,
+      337.148
+    ]
+  },
+  {
+    "id": "2914",
+    "address": "1068 San Andreas Avenue - Floor 2, Room 6",
+    "price": 70000,
+    "coords": [
+      1.0,
+      337.148
+    ]
+  },
+  {
+    "id": "2918",
+    "address": "1068 San Andreas Avenue - Floor 2, Room 10",
+    "price": 70000,
+    "coords": [
+      1.0,
+      337.148
+    ]
+  },
+  {
+    "id": "2929",
+    "address": "1068 San Andreas Avenue - Floor 4, Room 1",
+    "price": 70000,
+    "coords": [
+      1.0,
+      337.148
+    ]
+  },
+  {
+    "id": "2936",
+    "address": "1068 San Andreas Avenue - Floor 4, Room 8",
+    "price": 70000,
+    "coords": [
+      1.0,
+      337.148
+    ]
+  },
+  {
+    "id": "2950",
+    "address": "1068 San Andreas Avenue - Floor 6, Room 2",
+    "price": 70000,
+    "coords": [
+      1.0,
+      337.148
+    ]
+  },
+  {
+    "id": "2952",
+    "address": "1068 San Andreas Avenue - Floor 6, Room 4",
+    "price": 70000,
+    "coords": [
+      1.0,
+      337.148
+    ]
+  },
+  {
+    "id": "2956",
+    "address": "1068 San Andreas Avenue - Floor 6, Room 8",
+    "price": 70000,
+    "coords": [
+      1.0,
+      337.148
+    ]
+  },
+  {
+    "id": "2958",
+    "address": "1068 San Andreas Avenue - Floor 6, Room 10",
+    "price": 70000,
+    "coords": [
+      1.0,
+      337.148
+    ]
+  },
+  {
+    "id": "2989",
+    "address": "100 Alta Street - Floor 1, Room 11",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -34.9016
+    ]
+  },
+  {
+    "id": "2991",
+    "address": "100 Alta Street - Floor 1, Room 13",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -34.9016
+    ]
+  },
+  {
+    "id": "2993",
+    "address": "100 Alta Street - Floor 1, Room 15",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -34.9016
+    ]
+  },
+  {
+    "id": "2994",
+    "address": "100 Alta Street - Floor 1, Room 16",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -34.9016
+    ]
+  },
+  {
+    "id": "3001",
+    "address": "100 Alta Street - Floor 1, Room 23",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -34.9016
+    ]
+  },
+  {
+    "id": "3002",
+    "address": "100 Alta Street - Floor 1, Room 24",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -34.9016
+    ]
+  },
+  {
+    "id": "3005",
+    "address": "100 Alta Street - Floor 2, Room 2",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -34.9016
+    ]
+  },
+  {
+    "id": "3007",
+    "address": "100 Alta Street - Floor 2, Room 4",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -34.9016
+    ]
+  },
+  {
+    "id": "3010",
+    "address": "100 Alta Street - Floor 2, Room 7",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -34.9016
+    ]
+  },
+  {
+    "id": "3011",
+    "address": "100 Alta Street - Floor 2, Room 8",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -34.9016
+    ]
+  },
+  {
+    "id": "3013",
+    "address": "100 Alta Street - Floor 2, Room 10",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -34.9016
+    ]
+  },
+  {
+    "id": "3016",
+    "address": "100 Alta Street - Floor 2, Room 13",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -34.9016
+    ]
+  },
+  {
+    "id": "3018",
+    "address": "100 Alta Street - Floor 2, Room 15",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -34.9016
+    ]
+  },
+  {
+    "id": "3019",
+    "address": "100 Alta Street - Floor 2, Room 16",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -34.9016
+    ]
+  },
+  {
+    "id": "3021",
+    "address": "100 Alta Street - Floor 2, Room 18",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -34.9016
+    ]
+  },
+  {
+    "id": "3023",
+    "address": "100 Alta Street - Floor 2, Room 20",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -34.9016
+    ]
+  },
+  {
+    "id": "3024",
+    "address": "100 Alta Street - Floor 2, Room 21",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -34.9016
+    ]
+  },
+  {
+    "id": "3026",
+    "address": "100 Alta Street - Floor 2, Room 23",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -34.9016
+    ]
+  },
+  {
+    "id": "3035",
+    "address": "100 Alta Street - Floor 3, Room 7",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -34.9016
+    ]
+  },
+  {
+    "id": "3054",
+    "address": "912 Las Lagunas Blvd - Floor 1, Room 1",
+    "price": 115000,
+    "coords": [
+      1.0,
+      5.88038
+    ]
+  },
+  {
+    "id": "3055",
+    "address": "912 Las Lagunas Blvd - Floor 1, Room 2",
+    "price": 115000,
+    "coords": [
+      1.0,
+      5.88038
+    ]
+  },
+  {
+    "id": "3057",
+    "address": "101 Occupation Avenue - Floor 1, Room 2",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3058",
+    "address": "101 Occupation Avenue - Floor 1, Room 3",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3059",
+    "address": "101 Occupation Avenue - Floor 1, Room 4",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3060",
+    "address": "101 Occupation Avenue - Floor 1, Room 5",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3061",
+    "address": "101 Occupation Avenue - Floor 1, Room 6",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3065",
+    "address": "101 Occupation Avenue - Floor 1, Room 10",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3067",
+    "address": "101 Occupation Avenue - Floor 1, Room 12",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3071",
+    "address": "101 Occupation Avenue - Floor 1, Room 16",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3072",
+    "address": "101 Occupation Avenue - Floor 1, Room 17",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3074",
+    "address": "101 Occupation Avenue - Floor 1, Room 19",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3076",
+    "address": "101 Occupation Avenue - Floor 1, Room 21",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3077",
+    "address": "101 Occupation Avenue - Floor 1, Room 22",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3078",
+    "address": "101 Occupation Avenue - Floor 1, Room 23",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3079",
+    "address": "101 Occupation Avenue - Floor 1, Room 24",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3080",
+    "address": "101 Occupation Avenue - Floor 1, Room 25",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3083",
+    "address": "101 Occupation Avenue - Floor 2, Room 3",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3085",
+    "address": "101 Occupation Avenue - Floor 2, Room 5",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3086",
+    "address": "101 Occupation Avenue - Floor 2, Room 6",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3087",
+    "address": "101 Occupation Avenue - Floor 2, Room 7",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3088",
+    "address": "101 Occupation Avenue - Floor 2, Room 8",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3089",
+    "address": "101 Occupation Avenue - Floor 2, Room 9",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3091",
+    "address": "101 Occupation Avenue - Floor 2, Room 11",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3092",
+    "address": "101 Occupation Avenue - Floor 2, Room 12",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3093",
+    "address": "101 Occupation Avenue - Floor 2, Room 13",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3094",
+    "address": "101 Occupation Avenue - Floor 2, Room 14",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3095",
+    "address": "101 Occupation Avenue - Floor 2, Room 15",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3096",
+    "address": "101 Occupation Avenue - Floor 2, Room 16",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3097",
+    "address": "101 Occupation Avenue - Floor 2, Room 17",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3098",
+    "address": "101 Occupation Avenue - Floor 2, Room 18",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3099",
+    "address": "101 Occupation Avenue - Floor 2, Room 19",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3103",
+    "address": "101 Occupation Avenue - Floor 2, Room 23",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3106",
+    "address": "101 Occupation Avenue - Floor 3, Room 1",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3107",
+    "address": "101 Occupation Avenue - Floor 3, Room 2",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3110",
+    "address": "101 Occupation Avenue - Floor 3, Room 5",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3111",
+    "address": "101 Occupation Avenue - Floor 3, Room 6",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3112",
+    "address": "101 Occupation Avenue - Floor 3, Room 7",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3113",
+    "address": "101 Occupation Avenue - Floor 3, Room 8",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3115",
+    "address": "101 Occupation Avenue - Floor 3, Room 10",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3116",
+    "address": "101 Occupation Avenue - Floor 3, Room 11",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3118",
+    "address": "101 Occupation Avenue - Floor 3, Room 13",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3120",
+    "address": "101 Occupation Avenue - Floor 3, Room 15",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3121",
+    "address": "101 Occupation Avenue - Floor 3, Room 16",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3123",
+    "address": "101 Occupation Avenue - Floor 3, Room 18",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3124",
+    "address": "101 Occupation Avenue - Floor 3, Room 19",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -83.0396
+    ]
+  },
+  {
+    "id": "3147",
+    "address": "102 Alta Street - Floor 1, Room 5",
+    "price": 100000,
+    "coords": [
+      1.0,
+      -32.3443
+    ]
+  },
+  {
+    "id": "3179",
+    "address": "101A Alta Place - Floor 1, Room 1",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -16.1868
+    ]
+  },
+  {
+    "id": "3180",
+    "address": "101A Alta Place - Floor 2, Room 1",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -16.1868
+    ]
+  },
+  {
+    "id": "3268",
+    "address": "311 Spanish Avenue - Floor 1, Room 2",
+    "price": 120000,
+    "coords": [
+      1.0,
+      -628.257
+    ]
+  },
+  {
+    "id": "3269",
+    "address": "311 Spanish Avenue - Floor 2, Room 1",
+    "price": 120000,
+    "coords": [
+      1.0,
+      -628.257
+    ]
+  },
+  {
+    "id": "3272",
+    "address": "311 Spanish Avenue - Floor 3, Room 2",
+    "price": 120000,
+    "coords": [
+      1.0,
+      -628.257
+    ]
+  },
+  {
+    "id": "3279",
+    "address": "309 Spanish Avenue - Floor 2, Room 1",
+    "price": 120000,
+    "coords": [
+      1.0,
+      -598.621
+    ]
+  },
+  {
+    "id": "3283",
+    "address": "309 Spanish Avenue - Floor 4, Room 1",
+    "price": 120000,
+    "coords": [
+      1.0,
+      -598.621
+    ]
+  },
+  {
+    "id": "3287",
+    "address": "307 Spanish Avenue - Floor 1, Room 1",
+    "price": 120000,
+    "coords": [
+      1.0,
+      -569.293
+    ]
+  },
+  {
+    "id": "3346",
+    "address": "300 Spanish Avenue - Floor 1, Room 2",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -511.547
+    ]
+  },
+  {
+    "id": "3347",
+    "address": "300 Spanish Avenue - Floor 1, Room 3",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -511.547
+    ]
+  },
+  {
+    "id": "3348",
+    "address": "300 Spanish Avenue - Floor 1, Room 4",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -511.547
+    ]
+  },
+  {
+    "id": "3349",
+    "address": "300 Spanish Avenue - Floor 1, Room 5",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -511.547
+    ]
+  },
+  {
+    "id": "3352",
+    "address": "300 Spanish Avenue - Floor 1, Room 8",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -511.547
+    ]
+  },
+  {
+    "id": "3353",
+    "address": "300 Spanish Avenue - Floor 2, Room 1",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -511.547
+    ]
+  },
+  {
+    "id": "3357",
+    "address": "300 Spanish Avenue - Floor 2, Room 5",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -511.547
+    ]
+  },
+  {
+    "id": "3369",
+    "address": "298 Spanish Avenue - Floor 1, Room 1",
+    "price": 120000,
+    "coords": [
+      1.0,
+      -456.416
+    ]
+  },
+  {
+    "id": "3371",
+    "address": "298 Spanish Avenue - Floor 2, Room 1",
+    "price": 120000,
+    "coords": [
+      1.0,
+      -456.416
+    ]
+  },
+  {
+    "id": "3372",
+    "address": "298 Spanish Avenue - Floor 2, Room 2",
+    "price": 120000,
+    "coords": [
+      1.0,
+      -456.416
+    ]
+  },
+  {
+    "id": "3373",
+    "address": "298 Spanish Avenue - Floor 3, Room 1",
+    "price": 120000,
+    "coords": [
+      1.0,
+      -456.416
+    ]
+  },
+  {
+    "id": "3479",
+    "address": "195 Spanish Avenue - Floor 1, Room 2",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -159.564
+    ]
+  },
+  {
+    "id": "3480",
+    "address": "195 Spanish Avenue - Floor 2, Room 1",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -159.564
+    ]
+  },
+  {
+    "id": "3490",
+    "address": "1112 Palomino Avenue - Floor 1, Room 1",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -1002.03
+    ]
+  },
+  {
+    "id": "3491",
+    "address": "1112 Palomino Avenue - Floor 1, Room 2",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -1002.03
+    ]
+  },
+  {
+    "id": "3492",
+    "address": "1112 Palomino Avenue - Floor 1, Room 3",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -1002.03
+    ]
+  },
+  {
+    "id": "3493",
+    "address": "1112 Palomino Avenue - Floor 1, Room 4",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -1002.03
+    ]
+  },
+  {
+    "id": "3498",
+    "address": "1112 Palomino Avenue - Floor 3, Room 1",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -1002.03
+    ]
+  },
+  {
+    "id": "3499",
+    "address": "1112 Palomino Avenue - Floor 3, Room 2",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -1002.03
+    ]
+  },
+  {
+    "id": "3504",
+    "address": "1110 Palomino Avenue - Floor 1, Room 2",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -1010.8
+    ]
+  },
+  {
+    "id": "3505",
+    "address": "1110 Palomino Avenue - Floor 1, Room 3",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -1010.8
+    ]
+  },
+  {
+    "id": "3506",
+    "address": "1110 Palomino Avenue - Floor 1, Room 4",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -1010.8
+    ]
+  },
+  {
+    "id": "3532",
+    "address": "1 Tug Street - Floor 1, Room 4",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -970.683
+    ]
+  },
+  {
+    "id": "3533",
+    "address": "1 Tug Street - Floor 1, Room 5",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -970.683
+    ]
+  },
+  {
+    "id": "3534",
+    "address": "1 Tug Street - Floor 1, Room 6",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -970.683
+    ]
+  },
+  {
+    "id": "3536",
+    "address": "1 Tug Street - Floor 1, Room 8",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -970.683
+    ]
+  },
+  {
+    "id": "3537",
+    "address": "1 Tug Street - Floor 2, Room 1",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -970.683
+    ]
+  },
+  {
+    "id": "3538",
+    "address": "1 Tug Street - Floor 2, Room 2",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -970.683
+    ]
+  },
+  {
+    "id": "3539",
+    "address": "1 Tug Street - Floor 2, Room 3",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -970.683
+    ]
+  },
+  {
+    "id": "3542",
+    "address": "1 Tug Street - Floor 2, Room 6",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -970.683
+    ]
+  },
+  {
+    "id": "3543",
+    "address": "1 Tug Street - Floor 2, Room 7",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -970.683
+    ]
+  },
+  {
+    "id": "3544",
+    "address": "1 Tug Street - Floor 2, Room 8",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -970.683
+    ]
+  },
+  {
+    "id": "3545",
+    "address": "1 Tug Street - Floor 3, Room 1",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -970.683
+    ]
+  },
+  {
+    "id": "3546",
+    "address": "1 Tug Street - Floor 3, Room 2",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -970.683
+    ]
+  },
+  {
+    "id": "3547",
+    "address": "1 Tug Street - Floor 3, Room 3",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -970.683
+    ]
+  },
+  {
+    "id": "3548",
+    "address": "1 Tug Street - Floor 3, Room 4",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -970.683
+    ]
+  },
+  {
+    "id": "3551",
+    "address": "1 Tug Street - Floor 3, Room 7",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -970.683
+    ]
+  },
+  {
+    "id": "3552",
+    "address": "1 Tug Street - Floor 3, Room 8",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -970.683
+    ]
+  },
+  {
+    "id": "3557",
+    "address": "2 Tug Street - Floor 1, Room 1",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -962.214
+    ]
+  },
+  {
+    "id": "3558",
+    "address": "2 Tug Street - Floor 1, Room 2",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -962.214
+    ]
+  },
+  {
+    "id": "3559",
+    "address": "2 Tug Street - Floor 1, Room 3",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -962.214
+    ]
+  },
+  {
+    "id": "3561",
+    "address": "2 Tug Street - Floor 1, Room 5",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -962.214
+    ]
+  },
+  {
+    "id": "3562",
+    "address": "2 Tug Street - Floor 1, Room 6",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -962.214
+    ]
+  },
+  {
+    "id": "3563",
+    "address": "2 Tug Street - Floor 1, Room 7",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -962.214
+    ]
+  },
+  {
+    "id": "3564",
+    "address": "2 Tug Street - Floor 1, Room 8",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -962.214
+    ]
+  },
+  {
+    "id": "3565",
+    "address": "2 Tug Street - Floor 2, Room 1",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -962.214
+    ]
+  },
+  {
+    "id": "3566",
+    "address": "2 Tug Street - Floor 2, Room 2",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -962.214
+    ]
+  },
+  {
+    "id": "3567",
+    "address": "2 Tug Street - Floor 2, Room 3",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -962.214
+    ]
+  },
+  {
+    "id": "3569",
+    "address": "2 Tug Street - Floor 2, Room 5",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -962.214
+    ]
+  },
+  {
+    "id": "3570",
+    "address": "2 Tug Street - Floor 2, Room 6",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -962.214
+    ]
+  },
+  {
+    "id": "3571",
+    "address": "2 Tug Street - Floor 2, Room 7",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -962.214
+    ]
+  },
+  {
+    "id": "3572",
+    "address": "2 Tug Street - Floor 2, Room 8",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -962.214
+    ]
+  },
+  {
+    "id": "3573",
+    "address": "2 Tug Street - Floor 3, Room 1",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -962.214
+    ]
+  },
+  {
+    "id": "3574",
+    "address": "2 Tug Street - Floor 3, Room 2",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -962.214
+    ]
+  },
+  {
+    "id": "3575",
+    "address": "2 Tug Street - Floor 3, Room 3",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -962.214
+    ]
+  },
+  {
+    "id": "3577",
+    "address": "2 Tug Street - Floor 3, Room 5",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -962.214
+    ]
+  },
+  {
+    "id": "3578",
+    "address": "2 Tug Street - Floor 3, Room 6",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -962.214
+    ]
+  },
+  {
+    "id": "3579",
+    "address": "2 Tug Street - Floor 3, Room 7",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -962.214
+    ]
+  },
+  {
+    "id": "3580",
+    "address": "2 Tug Street - Floor 3, Room 8",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -962.214
+    ]
+  },
+  {
+    "id": "3582",
+    "address": "3 Tug Street - Floor 1, Room 1",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -929.548
+    ]
+  },
+  {
+    "id": "3583",
+    "address": "3 Tug Street - Floor 1, Room 2",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -929.548
+    ]
+  },
+  {
+    "id": "3585",
+    "address": "3 Tug Street - Floor 1, Room 4",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -929.548
+    ]
+  },
+  {
+    "id": "3587",
+    "address": "3 Tug Street - Floor 1, Room 6",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -929.548
+    ]
+  },
+  {
+    "id": "3589",
+    "address": "3 Tug Street - Floor 1, Room 8",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -929.548
+    ]
+  },
+  {
+    "id": "3590",
+    "address": "3 Tug Street - Floor 2, Room 1",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -929.548
+    ]
+  },
+  {
+    "id": "3591",
+    "address": "3 Tug Street - Floor 2, Room 2",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -929.548
+    ]
+  },
+  {
+    "id": "3592",
+    "address": "3 Tug Street - Floor 2, Room 3",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -929.548
+    ]
+  },
+  {
+    "id": "3593",
+    "address": "3 Tug Street - Floor 2, Room 4",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -929.548
+    ]
+  },
+  {
+    "id": "3594",
+    "address": "3 Tug Street - Floor 2, Room 5",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -929.548
+    ]
+  },
+  {
+    "id": "3596",
+    "address": "3 Tug Street - Floor 2, Room 7",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -929.548
+    ]
+  },
+  {
+    "id": "3597",
+    "address": "3 Tug Street - Floor 2, Room 8",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -929.548
+    ]
+  },
+  {
+    "id": "3599",
+    "address": "3 Tug Street - Floor 3, Room 2",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -929.548
+    ]
+  },
+  {
+    "id": "3600",
+    "address": "3 Tug Street - Floor 3, Room 3",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -929.548
+    ]
+  },
+  {
+    "id": "3601",
+    "address": "3 Tug Street - Floor 3, Room 4",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -929.548
+    ]
+  },
+  {
+    "id": "3602",
+    "address": "3 Tug Street - Floor 3, Room 5",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -929.548
+    ]
+  },
+  {
+    "id": "3603",
+    "address": "3 Tug Street - Floor 3, Room 6",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -929.548
+    ]
+  },
+  {
+    "id": "3604",
+    "address": "3 Tug Street - Floor 3, Room 7",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -929.548
+    ]
+  },
+  {
+    "id": "3605",
+    "address": "3 Tug Street - Floor 3, Room 8",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -929.548
+    ]
+  },
+  {
+    "id": "3608",
+    "address": "4 Tug Street - Floor 1, Room 1",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -921.169
+    ]
+  },
+  {
+    "id": "3609",
+    "address": "4 Tug Street - Floor 1, Room 2",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -921.169
+    ]
+  },
+  {
+    "id": "3610",
+    "address": "4 Tug Street - Floor 1, Room 3",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -921.169
+    ]
+  },
+  {
+    "id": "3612",
+    "address": "4 Tug Street - Floor 1, Room 5",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -921.169
+    ]
+  },
+  {
+    "id": "3613",
+    "address": "4 Tug Street - Floor 1, Room 6",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -921.169
+    ]
+  },
+  {
+    "id": "3615",
+    "address": "4 Tug Street - Floor 1, Room 8",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -921.169
+    ]
+  },
+  {
+    "id": "3616",
+    "address": "4 Tug Street - Floor 2, Room 1",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -921.169
+    ]
+  },
+  {
+    "id": "3618",
+    "address": "4 Tug Street - Floor 2, Room 3",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -921.169
+    ]
+  },
+  {
+    "id": "3619",
+    "address": "4 Tug Street - Floor 2, Room 4",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -921.169
+    ]
+  },
+  {
+    "id": "3622",
+    "address": "4 Tug Street - Floor 2, Room 7",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -921.169
+    ]
+  },
+  {
+    "id": "3623",
+    "address": "4 Tug Street - Floor 2, Room 8",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -921.169
+    ]
+  },
+  {
+    "id": "3624",
+    "address": "4 Tug Street - Floor 3, Room 1",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -921.169
+    ]
+  },
+  {
+    "id": "3626",
+    "address": "4 Tug Street - Floor 3, Room 3",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -921.169
+    ]
+  },
+  {
+    "id": "3627",
+    "address": "4 Tug Street - Floor 3, Room 4",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -921.169
+    ]
+  },
+  {
+    "id": "3628",
+    "address": "4 Tug Street - Floor 3, Room 5",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -921.169
+    ]
+  },
+  {
+    "id": "3629",
+    "address": "4 Tug Street - Floor 3, Room 6",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -921.169
+    ]
+  },
+  {
+    "id": "3630",
+    "address": "4 Tug Street - Floor 3, Room 7",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -921.169
+    ]
+  },
+  {
+    "id": "3641",
+    "address": "2011 Bay City Avenue - Floor 2, Room 1",
+    "price": 100000,
+    "coords": [
+      1.0,
+      -1010.13
+    ]
+  },
+  {
+    "id": "3658",
+    "address": "2215 Bay City Avenue - Floor 2, Room 1",
+    "price": 100000,
+    "coords": [
+      1.0,
+      -991.765
+    ]
+  },
+  {
+    "id": "3659",
+    "address": "2215 Bay City Avenue - Floor 2, Room 2",
+    "price": 100000,
+    "coords": [
+      1.0,
+      -991.765
+    ]
+  },
+  {
+    "id": "3665",
+    "address": "1 Rub Street - Floor 1, Room 1",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -1218.54
+    ]
+  },
+  {
+    "id": "3668",
+    "address": "1 Rub Street - Floor 1, Room 4",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -1218.54
+    ]
+  },
+  {
+    "id": "3669",
+    "address": "1 Rub Street - Floor 1, Room 5",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -1218.54
+    ]
+  },
+  {
+    "id": "3671",
+    "address": "1 Rub Street - Floor 2, Room 1",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -1218.54
+    ]
+  },
+  {
+    "id": "3672",
+    "address": "1 Rub Street - Floor 2, Room 2",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -1218.54
+    ]
+  },
+  {
+    "id": "3673",
+    "address": "1 Rub Street - Floor 2, Room 3",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -1218.54
+    ]
+  },
+  {
+    "id": "3674",
+    "address": "1 Rub Street - Floor 2, Room 4",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -1218.54
+    ]
+  },
+  {
+    "id": "3675",
+    "address": "1 Rub Street - Floor 2, Room 5",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -1218.54
+    ]
+  },
+  {
+    "id": "3676",
+    "address": "1 Rub Street - Floor 2, Room 6",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -1218.54
+    ]
+  },
+  {
+    "id": "3677",
+    "address": "1 Rub Street - Floor 3, Room 1",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -1218.54
+    ]
+  },
+  {
+    "id": "3678",
+    "address": "1 Rub Street - Floor 3, Room 2",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -1218.54
+    ]
+  },
+  {
+    "id": "3679",
+    "address": "1 Rub Street - Floor 3, Room 3",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -1218.54
+    ]
+  },
+  {
+    "id": "3680",
+    "address": "1 Rub Street - Floor 3, Room 4",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -1218.54
+    ]
+  },
+  {
+    "id": "3684",
+    "address": "2 Rub Street - Floor 1, Room 1",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -1218.59
+    ]
+  },
+  {
+    "id": "3685",
+    "address": "2 Rub Street - Floor 1, Room 2",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -1218.59
+    ]
+  },
+  {
+    "id": "3686",
+    "address": "2 Rub Street - Floor 1, Room 3",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -1218.59
+    ]
+  },
+  {
+    "id": "3687",
+    "address": "2 Rub Street - Floor 1, Room 4",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -1218.59
+    ]
+  },
+  {
+    "id": "3691",
+    "address": "2 Rub Street - Floor 2, Room 2",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -1218.59
+    ]
+  },
+  {
+    "id": "3693",
+    "address": "2 Rub Street - Floor 2, Room 4",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -1218.59
+    ]
+  },
+  {
+    "id": "3694",
+    "address": "2 Rub Street - Floor 2, Room 5",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -1218.59
+    ]
+  },
+  {
+    "id": "3695",
+    "address": "2 Rub Street - Floor 2, Room 6",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -1218.59
+    ]
+  },
+  {
+    "id": "3697",
+    "address": "2 Rub Street - Floor 3, Room 2",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -1218.59
+    ]
+  },
+  {
+    "id": "3699",
+    "address": "2 Rub Street - Floor 3, Room 4",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -1218.59
+    ]
+  },
+  {
+    "id": "3700",
+    "address": "2 Rub Street - Floor 3, Room 5",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -1218.59
+    ]
+  },
+  {
+    "id": "3701",
+    "address": "2 Rub Street - Floor 3, Room 6",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -1218.59
+    ]
+  },
+  {
+    "id": "3704",
+    "address": "4 Rub Street - Floor 1, Room 3",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -932.609
+    ]
+  },
+  {
+    "id": "3708",
+    "address": "4 Rub Street - Floor 2, Room 1",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -932.609
+    ]
+  },
+  {
+    "id": "3709",
+    "address": "4 Rub Street - Floor 2, Room 2",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -932.609
+    ]
+  },
+  {
+    "id": "3711",
+    "address": "4 Rub Street - Floor 2, Room 4",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -932.609
+    ]
+  },
+  {
+    "id": "3712",
+    "address": "4 Rub Street - Floor 2, Room 5",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -932.609
+    ]
+  },
+  {
+    "id": "3714",
+    "address": "4 Rub Street - Floor 3, Room 1",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -932.609
+    ]
+  },
+  {
+    "id": "3715",
+    "address": "4 Rub Street - Floor 3, Room 2",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -932.609
+    ]
+  },
+  {
+    "id": "3717",
+    "address": "4 Rub Street - Floor 3, Room 4",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -932.609
+    ]
+  },
+  {
+    "id": "3720",
+    "address": "3 Rub Street - Floor 1, Room 1",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -1218.36
+    ]
+  },
+  {
+    "id": "3723",
+    "address": "3 Rub Street - Floor 1, Room 4",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -1218.36
+    ]
+  },
+  {
+    "id": "3724",
+    "address": "3 Rub Street - Floor 1, Room 5",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -1218.36
+    ]
+  },
+  {
+    "id": "3725",
+    "address": "3 Rub Street - Floor 1, Room 6",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -1218.36
+    ]
+  },
+  {
+    "id": "3727",
+    "address": "3 Rub Street - Floor 2, Room 2",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -1218.36
+    ]
+  },
+  {
+    "id": "3728",
+    "address": "3 Rub Street - Floor 2, Room 3",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -1218.36
+    ]
+  },
+  {
+    "id": "3729",
+    "address": "3 Rub Street - Floor 2, Room 4",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -1218.36
+    ]
+  },
+  {
+    "id": "3732",
+    "address": "3 Rub Street - Floor 3, Room 1",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -1218.36
+    ]
+  },
+  {
+    "id": "3734",
+    "address": "3 Rub Street - Floor 3, Room 3",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -1218.36
+    ]
+  },
+  {
+    "id": "3735",
+    "address": "3 Rub Street - Floor 3, Room 4",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -1218.36
+    ]
+  },
+  {
+    "id": "3736",
+    "address": "3 Rub Street - Floor 3, Room 5",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -1218.36
+    ]
+  },
+  {
+    "id": "3776",
+    "address": "Sunshine Apartments - Floor 1, Room 1",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -724.145
+    ]
+  },
+  {
+    "id": "3781",
+    "address": "Sunshine Apartments - Floor 1, Room 6",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -724.145
+    ]
+  },
+  {
+    "id": "3782",
+    "address": "Sunshine Apartments - Floor 1, Room 7",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -724.145
+    ]
+  },
+  {
+    "id": "3783",
+    "address": "Sunshine Apartments - Floor 1, Room 8",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -724.145
+    ]
+  },
+  {
+    "id": "3786",
+    "address": "Sunshine Apartments - Floor 2, Room 1",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -724.145
+    ]
+  },
+  {
+    "id": "3787",
+    "address": "Sunshine Apartments - Floor 2, Room 2",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -724.145
+    ]
+  },
+  {
+    "id": "3788",
+    "address": "Sunshine Apartments - Floor 2, Room 3",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -724.145
+    ]
+  },
+  {
+    "id": "3789",
+    "address": "Sunshine Apartments - Floor 2, Room 4",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -724.145
+    ]
+  },
+  {
+    "id": "3790",
+    "address": "Sunshine Apartments - Floor 2, Room 5",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -724.145
+    ]
+  },
+  {
+    "id": "3791",
+    "address": "Sunshine Apartments - Floor 2, Room 6",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -724.145
+    ]
+  },
+  {
+    "id": "3793",
+    "address": "Sunshine Apartments - Floor 2, Room 8",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -724.145
+    ]
+  },
+  {
+    "id": "3795",
+    "address": "Sunshine Apartments - Floor 2, Room 10",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -724.145
+    ]
+  },
+  {
+    "id": "3796",
+    "address": "Sunshine Apartments - Floor 3, Room 1",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -724.145
+    ]
+  },
+  {
+    "id": "3803",
+    "address": "Sunshine Apartments - Floor 3, Room 8",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -724.145
+    ]
+  },
+  {
+    "id": "3823",
+    "address": "Ginger Street - Floor 1, Room 3",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -775.066
+    ]
+  },
+  {
+    "id": "3826",
+    "address": "Ginger Street - Floor 1, Room 6",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -775.066
+    ]
+  },
+  {
+    "id": "3828",
+    "address": "Ginger Street - Floor 1, Room 8",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -775.066
+    ]
+  },
+  {
+    "id": "3829",
+    "address": "Ginger Street - Floor 1, Room 9",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -775.066
+    ]
+  },
+  {
+    "id": "3831",
+    "address": "Ginger Street - Floor 1, Room 11",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -775.066
+    ]
+  },
+  {
+    "id": "3832",
+    "address": "Ginger Street - Floor 1, Room 12",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -775.066
+    ]
+  },
+  {
+    "id": "3834",
+    "address": "Ginger Street - Floor 1, Room 14",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -775.066
+    ]
+  },
+  {
+    "id": "3836",
+    "address": "Ginger Street - Floor 2, Room 1",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -775.066
+    ]
+  },
+  {
+    "id": "3837",
+    "address": "Ginger Street - Floor 2, Room 2",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -775.066
+    ]
+  },
+  {
+    "id": "3838",
+    "address": "Ginger Street - Floor 2, Room 3",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -775.066
+    ]
+  },
+  {
+    "id": "3842",
+    "address": "Ginger Street - Floor 2, Room 7",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -775.066
+    ]
+  },
+  {
+    "id": "3844",
+    "address": "Ginger Street - Floor 2, Room 9",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -775.066
+    ]
+  },
+  {
+    "id": "3847",
+    "address": "Ginger Street - Floor 2, Room 12",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -775.066
+    ]
+  },
+  {
+    "id": "3854",
+    "address": "Ginger Street - Floor 3, Room 4",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -775.066
+    ]
+  },
+  {
+    "id": "3856",
+    "address": "Ginger Street - Floor 3, Room 6",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -775.066
+    ]
+  },
+  {
+    "id": "3868",
+    "address": "2240 Ocean Front Walk - Floor 1, Room 3",
+    "price": 120000,
+    "coords": [
+      1.0,
+      -1344.33
+    ]
+  },
+  {
+    "id": "3869",
+    "address": "2240 Ocean Front Walk - Floor 1, Room 4",
+    "price": 120000,
+    "coords": [
+      1.0,
+      -1344.33
+    ]
+  },
+  {
+    "id": "3888",
+    "address": "3402 Magellan Ave - Floor 1, Room 1",
+    "price": 250000,
+    "coords": [
+      1.0,
+      -1382.89
+    ]
+  },
+  {
+    "id": "3891",
+    "address": "3402 Magellan Ave - Floor 1, Room 4",
+    "price": 250000,
+    "coords": [
+      1.0,
+      -1382.89
+    ]
+  },
+  {
+    "id": "3892",
+    "address": "3402 Magellan Ave - Floor 1, Room 5",
+    "price": 250000,
+    "coords": [
+      1.0,
+      -1382.89
+    ]
+  },
+  {
+    "id": "3893",
+    "address": "3402 Magellan Ave - Floor 1, Room 6",
+    "price": 250000,
+    "coords": [
+      1.0,
+      -1382.89
+    ]
+  },
+  {
+    "id": "3894",
+    "address": "3402 Magellan Ave - Floor 1, Room 7",
+    "price": 250000,
+    "coords": [
+      1.0,
+      -1382.89
+    ]
+  },
+  {
+    "id": "3895",
+    "address": "3402 Magellan Ave - Floor 1, Room 8",
+    "price": 250000,
+    "coords": [
+      1.0,
+      -1382.89
+    ]
+  },
+  {
+    "id": "3896",
+    "address": "3402 Magellan Ave - Floor 1, Room 9",
+    "price": 250000,
+    "coords": [
+      1.0,
+      -1382.89
+    ]
+  },
+  {
+    "id": "3897",
+    "address": "3402 Magellan Ave - Floor 1, Room 10",
+    "price": 250000,
+    "coords": [
+      1.0,
+      -1382.89
+    ]
+  },
+  {
+    "id": "3899",
+    "address": "3402 Magellan Ave - Floor 2, Room 2",
+    "price": 250000,
+    "coords": [
+      1.0,
+      -1382.89
+    ]
+  },
+  {
+    "id": "3900",
+    "address": "3402 Magellan Ave - Floor 2, Room 3",
+    "price": 250000,
+    "coords": [
+      1.0,
+      -1382.89
+    ]
+  },
+  {
+    "id": "3902",
+    "address": "3402 Magellan Ave - Floor 2, Room 5",
+    "price": 250000,
+    "coords": [
+      1.0,
+      -1382.89
+    ]
+  },
+  {
+    "id": "3903",
+    "address": "3402 Magellan Ave - Floor 2, Room 6",
+    "price": 250000,
+    "coords": [
+      1.0,
+      -1382.89
+    ]
+  },
+  {
+    "id": "3905",
+    "address": "3402 Magellan Ave - Floor 2, Room 8",
+    "price": 250000,
+    "coords": [
+      1.0,
+      -1382.89
+    ]
+  },
+  {
+    "id": "3906",
+    "address": "3402 Magellan Ave - Floor 2, Room 9",
+    "price": 250000,
+    "coords": [
+      1.0,
+      -1382.89
+    ]
+  },
+  {
+    "id": "3911",
+    "address": "3402 Magellan Ave - Floor 3, Room 4",
+    "price": 250000,
+    "coords": [
+      1.0,
+      -1382.89
+    ]
+  },
+  {
+    "id": "3912",
+    "address": "3402 Magellan Ave - Floor 3, Room 5",
+    "price": 250000,
+    "coords": [
+      1.0,
+      -1382.89
+    ]
+  },
+  {
+    "id": "3914",
+    "address": "3402 Magellan Ave - Floor 3, Room 7",
+    "price": 250000,
+    "coords": [
+      1.0,
+      -1382.89
+    ]
+  },
+  {
+    "id": "3915",
+    "address": "3402 Magellan Ave - Floor 3, Room 8",
+    "price": 250000,
+    "coords": [
+      1.0,
+      -1382.89
+    ]
+  },
+  {
+    "id": "3916",
+    "address": "3402 Magellan Ave - Floor 3, Room 9",
+    "price": 250000,
+    "coords": [
+      1.0,
+      -1382.89
+    ]
+  },
+  {
+    "id": "3918",
+    "address": "3402 Magellan Ave - Floor 4, Room 1",
+    "price": 250000,
+    "coords": [
+      1.0,
+      -1382.89
+    ]
+  },
+  {
+    "id": "3919",
+    "address": "3402 Magellan Ave - Floor 4, Room 2",
+    "price": 250000,
+    "coords": [
+      1.0,
+      -1382.89
+    ]
+  },
+  {
+    "id": "3920",
+    "address": "3402 Magellan Ave - Floor 4, Room 3",
+    "price": 250000,
+    "coords": [
+      1.0,
+      -1382.89
+    ]
+  },
+  {
+    "id": "3921",
+    "address": "3402 Magellan Ave - Floor 4, Room 4",
+    "price": 250000,
+    "coords": [
+      1.0,
+      -1382.89
+    ]
+  },
+  {
+    "id": "3923",
+    "address": "3402 Magellan Ave - Floor 4, Room 6",
+    "price": 250000,
+    "coords": [
+      1.0,
+      -1382.89
+    ]
+  },
+  {
+    "id": "3924",
+    "address": "3402 Magellan Ave - Floor 4, Room 7",
+    "price": 250000,
+    "coords": [
+      1.0,
+      -1382.89
+    ]
+  },
+  {
+    "id": "3925",
+    "address": "3402 Magellan Ave - Floor 4, Room 8",
+    "price": 250000,
+    "coords": [
+      1.0,
+      -1382.89
+    ]
+  },
+  {
+    "id": "3926",
+    "address": "3402 Magellan Ave - Floor 4, Room 9",
+    "price": 250000,
+    "coords": [
+      1.0,
+      -1382.89
+    ]
+  },
+  {
+    "id": "3927",
+    "address": "3402 Magellan Ave - Floor 4, Room 10",
+    "price": 250000,
+    "coords": [
+      1.0,
+      -1382.89
+    ]
+  },
+  {
+    "id": "3931",
+    "address": "3402 Magellan Ave - Floor 5, Room 4",
+    "price": 250000,
+    "coords": [
+      1.0,
+      -1382.89
+    ]
+  },
+  {
+    "id": "3932",
+    "address": "3402 Magellan Ave - Floor 5, Room 5",
+    "price": 250000,
+    "coords": [
+      1.0,
+      -1382.89
+    ]
+  },
+  {
+    "id": "3933",
+    "address": "3402 Magellan Ave - Floor 5, Room 6",
+    "price": 250000,
+    "coords": [
+      1.0,
+      -1382.89
+    ]
+  },
+  {
+    "id": "3937",
+    "address": "3402 Magellan Ave - Floor 5, Room 10",
+    "price": 250000,
+    "coords": [
+      1.0,
+      -1382.89
+    ]
+  },
+  {
+    "id": "3940",
+    "address": "1243 Vespucci Blvd - Floor 1, Room 3",
+    "price": 120000,
+    "coords": [
+      1.0,
+      -831.46
+    ]
+  },
+  {
+    "id": "3941",
+    "address": "1243 Vespucci Blvd - Floor 1, Room 4",
+    "price": 120000,
+    "coords": [
+      1.0,
+      -831.46
+    ]
+  },
+  {
+    "id": "3942",
+    "address": "1243 Vespucci Blvd - Floor 1, Room 5",
+    "price": 120000,
+    "coords": [
+      1.0,
+      -831.46
+    ]
+  },
+  {
+    "id": "3943",
+    "address": "1243 Vespucci Blvd - Floor 1, Room 6",
+    "price": 120000,
+    "coords": [
+      1.0,
+      -831.46
+    ]
+  },
+  {
+    "id": "3945",
+    "address": "1243 Vespucci Blvd - Floor 1, Room 8",
+    "price": 120000,
+    "coords": [
+      1.0,
+      -831.46
+    ]
+  },
+  {
+    "id": "3946",
+    "address": "1243 Vespucci Blvd - Floor 1, Room 9",
+    "price": 120000,
+    "coords": [
+      1.0,
+      -831.46
+    ]
+  },
+  {
+    "id": "3948",
+    "address": "1243 Vespucci Blvd - Floor 2, Room 1",
+    "price": 120000,
+    "coords": [
+      1.0,
+      -831.46
+    ]
+  },
+  {
+    "id": "3951",
+    "address": "1243 Vespucci Blvd - Floor 2, Room 4",
+    "price": 120000,
+    "coords": [
+      1.0,
+      -831.46
+    ]
+  },
+  {
+    "id": "3952",
+    "address": "1243 Vespucci Blvd - Floor 2, Room 5",
+    "price": 120000,
+    "coords": [
+      1.0,
+      -831.46
+    ]
+  },
+  {
+    "id": "3953",
+    "address": "1243 Vespucci Blvd - Floor 2, Room 6",
+    "price": 120000,
+    "coords": [
+      1.0,
+      -831.46
+    ]
+  },
+  {
+    "id": "3954",
+    "address": "1243 Vespucci Blvd - Floor 2, Room 7",
+    "price": 120000,
+    "coords": [
+      1.0,
+      -831.46
+    ]
+  },
+  {
+    "id": "3955",
+    "address": "1243 Vespucci Blvd - Floor 2, Room 8",
+    "price": 120000,
+    "coords": [
+      1.0,
+      -831.46
+    ]
+  },
+  {
+    "id": "3957",
+    "address": "1243 Vespucci Blvd - Floor 2, Room 10",
+    "price": 120000,
+    "coords": [
+      1.0,
+      -831.46
+    ]
+  },
+  {
+    "id": "3958",
+    "address": "1243 Vespucci Blvd - Floor 3, Room 1",
+    "price": 120000,
+    "coords": [
+      1.0,
+      -831.46
+    ]
+  },
+  {
+    "id": "3960",
+    "address": "1243 Vespucci Blvd - Floor 3, Room 3",
+    "price": 120000,
+    "coords": [
+      1.0,
+      -831.46
+    ]
+  },
+  {
+    "id": "3961",
+    "address": "1243 Vespucci Blvd - Floor 3, Room 4",
+    "price": 120000,
+    "coords": [
+      1.0,
+      -831.46
+    ]
+  },
+  {
+    "id": "3962",
+    "address": "1243 Vespucci Blvd - Floor 3, Room 5",
+    "price": 120000,
+    "coords": [
+      1.0,
+      -831.46
+    ]
+  },
+  {
+    "id": "3966",
+    "address": "1243 Vespucci Blvd - Floor 3, Room 9",
+    "price": 120000,
+    "coords": [
+      1.0,
+      -831.46
+    ]
+  },
+  {
+    "id": "3992",
+    "address": "3 Lindsay Circus - Floor 1, Room 5",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -768.491
+    ]
+  },
+  {
+    "id": "3994",
+    "address": "3 Lindsay Circus - Floor 1, Room 7",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -768.491
+    ]
+  },
+  {
+    "id": "3995",
+    "address": "3 Lindsay Circus - Floor 1, Room 8",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -768.491
+    ]
+  },
+  {
+    "id": "3996",
+    "address": "3 Lindsay Circus - Floor 1, Room 9",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -768.491
+    ]
+  },
+  {
+    "id": "3997",
+    "address": "3 Lindsay Circus - Floor 1, Room 10",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -768.491
+    ]
+  },
+  {
+    "id": "4000",
+    "address": "3 Lindsay Circus - Floor 2, Room 3",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -768.491
+    ]
+  },
+  {
+    "id": "4002",
+    "address": "3 Lindsay Circus - Floor 2, Room 5",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -768.491
+    ]
+  },
+  {
+    "id": "4003",
+    "address": "3 Lindsay Circus - Floor 2, Room 6",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -768.491
+    ]
+  },
+  {
+    "id": "4005",
+    "address": "3 Lindsay Circus - Floor 2, Room 8",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -768.491
+    ]
+  },
+  {
+    "id": "4006",
+    "address": "3 Lindsay Circus - Floor 2, Room 9",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -768.491
+    ]
+  },
+  {
+    "id": "4007",
+    "address": "3 Lindsay Circus - Floor 2, Room 10",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -768.491
+    ]
+  },
+  {
+    "id": "4008",
+    "address": "3 Lindsay Circus - Floor 3, Room 1",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -768.491
+    ]
+  },
+  {
+    "id": "4010",
+    "address": "3 Lindsay Circus - Floor 3, Room 3",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -768.491
+    ]
+  },
+  {
+    "id": "4011",
+    "address": "3 Lindsay Circus - Floor 3, Room 4",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -768.491
+    ]
+  },
+  {
+    "id": "4013",
+    "address": "3 Lindsay Circus - Floor 3, Room 6",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -768.491
+    ]
+  },
+  {
+    "id": "4014",
+    "address": "3 Lindsay Circus - Floor 3, Room 7",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -768.491
+    ]
+  },
+  {
+    "id": "4015",
+    "address": "3 Lindsay Circus - Floor 3, Room 8",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -768.491
+    ]
+  },
+  {
+    "id": "4016",
+    "address": "3 Lindsay Circus - Floor 3, Room 9",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -768.491
+    ]
+  },
+  {
+    "id": "4019",
+    "address": "3 Lindsay Circus - Floor 4, Room 2",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -768.491
+    ]
+  },
+  {
+    "id": "4021",
+    "address": "3 Lindsay Circus - Floor 4, Room 4",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -768.491
+    ]
+  },
+  {
+    "id": "4023",
+    "address": "3 Lindsay Circus - Floor 4, Room 6",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -768.491
+    ]
+  },
+  {
+    "id": "4024",
+    "address": "3 Lindsay Circus - Floor 4, Room 7",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -768.491
+    ]
+  },
+  {
+    "id": "4026",
+    "address": "3 Lindsay Circus - Floor 4, Room 9",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -768.491
+    ]
+  },
+  {
+    "id": "4027",
+    "address": "3 Lindsay Circus - Floor 4, Room 10",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -768.491
+    ]
+  },
+  {
+    "id": "4028",
+    "address": "48A Sandcastle Way - Floor 1, Room 1",
+    "price": 95000,
+    "coords": [
+      1.0,
+      -1363.38
+    ]
+  },
+  {
+    "id": "4029",
+    "address": "48A Sandcastle Way - Floor 1, Room 2",
+    "price": 95000,
+    "coords": [
+      1.0,
+      -1363.38
+    ]
+  },
+  {
+    "id": "4032",
+    "address": "48B Sandcastle Way - Floor 1, Room 2",
+    "price": 95000,
+    "coords": [
+      1.0,
+      -1353.51
+    ]
+  },
+  {
+    "id": "4039",
+    "address": "2266B Bay City Ave - Floor 1, Room 2",
+    "price": 95000,
+    "coords": [
+      1.0,
+      -1329.46
+    ]
+  },
+  {
+    "id": "4087",
+    "address": "1254 Palomino Avenue - Floor 2, Room 1",
+    "price": 100000,
+    "coords": [
+      1.0,
+      -699.138
+    ]
+  },
+  {
+    "id": "4089",
+    "address": "1252 Palomino Avenue - Floor 2, Room 1",
+    "price": 100000,
+    "coords": [
+      1.0,
+      -703.242
+    ]
+  },
+  {
+    "id": "4090",
+    "address": "1250 Palomino Avenue - Floor 1, Room 1",
+    "price": 100000,
+    "coords": [
+      1.0,
+      -711.611
+    ]
+  },
+  {
+    "id": "4091",
+    "address": "1250 Palomino Avenue - Floor 2, Room 1",
+    "price": 100000,
+    "coords": [
+      1.0,
+      -711.611
+    ]
+  },
+  {
+    "id": "4092",
+    "address": "1248 Palomino Avenue - Floor 1, Room 1",
+    "price": 100000,
+    "coords": [
+      1.0,
+      -706.113
+    ]
+  },
+  {
+    "id": "4095",
+    "address": "Dream Tower - Floor 1, Room 2",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4096",
+    "address": "Dream Tower - Floor 1, Room 3",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4097",
+    "address": "Dream Tower - Floor 1, Room 4",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4099",
+    "address": "Dream Tower - Floor 1, Room 6",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4100",
+    "address": "Dream Tower - Floor 1, Room 7",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4101",
+    "address": "Dream Tower - Floor 1, Room 8",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4102",
+    "address": "Dream Tower - Floor 1, Room 9",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4103",
+    "address": "Dream Tower - Floor 1, Room 10",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4104",
+    "address": "Dream Tower - Floor 1, Room 11",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4105",
+    "address": "Dream Tower - Floor 1, Room 12",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4106",
+    "address": "Dream Tower - Floor 1, Room 13",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4107",
+    "address": "Dream Tower - Floor 1, Room 14",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4108",
+    "address": "Dream Tower - Floor 2, Room 1",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4109",
+    "address": "Dream Tower - Floor 2, Room 2",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4111",
+    "address": "Dream Tower - Floor 2, Room 4",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4114",
+    "address": "Dream Tower - Floor 2, Room 7",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4115",
+    "address": "Dream Tower - Floor 2, Room 8",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4116",
+    "address": "Dream Tower - Floor 2, Room 9",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4117",
+    "address": "Dream Tower - Floor 2, Room 10",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4118",
+    "address": "Dream Tower - Floor 2, Room 11",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4119",
+    "address": "Dream Tower - Floor 2, Room 12",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4120",
+    "address": "Dream Tower - Floor 2, Room 13",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4121",
+    "address": "Dream Tower - Floor 2, Room 14",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4122",
+    "address": "Dream Tower - Floor 3, Room 1",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4123",
+    "address": "Dream Tower - Floor 3, Room 2",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4124",
+    "address": "Dream Tower - Floor 3, Room 3",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4125",
+    "address": "Dream Tower - Floor 3, Room 4",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4126",
+    "address": "Dream Tower - Floor 3, Room 5",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4127",
+    "address": "Dream Tower - Floor 3, Room 6",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4129",
+    "address": "Dream Tower - Floor 3, Room 8",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4130",
+    "address": "Dream Tower - Floor 3, Room 9",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4131",
+    "address": "Dream Tower - Floor 3, Room 10",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4132",
+    "address": "Dream Tower - Floor 3, Room 11",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4133",
+    "address": "Dream Tower - Floor 3, Room 12",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4134",
+    "address": "Dream Tower - Floor 3, Room 13",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4135",
+    "address": "Dream Tower - Floor 3, Room 14",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4137",
+    "address": "Dream Tower - Floor 4, Room 2",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4138",
+    "address": "Dream Tower - Floor 4, Room 3",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4139",
+    "address": "Dream Tower - Floor 4, Room 4",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4140",
+    "address": "Dream Tower - Floor 4, Room 5",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4141",
+    "address": "Dream Tower - Floor 4, Room 6",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4142",
+    "address": "Dream Tower - Floor 4, Room 7",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4143",
+    "address": "Dream Tower - Floor 4, Room 8",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4144",
+    "address": "Dream Tower - Floor 4, Room 9",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4145",
+    "address": "Dream Tower - Floor 4, Room 10",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4146",
+    "address": "Dream Tower - Floor 4, Room 11",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4147",
+    "address": "Dream Tower - Floor 4, Room 12",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4148",
+    "address": "Dream Tower - Floor 4, Room 13",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4149",
+    "address": "Dream Tower - Floor 4, Room 14",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4150",
+    "address": "Dream Tower - Floor 5, Room 1",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4152",
+    "address": "Dream Tower - Floor 5, Room 3",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4153",
+    "address": "Dream Tower - Floor 5, Room 4",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4154",
+    "address": "Dream Tower - Floor 5, Room 5",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4155",
+    "address": "Dream Tower - Floor 5, Room 6",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4156",
+    "address": "Dream Tower - Floor 5, Room 7",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4158",
+    "address": "Dream Tower - Floor 5, Room 9",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4159",
+    "address": "Dream Tower - Floor 5, Room 10",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4160",
+    "address": "Dream Tower - Floor 5, Room 11",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4161",
+    "address": "Dream Tower - Floor 5, Room 12",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4162",
+    "address": "Dream Tower - Floor 5, Room 13",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4163",
+    "address": "Dream Tower - Floor 5, Room 14",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4165",
+    "address": "Dream Tower - Floor 6, Room 2",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4166",
+    "address": "Dream Tower - Floor 6, Room 3",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4167",
+    "address": "Dream Tower - Floor 6, Room 4",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4168",
+    "address": "Dream Tower - Floor 6, Room 5",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4169",
+    "address": "Dream Tower - Floor 6, Room 6",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4170",
+    "address": "Dream Tower - Floor 6, Room 7",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4171",
+    "address": "Dream Tower - Floor 6, Room 8",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4172",
+    "address": "Dream Tower - Floor 6, Room 9",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4173",
+    "address": "Dream Tower - Floor 6, Room 10",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4174",
+    "address": "Dream Tower - Floor 6, Room 11",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4175",
+    "address": "Dream Tower - Floor 6, Room 12",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4176",
+    "address": "Dream Tower - Floor 6, Room 13",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4177",
+    "address": "Dream Tower - Floor 6, Room 14",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4179",
+    "address": "Dream Tower - Floor 7, Room 2",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4180",
+    "address": "Dream Tower - Floor 7, Room 3",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4181",
+    "address": "Dream Tower - Floor 7, Room 4",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4182",
+    "address": "Dream Tower - Floor 7, Room 5",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4183",
+    "address": "Dream Tower - Floor 7, Room 6",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4184",
+    "address": "Dream Tower - Floor 7, Room 7",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4185",
+    "address": "Dream Tower - Floor 7, Room 8",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4186",
+    "address": "Dream Tower - Floor 7, Room 9",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4187",
+    "address": "Dream Tower - Floor 7, Room 10",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4188",
+    "address": "Dream Tower - Floor 7, Room 11",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4189",
+    "address": "Dream Tower - Floor 7, Room 12",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4190",
+    "address": "Dream Tower - Floor 7, Room 13",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4191",
+    "address": "Dream Tower - Floor 7, Room 14",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4192",
+    "address": "Dream Tower - Floor 8, Room 1",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4193",
+    "address": "Dream Tower - Floor 8, Room 2",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4194",
+    "address": "Dream Tower - Floor 8, Room 3",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4196",
+    "address": "Dream Tower - Floor 8, Room 5",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4197",
+    "address": "Dream Tower - Floor 8, Room 6",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4199",
+    "address": "Dream Tower - Floor 8, Room 8",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4200",
+    "address": "Dream Tower - Floor 8, Room 9",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4201",
+    "address": "Dream Tower - Floor 8, Room 10",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4202",
+    "address": "Dream Tower - Floor 8, Room 11",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4203",
+    "address": "Dream Tower - Floor 8, Room 12",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4204",
+    "address": "Dream Tower - Floor 8, Room 13",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4205",
+    "address": "Dream Tower - Floor 8, Room 14",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4207",
+    "address": "Dream Tower - Floor 9, Room 2",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4209",
+    "address": "Dream Tower - Floor 9, Room 4",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4210",
+    "address": "Dream Tower - Floor 9, Room 5",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4211",
+    "address": "Dream Tower - Floor 9, Room 6",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4212",
+    "address": "Dream Tower - Floor 9, Room 7",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4214",
+    "address": "Dream Tower - Floor 9, Room 9",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4215",
+    "address": "Dream Tower - Floor 9, Room 10",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4217",
+    "address": "Dream Tower - Floor 9, Room 12",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4218",
+    "address": "Dream Tower - Floor 9, Room 13",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4219",
+    "address": "Dream Tower - Floor 9, Room 14",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4220",
+    "address": "Dream Tower - Floor 10, Room 1",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4221",
+    "address": "Dream Tower - Floor 10, Room 2",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4222",
+    "address": "Dream Tower - Floor 10, Room 3",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4223",
+    "address": "Dream Tower - Floor 10, Room 4",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4225",
+    "address": "Dream Tower - Floor 10, Room 6",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4226",
+    "address": "Dream Tower - Floor 10, Room 7",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4227",
+    "address": "Dream Tower - Floor 10, Room 8",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4229",
+    "address": "Dream Tower - Floor 10, Room 10",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4230",
+    "address": "Dream Tower - Floor 10, Room 11",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4232",
+    "address": "Dream Tower - Floor 10, Room 13",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4233",
+    "address": "Dream Tower - Floor 10, Room 14",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4234",
+    "address": "Dream Tower - Floor 11, Room 1",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4235",
+    "address": "Dream Tower - Floor 11, Room 2",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4236",
+    "address": "Dream Tower - Floor 11, Room 3",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4237",
+    "address": "Dream Tower - Floor 11, Room 4",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4238",
+    "address": "Dream Tower - Floor 11, Room 5",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4239",
+    "address": "Dream Tower - Floor 11, Room 6",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4240",
+    "address": "Dream Tower - Floor 11, Room 7",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4241",
+    "address": "Dream Tower - Floor 11, Room 8",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4242",
+    "address": "Dream Tower - Floor 11, Room 9",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4243",
+    "address": "Dream Tower - Floor 11, Room 10",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4244",
+    "address": "Dream Tower - Floor 11, Room 11",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4245",
+    "address": "Dream Tower - Floor 11, Room 12",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4246",
+    "address": "Dream Tower - Floor 11, Room 13",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4247",
+    "address": "Dream Tower - Floor 11, Room 14",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4249",
+    "address": "Dream Tower - Floor 12, Room 2",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4250",
+    "address": "Dream Tower - Floor 12, Room 3",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4252",
+    "address": "Dream Tower - Floor 12, Room 5",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4253",
+    "address": "Dream Tower - Floor 12, Room 6",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4254",
+    "address": "Dream Tower - Floor 12, Room 7",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4255",
+    "address": "Dream Tower - Floor 12, Room 8",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4256",
+    "address": "Dream Tower - Floor 12, Room 9",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4257",
+    "address": "Dream Tower - Floor 12, Room 10",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4258",
+    "address": "Dream Tower - Floor 12, Room 11",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4259",
+    "address": "Dream Tower - Floor 12, Room 12",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4267",
+    "address": "Dream Tower - Floor 13, Room 6",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4268",
+    "address": "Dream Tower - Floor 13, Room 7",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4269",
+    "address": "Dream Tower - Floor 13, Room 8",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4271",
+    "address": "Dream Tower - Floor 13, Room 10",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4272",
+    "address": "Dream Tower - Floor 13, Room 11",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4273",
+    "address": "Dream Tower - Floor 13, Room 12",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4274",
+    "address": "Dream Tower - Floor 13, Room 13",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4280",
+    "address": "Dream Tower - Floor 14, Room 5",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4287",
+    "address": "Dream Tower - Floor 14, Room 12",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4288",
+    "address": "Dream Tower - Floor 14, Room 13",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -773.277
+    ]
+  },
+  {
+    "id": "4304",
+    "address": "1312 Palomino Avenue Floor 1, Room 1",
+    "price": 240000,
+    "coords": [
+      1.0,
+      -603.939
+    ]
+  },
+  {
+    "id": "4312",
+    "address": "1314 Palomino Ave - Floor 2, Room 1",
+    "price": 240000,
+    "coords": [
+      1.0,
+      -588.82
+    ]
+  },
+  {
+    "id": "4315",
+    "address": "1316 Palomino Ave - Floor 1, Room 1",
+    "price": 240000,
+    "coords": [
+      1.0,
+      -588.63
+    ]
+  },
+  {
+    "id": "4316",
+    "address": "1316 Palomino Ave - Floor 2, Room 1",
+    "price": 240000,
+    "coords": [
+      1.0,
+      -588.63
+    ]
+  },
+  {
+    "id": "4317",
+    "address": "1316 Palomino Ave - Floor 3, Room 1",
+    "price": 240000,
+    "coords": [
+      1.0,
+      -588.63
+    ]
+  },
+  {
+    "id": "4320",
+    "address": "1318 Palomino Blvd - Floor 2, Room 1",
+    "price": 240000,
+    "coords": [
+      1.0,
+      -605.133
+    ]
+  },
+  {
+    "id": "4324",
+    "address": "1320 Palomino Avenue - Floor 1, Room 2",
+    "price": 150000,
+    "coords": [
+      1.0,
+      -584.22
+    ]
+  },
+  {
+    "id": "4328",
+    "address": "1320 Palomino Avenue - Floor 2, Room 3",
+    "price": 150000,
+    "coords": [
+      1.0,
+      -584.22
+    ]
+  },
+  {
+    "id": "4329",
+    "address": "1320 Palomino Avenue - Floor 3, Room 1",
+    "price": 150000,
+    "coords": [
+      1.0,
+      -584.22
+    ]
+  },
+  {
+    "id": "4333",
+    "address": "1320 Palomino Avenue - Floor 4, Room 2",
+    "price": 150000,
+    "coords": [
+      1.0,
+      -584.22
+    ]
+  },
+  {
+    "id": "4334",
+    "address": "1320 Palomino Avenue - Floor 4, Room 3",
+    "price": 150000,
+    "coords": [
+      1.0,
+      -584.22
+    ]
+  },
+  {
+    "id": "4335",
+    "address": "1322 Palomino Blvd - Floor 1, Room 1",
+    "price": 240000,
+    "coords": [
+      1.0,
+      -518.195
+    ]
+  },
+  {
+    "id": "4342",
+    "address": "1324 Palomino Blvd - Floor 4, Room 1",
+    "price": 240000,
+    "coords": [
+      1.0,
+      -546.823
+    ]
+  },
+  {
+    "id": "4343",
+    "address": "1326 Palomino Blvd - Floor 1, Room 1",
+    "price": 240000,
+    "coords": [
+      1.0,
+      -574.246
+    ]
+  },
+  {
+    "id": "4345",
+    "address": "1326 Palomino Blvd - Floor 3, Room 1",
+    "price": 240000,
+    "coords": [
+      1.0,
+      -574.246
+    ]
+  },
+  {
+    "id": "4346",
+    "address": "1326 Palomino Blvd - Floor 4, Room 1",
+    "price": 240000,
+    "coords": [
+      1.0,
+      -574.246
+    ]
+  },
+  {
+    "id": "4422",
+    "address": "Crystal Heights Room 10/1",
+    "price": 60000,
+    "coords": [
+      1.0,
+      -224.887
+    ]
+  },
+  {
+    "id": "4537",
+    "address": "Unit 585 - 604 Carson Avenue",
+    "price": 45000,
+    "coords": [
+      1.0,
+      357.88
+    ]
+  },
+  {
+    "id": "4985",
+    "address": "107 West Eclipse Blvd - Floor 1, Room 2",
+    "price": 130000,
+    "coords": [
+      1.0,
+      -1677.9
+    ]
+  },
+  {
+    "id": "4994",
+    "address": "108 West Eclipse Blvd - Floor 1, Room 3",
+    "price": 130000,
+    "coords": [
+      1.0,
+      -1697.33
+    ]
+  },
+  {
+    "id": "5116",
+    "address": "600 Cougar Ave - Floor 1, Room 2",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -1495.02
+    ]
+  },
+  {
+    "id": "5117",
+    "address": "600 Cougar Ave - Floor 1, Room 3",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -1495.02
+    ]
+  },
+  {
+    "id": "5118",
+    "address": "600 Cougar Ave - Floor 1, Room 4",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -1495.02
+    ]
+  },
+  {
+    "id": "5121",
+    "address": "600 Cougar Ave - Floor 1, Room 7",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -1495.02
+    ]
+  },
+  {
+    "id": "5122",
+    "address": "600 Cougar Ave - Floor 1, Room 8",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -1495.02
+    ]
+  },
+  {
+    "id": "5123",
+    "address": "600 Cougar Ave - Floor 1, Room 9",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -1495.02
+    ]
+  },
+  {
+    "id": "5128",
+    "address": "600 Cougar Ave - Floor 2, Room 4",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -1495.02
+    ]
+  },
+  {
+    "id": "5130",
+    "address": "600 Cougar Ave - Floor 2, Room 6",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -1495.02
+    ]
+  },
+  {
+    "id": "5131",
+    "address": "600 Cougar Ave - Floor 2, Room 7",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -1495.02
+    ]
+  },
+  {
+    "id": "5133",
+    "address": "600 Cougar Ave - Floor 2, Room 9",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -1495.02
+    ]
+  },
+  {
+    "id": "5138",
+    "address": "600 Cougar Ave - Floor 3, Room 4",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -1495.02
+    ]
+  },
+  {
+    "id": "5139",
+    "address": "600 Cougar Ave - Floor 3, Room 5",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -1495.02
+    ]
+  },
+  {
+    "id": "5141",
+    "address": "600 Cougar Ave - Floor 3, Room 7",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -1495.02
+    ]
+  },
+  {
+    "id": "5142",
+    "address": "600 Cougar Ave - Floor 3, Room 8",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -1495.02
+    ]
+  },
+  {
+    "id": "5143",
+    "address": "600 Cougar Ave - Floor 3, Room 9",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -1495.02
+    ]
+  },
+  {
+    "id": "5161",
+    "address": "700 Cougar Avenue - Floor 1, Room 1",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -1597.23
+    ]
+  },
+  {
+    "id": "5165",
+    "address": "700 Cougar Avenue - Floor 3, Room 1",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -1597.23
+    ]
+  },
+  {
+    "id": "5166",
+    "address": "700 Cougar Avenue - Floor 3, Room 2",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -1597.23
+    ]
+  },
+  {
+    "id": "5172",
+    "address": "701 Cougar Avenue - Floor 3, Room 2",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -1606.03
+    ]
+  },
+  {
+    "id": "5173",
+    "address": "704 Cougar Avenue - Floor 1, Room 1",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -1585.67
+    ]
+  },
+  {
+    "id": "5177",
+    "address": "704 Cougar Avenue - Floor 3, Room 1",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -1585.67
+    ]
+  },
+  {
+    "id": "5182",
+    "address": "1170 Cougar Ave - Floor 1, Room 4",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -1563.99
+    ]
+  },
+  {
+    "id": "5183",
+    "address": "1170 Cougar Ave - Floor 1, Room 5",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -1563.99
+    ]
+  },
+  {
+    "id": "5184",
+    "address": "1170 Cougar Ave - Floor 1, Room 6",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -1563.99
+    ]
+  },
+  {
+    "id": "5185",
+    "address": "1170 Cougar Ave - Floor 1, Room 7",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -1563.99
+    ]
+  },
+  {
+    "id": "5187",
+    "address": "1170 Cougar Ave - Floor 2, Room 1",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -1563.99
+    ]
+  },
+  {
+    "id": "5189",
+    "address": "1170 Cougar Ave - Floor 2, Room 3",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -1563.99
+    ]
+  },
+  {
+    "id": "5194",
+    "address": "1170 Cougar Ave - Floor 2, Room 8",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -1563.99
+    ]
+  },
+  {
+    "id": "5196",
+    "address": "1170 Cougar Ave - Floor 3, Room 2",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -1563.99
+    ]
+  },
+  {
+    "id": "5197",
+    "address": "1170 Cougar Ave - Floor 3, Room 3",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -1563.99
+    ]
+  },
+  {
+    "id": "5198",
+    "address": "1170 Cougar Ave - Floor 3, Room 4",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -1563.99
+    ]
+  },
+  {
+    "id": "5199",
+    "address": "1170 Cougar Ave - Floor 3, Room 5",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -1563.99
+    ]
+  },
+  {
+    "id": "5210",
+    "address": "1170 Cougar Ave - Floor 4, Room 8",
+    "price": 115000,
+    "coords": [
+      1.0,
+      -1563.99
+    ]
+  },
+  {
+    "id": "6209",
+    "address": "Vitus Street Complex Apartment 3",
+    "price": 100000,
+    "coords": [
+      1.0,
+      -1223.06
+    ]
+  },
+  {
+    "id": "6211",
+    "address": "Vitus Street Complex Apartment 5",
+    "price": 100000,
+    "coords": [
+      1.0,
+      -1208.48
+    ]
+  },
+  {
+    "id": "6220",
+    "address": "Vitus Street Complex Apartment 14",
+    "price": 100000,
+    "coords": [
+      1.0,
+      -1212.61
+    ]
+  },
+  {
+    "id": "6224",
+    "address": "Vitus Street Complex Apartment 18",
+    "price": 100000,
+    "coords": [
+      1.0,
+      -1213.65
+    ]
+  },
+  {
+    "id": "6226",
+    "address": "Vitus Street Complex Apartment 20",
+    "price": 100000,
+    "coords": [
+      1.0,
+      -1240.26
+    ]
+  },
+  {
+    "id": "6411",
+    "address": "1257 Palomino Avenue Apartment 106",
+    "price": 95000,
+    "coords": [
+      1.0,
+      -689.28
+    ]
+  },
+  {
+    "id": "6419",
+    "address": "1257 Palomino Avenue Apartment 302",
+    "price": 95000,
+    "coords": [
+      1.0,
+      -689.386
+    ]
+  },
+  {
+    "id": "6421",
+    "address": "1257 Palomino Avenue Apartment 304",
+    "price": 95000,
+    "coords": [
+      1.0,
+      -689.289
+    ]
+  },
+  {
+    "id": "6423",
+    "address": "1257 Palomino Avenue Apartment 306",
+    "price": 95000,
+    "coords": [
+      1.0,
+      -689.289
+    ]
+  },
+  {
+    "id": "6468",
+    "address": "6458 Power Street Apartment Complex - Apartment 10",
+    "price": 75000,
+    "coords": [
+      1.0,
+      -41.6703
+    ]
+  },
+  {
+    "id": "6498",
+    "address": "6478 Capital Boulevard - Apartment 5",
+    "price": 70000,
+    "coords": [
+      1.0,
+      315.482
+    ]
+  },
+  {
+    "id": "6501",
+    "address": "6478 Capital Boulevard - Apartment 8",
+    "price": 70000,
+    "coords": [
+      1.0,
+      316.94
+    ]
+  },
+  {
+    "id": "6518",
+    "address": "6478 Capital Boulevard - Apartment 25",
+    "price": 70000,
+    "coords": [
+      1.0,
+      313.579
+    ]
+  },
+  {
+    "id": "6522",
+    "address": "6478 Capital Boulevard - Apartment 29",
+    "price": 70000,
+    "coords": [
+      1.0,
+      315.419
+    ]
+  },
+  {
+    "id": "6661",
+    "address": "500 Cougar Avenue Apartment 104",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -1523.86
+    ]
+  },
+  {
+    "id": "6664",
+    "address": "500 Cougar Avenue Apartment 109",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -1510.21
+    ]
+  },
+  {
+    "id": "6674",
+    "address": "500 Cougar Avenue Apartment 107",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -1515.49
+    ]
+  },
+  {
+    "id": "6678",
+    "address": "500 Cougar Avenue Apartment 204",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -1523.88
+    ]
+  },
+  {
+    "id": "6679",
+    "address": "500 Cougar Avenue Apartment 206",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -1525.28
+    ]
+  },
+  {
+    "id": "6680",
+    "address": "500 Cougar Avenue Apartment 207",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -1515.57
+    ]
+  },
+  {
+    "id": "6690",
+    "address": "500 Cougar Avenue Apartment 304",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -1523.91
+    ]
+  },
+  {
+    "id": "6691",
+    "address": "500 Cougar Avenue Apartment 305",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -1523.68
+    ]
+  },
+  {
+    "id": "6699",
+    "address": "500 Cougar Avenue Apartment 208",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -1517.61
+    ]
+  },
+  {
+    "id": "6701",
+    "address": "500 Cougar Avenue Apartment 210",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -1532.39
+    ]
+  },
+  {
+    "id": "6702",
+    "address": "500 Cougar Avenue Apartment 303",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -1520.01
+    ]
+  },
+  {
+    "id": "6706",
+    "address": "500 Cougar Avenue Apartment 310",
+    "price": 105000,
+    "coords": [
+      1.0,
+      -1532.43
+    ]
+  },
+  {
+    "id": "6926",
+    "address": "1256 Palomino Avenue - Floor 1, Room 1",
+    "price": 95000,
+    "coords": [
+      1.0,
+      -664.829
+    ]
+  },
+  {
+    "id": "6930",
+    "address": "1256 Palomino Avenue - Floor 2, Room 1",
+    "price": 95000,
+    "coords": [
+      1.0,
+      -664.829
+    ]
+  },
+  {
+    "id": "6933",
+    "address": "1256 Palomino Avenue - Floor 2, Room 4",
+    "price": 95000,
+    "coords": [
+      1.0,
+      -664.829
+    ]
+  },
+  {
+    "id": "7157",
+    "address": "The Royale Apartment 2",
+    "price": 90000,
+    "coords": [
+      1.0,
+      -178.846
+    ]
+  },
+  {
+    "id": "7158",
+    "address": "The Royale Apartment 3",
+    "price": 90000,
+    "coords": [
+      1.0,
+      -178.787
+    ]
+  },
+  {
+    "id": "7163",
+    "address": "The Royale Apartment 8",
+    "price": 90000,
+    "coords": [
+      1.0,
+      -178.789
+    ]
+  },
+  {
+    "id": "7166",
+    "address": "The Royale Apartment 11",
+    "price": 90000,
+    "coords": [
+      1.0,
+      -178.795
+    ]
+  },
+  {
+    "id": "7168",
+    "address": "The Royale Apartment 13",
+    "price": 90000,
+    "coords": [
+      1.0,
+      -180.971
+    ]
+  },
+  {
+    "id": "7171",
+    "address": "The Royale Apartment 16",
+    "price": 90000,
+    "coords": [
+      1.0,
+      -180.918
+    ]
+  },
+  {
+    "id": "7173",
+    "address": "The Royale Apartment 18",
+    "price": 90000,
+    "coords": [
+      1.0,
+      -180.906
+    ]
+  },
+  {
+    "id": "7174",
+    "address": "The Royale Apartment 19",
+    "price": 90000,
+    "coords": [
+      1.0,
+      -180.987
+    ]
+  },
+  {
+    "id": "7176",
+    "address": "The Royale Apartment 21",
+    "price": 90000,
+    "coords": [
+      1.0,
+      -178.701
+    ]
+  },
+  {
+    "id": "7177",
+    "address": "The Royale Apartment 22",
+    "price": 90000,
+    "coords": [
+      1.0,
+      -180.904
+    ]
+  },
+  {
+    "id": "7183",
+    "address": "The Royale Apartment 28",
+    "price": 90000,
+    "coords": [
+      1.0,
+      -180.905
+    ]
+  },
+  {
+    "id": "7184",
+    "address": "The Royale Apartment 29",
+    "price": 90000,
+    "coords": [
+      1.0,
+      -178.806
+    ]
+  },
+  {
+    "id": "7335",
+    "address": "Meteor Complex South 101",
+    "price": 250000,
+    "coords": [
+      1.0,
+      413.007
+    ]
+  },
+  {
+    "id": "7336",
+    "address": "Meteor Complex South 102",
+    "price": 250000,
+    "coords": [
+      1.0,
+      415.419
+    ]
+  },
+  {
+    "id": "7337",
+    "address": "Meteor Complex South 103",
+    "price": 250000,
+    "coords": [
+      1.0,
+      408.881
+    ]
+  },
+  {
+    "id": "7338",
+    "address": "Meteor Complex South 104",
+    "price": 250000,
+    "coords": [
+      1.0,
+      410.575
+    ]
+  },
+  {
+    "id": "7339",
+    "address": "Meteor Complex South 105",
+    "price": 250000,
+    "coords": [
+      1.0,
+      407.13
+    ]
+  },
+  {
+    "id": "7340",
+    "address": "Meteor Complex South 106",
+    "price": 250000,
+    "coords": [
+      1.0,
+      410.92
+    ]
+  },
+  {
+    "id": "7341",
+    "address": "Meteor Complex South 107",
+    "price": 250000,
+    "coords": [
+      1.0,
+      416.951
+    ]
+  },
+  {
+    "id": "7342",
+    "address": "Meteor Complex South 108",
+    "price": 250000,
+    "coords": [
+      1.0,
+      420.78
+    ]
+  },
+  {
+    "id": "7343",
+    "address": "Meteor Complex South 109",
+    "price": 250000,
+    "coords": [
+      1.0,
+      426.736
+    ]
+  },
+  {
+    "id": "7344",
+    "address": "Meteor Complex South 110",
+    "price": 250000,
+    "coords": [
+      1.0,
+      435.945
+    ]
+  },
+  {
+    "id": "7345",
+    "address": "Meteor Complex South 111",
+    "price": 250000,
+    "coords": [
+      1.0,
+      438.311
+    ]
+  },
+  {
+    "id": "7346",
+    "address": "Meteor Complex North 101",
+    "price": 250000,
+    "coords": [
+      1.0,
+      438.207
+    ]
+  },
+  {
+    "id": "7347",
+    "address": "Meteor Complex North 102",
+    "price": 250000,
+    "coords": [
+      1.0,
+      435.924
+    ]
+  },
+  {
+    "id": "7348",
+    "address": "Meteor Complex North 103",
+    "price": 250000,
+    "coords": [
+      1.0,
+      426.707
+    ]
+  },
+  {
+    "id": "7349",
+    "address": "Meteor Complex North 104",
+    "price": 250000,
+    "coords": [
+      1.0,
+      420.706
+    ]
+  },
+  {
+    "id": "7350",
+    "address": "Meteor Complex North 105",
+    "price": 250000,
+    "coords": [
+      1.0,
+      416.973
+    ]
+  },
+  {
+    "id": "7351",
+    "address": "Meteor Complex North 106",
+    "price": 250000,
+    "coords": [
+      1.0,
+      410.842
+    ]
+  },
+  {
+    "id": "7352",
+    "address": "Meteor Complex North 107",
+    "price": 250000,
+    "coords": [
+      1.0,
+      407.627
+    ]
+  },
+  {
+    "id": "7353",
+    "address": "Meteor Complex North 108",
+    "price": 250000,
+    "coords": [
+      1.0,
+      410.655
+    ]
+  },
+  {
+    "id": "7354",
+    "address": "Meteor Complex North 109",
+    "price": 250000,
+    "coords": [
+      1.0,
+      408.836
+    ]
+  },
+  {
+    "id": "7355",
+    "address": "Meteor Complex North 110",
+    "price": 250000,
+    "coords": [
+      1.0,
+      415.384
+    ]
+  },
+  {
+    "id": "7356",
+    "address": "Meteor Complex North 111",
+    "price": 250000,
+    "coords": [
+      1.0,
+      413.104
+    ]
+  },
+  {
+    "id": "7357",
+    "address": "Meteor Complex South 201",
+    "price": 250000,
+    "coords": [
+      1.0,
+      412.742
+    ]
+  },
+  {
+    "id": "7358",
+    "address": "Meteor Complex South 202",
+    "price": 250000,
+    "coords": [
+      1.0,
+      415.449
+    ]
+  },
+  {
+    "id": "7359",
+    "address": "Meteor Complex South 203",
+    "price": 250000,
+    "coords": [
+      1.0,
+      408.84
+    ]
+  },
+  {
+    "id": "7360",
+    "address": "Meteor Complex South 204",
+    "price": 250000,
+    "coords": [
+      1.0,
+      410.819
+    ]
+  },
+  {
+    "id": "7361",
+    "address": "Meteor Complex South 205",
+    "price": 250000,
+    "coords": [
+      1.0,
+      407.162
+    ]
+  },
+  {
+    "id": "7362",
+    "address": "Meteor Complex South 206",
+    "price": 250000,
+    "coords": [
+      1.0,
+      410.876
+    ]
+  },
+  {
+    "id": "7364",
+    "address": "Meteor Complex South 208",
+    "price": 250000,
+    "coords": [
+      1.0,
+      420.812
+    ]
+  },
+  {
+    "id": "7365",
+    "address": "Meteor Complex South 209",
+    "price": 250000,
+    "coords": [
+      1.0,
+      426.779
+    ]
+  },
+  {
+    "id": "7366",
+    "address": "Meteor Complex South 210",
+    "price": 250000,
+    "coords": [
+      1.0,
+      435.9
+    ]
+  },
+  {
+    "id": "7367",
+    "address": "Meteor Complex South 211",
+    "price": 250000,
+    "coords": [
+      1.0,
+      438.47
+    ]
+  },
+  {
+    "id": "7368",
+    "address": "Meteor Complex North 201",
+    "price": 250000,
+    "coords": [
+      1.0,
+      438.287
+    ]
+  },
+  {
+    "id": "7369",
+    "address": "Meteor Complex North 202",
+    "price": 250000,
+    "coords": [
+      1.0,
+      435.961
+    ]
+  },
+  {
+    "id": "7370",
+    "address": "Meteor Complex North 203",
+    "price": 250000,
+    "coords": [
+      1.0,
+      426.609
+    ]
+  },
+  {
+    "id": "7372",
+    "address": "Meteor Complex North 205",
+    "price": 250000,
+    "coords": [
+      1.0,
+      417.059
+    ]
+  },
+  {
+    "id": "7373",
+    "address": "Meteor Complex North 206",
+    "price": 250000,
+    "coords": [
+      1.0,
+      410.987
+    ]
+  },
+  {
+    "id": "7374",
+    "address": "Meteor Complex North 207",
+    "price": 250000,
+    "coords": [
+      1.0,
+      407.671
+    ]
+  },
+  {
+    "id": "7375",
+    "address": "Meteor Complex North 208",
+    "price": 250000,
+    "coords": [
+      1.0,
+      410.662
+    ]
+  },
+  {
+    "id": "7376",
+    "address": "Meteor Complex North 209",
+    "price": 250000,
+    "coords": [
+      1.0,
+      408.782
+    ]
+  },
+  {
+    "id": "7377",
+    "address": "Meteor Complex North 210",
+    "price": 250000,
+    "coords": [
+      1.0,
+      415.38
+    ]
+  },
+  {
+    "id": "7378",
+    "address": "Meteor Complex North 211",
+    "price": 250000,
+    "coords": [
+      1.0,
+      412.843
+    ]
+  },
+  {
+    "id": "7380",
+    "address": "Meteor Complex South 301",
+    "price": 250000,
+    "coords": [
+      1.0,
+      412.8
+    ]
+  },
+  {
+    "id": "7381",
+    "address": "Meteor Complex South 302",
+    "price": 250000,
+    "coords": [
+      1.0,
+      415.492
+    ]
+  },
+  {
+    "id": "7382",
+    "address": "Meteor Complex South 303",
+    "price": 250000,
+    "coords": [
+      1.0,
+      408.778
+    ]
+  },
+  {
+    "id": "7383",
+    "address": "Meteor Complex South 304",
+    "price": 250000,
+    "coords": [
+      1.0,
+      410.72
+    ]
+  },
+  {
+    "id": "7384",
+    "address": "Meteor Complex South 305",
+    "price": 250000,
+    "coords": [
+      1.0,
+      407.209
+    ]
+  },
+  {
+    "id": "7385",
+    "address": "Meteor Complex South 306",
+    "price": 250000,
+    "coords": [
+      1.0,
+      410.853
+    ]
+  },
+  {
+    "id": "7389",
+    "address": "Meteor Complex South 310",
+    "price": 250000,
+    "coords": [
+      1.0,
+      435.953
+    ]
+  },
+  {
+    "id": "7390",
+    "address": "Meteor Complex South 311",
+    "price": 250000,
+    "coords": [
+      1.0,
+      438.247
+    ]
+  },
+  {
+    "id": "7396",
+    "address": "Meteor Complex South 406",
+    "price": 250000,
+    "coords": [
+      1.0,
+      410.952
+    ]
+  },
+  {
+    "id": "7397",
+    "address": "Meteor Complex South 407",
+    "price": 250000,
+    "coords": [
+      1.0,
+      416.954
+    ]
+  },
+  {
+    "id": "7398",
+    "address": "Meteor Complex South 408",
+    "price": 250000,
+    "coords": [
+      1.0,
+      420.75
+    ]
+  },
+  {
+    "id": "7399",
+    "address": "Meteor Complex South 409",
+    "price": 250000,
+    "coords": [
+      1.0,
+      426.662
+    ]
+  },
+  {
+    "id": "7402",
+    "address": "Meteor Complex North 301",
+    "price": 250000,
+    "coords": [
+      1.0,
+      438.355
+    ]
+  },
+  {
+    "id": "7403",
+    "address": "Meteor Complex North 302",
+    "price": 250000,
+    "coords": [
+      1.0,
+      435.842
+    ]
+  },
+  {
+    "id": "7404",
+    "address": "Meteor Complex North 303",
+    "price": 250000,
+    "coords": [
+      1.0,
+      426.757
+    ]
+  },
+  {
+    "id": "7405",
+    "address": "Meteor Complex North 304",
+    "price": 250000,
+    "coords": [
+      1.0,
+      420.734
+    ]
+  },
+  {
+    "id": "7406",
+    "address": "Meteor Complex North 305",
+    "price": 250000,
+    "coords": [
+      1.0,
+      416.96
+    ]
+  },
+  {
+    "id": "7407",
+    "address": "Meteor Complex North 306",
+    "price": 250000,
+    "coords": [
+      1.0,
+      410.803
+    ]
+  },
+  {
+    "id": "7409",
+    "address": "Meteor Complex North 308",
+    "price": 250000,
+    "coords": [
+      1.0,
+      410.638
+    ]
+  },
+  {
+    "id": "7410",
+    "address": "Meteor Complex North 309",
+    "price": 250000,
+    "coords": [
+      1.0,
+      408.815
+    ]
+  },
+  {
+    "id": "7411",
+    "address": "Meteor Complex North 310",
+    "price": 250000,
+    "coords": [
+      1.0,
+      415.433
+    ]
+  },
+  {
+    "id": "7412",
+    "address": "Meteor Complex North 311",
+    "price": 250000,
+    "coords": [
+      1.0,
+      412.871
+    ]
+  },
+  {
+    "id": "7438",
+    "address": "Meteor Complex North 401",
+    "price": 250000,
+    "coords": [
+      1.0,
+      438.316
+    ]
+  },
+  {
+    "id": "7439",
+    "address": "Meteor Complex North 402",
+    "price": 250000,
+    "coords": [
+      1.0,
+      435.92
+    ]
+  },
+  {
+    "id": "7440",
+    "address": "Meteor Complex North 403",
+    "price": 250000,
+    "coords": [
+      1.0,
+      426.846
+    ]
+  },
+  {
+    "id": "7442",
+    "address": "Meteor Complex North 405",
+    "price": 250000,
+    "coords": [
+      1.0,
+      416.96
+    ]
+  },
+  {
+    "id": "7443",
+    "address": "Meteor Complex North 406",
+    "price": 250000,
+    "coords": [
+      1.0,
+      410.881
+    ]
+  },
+  {
+    "id": "7444",
+    "address": "Meteor Complex North 407",
+    "price": 250000,
+    "coords": [
+      1.0,
+      407.608
+    ]
+  },
+  {
+    "id": "7445",
+    "address": "Meteor Complex North 408",
+    "price": 250000,
+    "coords": [
+      1.0,
+      410.702
+    ]
+  },
+  {
+    "id": "7448",
+    "address": "Meteor Complex North 411",
+    "price": 250000,
+    "coords": [
+      1.0,
+      412.881
+    ]
+  },
+  {
+    "id": "7783",
+    "address": "106 Sinner St Complex - Room 10",
+    "price": 75000,
+    "coords": [
+      1.0,
+      367.133
+    ]
+  },
+  {
+    "id": "8407",
+    "address": "1002 Strawberry Avenue - Floor 1, Room 3",
+    "price": 70000,
+    "coords": [
+      1.0,
+      283.794
+    ]
+  },
+  {
+    "id": "8410",
+    "address": "1002 Strawberry Avenue - Floor 1, Room 6",
+    "price": 70000,
+    "coords": [
+      1.0,
+      289.102
+    ]
+  },
+  {
+    "id": "8428",
+    "address": "1002 Strawberry Avenue - Floor 4, Room 6",
+    "price": 70000,
+    "coords": [
+      1.0,
+      283.922
+    ]
+  },
+  {
+    "id": "8432",
+    "address": "1002 Strawberry Avenue - Floor 5, Room 4",
+    "price": 75000,
+    "coords": [
+      1.0,
+      290.125
+    ]
+  },
+  {
+    "id": "8858",
+    "address": "Unit 3 - 101 Charleston Street",
+    "price": 65000,
+    "coords": [
+      1.0,
+      33.3122
+    ]
+  },
+  {
+    "id": "8861",
+    "address": "Unit 6 - 101 Charleston Street",
+    "price": 65000,
+    "coords": [
+      1.0,
+      40.1515
+    ]
+  },
+  {
+    "id": "8864",
+    "address": "Unit 1 - 103 Charleston Street",
+    "price": 65000,
+    "coords": [
+      1.0,
+      59.9993
+    ]
+  },
+  {
+    "id": "8879",
+    "address": "Unit 4 - 105 Charleston Street",
+    "price": 65000,
+    "coords": [
+      1.0,
+      106.739
+    ]
+  },
+  {
+    "id": "8881",
+    "address": "Unit 6 - 105 Charleston Street",
+    "price": 65000,
+    "coords": [
+      1.0,
+      115.327
+    ]
+  },
+  {
+    "id": "8882",
+    "address": "Unit 7 - 105 Charleston Street",
+    "price": 65000,
+    "coords": [
+      1.0,
+      122.693
+    ]
+  },
+  {
+    "id": "8885",
+    "address": "Unit 10 - 105 Charleston Street",
+    "price": 65000,
+    "coords": [
+      1.0,
+      113.291
+    ]
+  },
+  {
+    "id": "8894",
+    "address": "Unit 4 - 107 Charleston Street",
+    "price": 65000,
+    "coords": [
+      1.0,
+      123.392
+    ]
+  },
+  {
+    "id": "8895",
+    "address": "Unit 5 - 107 Charleston Street",
+    "price": 65000,
+    "coords": [
+      1.0,
+      116.745
+    ]
+  },
+  {
+    "id": "8902",
+    "address": "Unit 4 - 102 Charleston Street",
+    "price": 65000,
+    "coords": [
+      1.0,
+      -3.57143
+    ]
+  },
+  {
+    "id": "8903",
+    "address": "Unit 5 - 102 Charleston Street",
+    "price": 65000,
+    "coords": [
+      1.0,
+      4.24803
+    ]
+  },
+  {
+    "id": "8908",
+    "address": "Unit 10 - 102 Charleston Street",
+    "price": 65000,
+    "coords": [
+      1.0,
+      3.12562
+    ]
+  },
+  {
+    "id": "8909",
+    "address": "Unit 11 - 102 Charleston Street",
+    "price": 65000,
+    "coords": [
+      1.0,
+      0.169717
+    ]
+  },
+  {
+    "id": "8910",
+    "address": "Unit 12 - 102 Charleston Street",
+    "price": 65000,
+    "coords": [
+      1.0,
+      -5.14218
+    ]
+  },
+  {
+    "id": "8914",
+    "address": "Unit 16 - 102 Charleston Street",
+    "price": 35000,
+    "coords": [
+      1.0,
+      -22.9711
+    ]
+  },
+  {
+    "id": "8918",
+    "address": "Unit 4 - 104 Charleston Street",
+    "price": 65000,
+    "coords": [
+      1.0,
+      48.7557
+    ]
+  },
+  {
+    "id": "8926",
+    "address": "Unit 12 - 104 Charleston Street",
+    "price": 65000,
+    "coords": [
+      1.0,
+      47.0806
+    ]
+  },
+  {
+    "id": "8929",
+    "address": "Unit 15 - 104 Charleston Street",
+    "price": 65000,
+    "coords": [
+      1.0,
+      35.5429
+    ]
+  },
+  {
+    "id": "9609",
+    "address": "Vespucci Hotel - Room 12",
+    "price": 60000,
+    "coords": [
+      1.0,
+      199.661
+    ]
+  },
+  {
+    "id": "100225",
+    "address": "1068 Meteor Street Apartments - Floor 1, Room 3",
+    "price": 125000,
+    "coords": [
+      1.0,
+      582.055
+    ]
+  },
+  {
+    "id": "100227",
+    "address": "1068 Meteor Street Apartments - Floor 1, Room 5",
+    "price": 125000,
+    "coords": [
+      1.0,
+      582.055
+    ]
+  },
+  {
+    "id": "100230",
+    "address": "1068 Meteor Street Apartments - Floor 1, Room 8",
+    "price": 125000,
+    "coords": [
+      1.0,
+      582.055
+    ]
+  },
+  {
+    "id": "100232",
+    "address": "1068 Meteor Street Apartments - Floor 2, Room 2",
+    "price": 125000,
+    "coords": [
+      1.0,
+      582.055
+    ]
+  },
+  {
+    "id": "100234",
+    "address": "1068 Meteor Street Apartments - Floor 2, Room 4",
+    "price": 125000,
+    "coords": [
+      1.0,
+      582.055
+    ]
+  },
+  {
+    "id": "100235",
+    "address": "1068 Meteor Street Apartments - Floor 2, Room 5",
+    "price": 125000,
+    "coords": [
+      1.0,
+      582.055
+    ]
+  },
+  {
+    "id": "100236",
+    "address": "1068 Meteor Street Apartments - Floor 2, Room 6",
+    "price": 125000,
+    "coords": [
+      1.0,
+      582.055
+    ]
+  },
+  {
+    "id": "100237",
+    "address": "1068 Meteor Street Apartments - Floor 2, Room 7",
+    "price": 125000,
+    "coords": [
+      1.0,
+      582.055
+    ]
+  },
+  {
+    "id": "100238",
+    "address": "1068 Meteor Street Apartments - Floor 2, Room 8",
+    "price": 125000,
+    "coords": [
+      1.0,
+      582.055
+    ]
+  },
+  {
+    "id": "100239",
+    "address": "1068 Meteor Street Apartments - Floor 3, Room 1",
+    "price": 125000,
+    "coords": [
+      1.0,
+      582.055
+    ]
+  },
+  {
+    "id": "100240",
+    "address": "1068 Meteor Street Apartments - Floor 3, Room 2",
+    "price": 125000,
+    "coords": [
+      1.0,
+      582.055
+    ]
+  },
+  {
+    "id": "100241",
+    "address": "1068 Meteor Street Apartments - Floor 3, Room 3",
+    "price": 125000,
+    "coords": [
+      1.0,
+      582.055
+    ]
+  },
+  {
+    "id": "100242",
+    "address": "1068 Meteor Street Apartments - Floor 3, Room 4",
+    "price": 125000,
+    "coords": [
+      1.0,
+      582.055
+    ]
+  },
+  {
+    "id": "100243",
+    "address": "1068 Meteor Street Apartments - Floor 3, Room 5",
+    "price": 125000,
+    "coords": [
+      1.0,
+      582.055
+    ]
+  },
+  {
+    "id": "100244",
+    "address": "1068 Meteor Street Apartments - Floor 3, Room 6",
+    "price": 125000,
+    "coords": [
+      1.0,
+      582.055
+    ]
+  },
+  {
+    "id": "100245",
+    "address": "1068 Meteor Street Apartments - Floor 3, Room 7",
+    "price": 125000,
+    "coords": [
+      1.0,
+      582.055
+    ]
+  },
+  {
+    "id": "100246",
+    "address": "1068 Meteor Street Apartments - Floor 3, Room 8",
+    "price": 125000,
+    "coords": [
+      1.0,
+      582.055
+    ]
+  },
+  {
+    "id": "100247",
+    "address": "1068 Meteor Street Apartments - Floor 4, Room 1",
+    "price": 125000,
+    "coords": [
+      1.0,
+      582.055
+    ]
+  },
+  {
+    "id": "100248",
+    "address": "1068 Meteor Street Apartments - Floor 4, Room 2",
+    "price": 125000,
+    "coords": [
+      1.0,
+      582.055
+    ]
+  },
+  {
+    "id": "100249",
+    "address": "1068 Meteor Street Apartments - Floor 4, Room 3",
+    "price": 125000,
+    "coords": [
+      1.0,
+      582.055
+    ]
+  },
+  {
+    "id": "100250",
+    "address": "1068 Meteor Street Apartments - Floor 4, Room 4",
+    "price": 125000,
+    "coords": [
+      1.0,
+      582.055
+    ]
+  },
+  {
+    "id": "100251",
+    "address": "1068 Meteor Street Apartments - Floor 4, Room 5",
+    "price": 125000,
+    "coords": [
+      1.0,
+      582.055
+    ]
+  },
+  {
+    "id": "100252",
+    "address": "1068 Meteor Street Apartments - Floor 4, Room 6",
+    "price": 125000,
+    "coords": [
+      1.0,
+      582.055
+    ]
+  },
+  {
+    "id": "100253",
+    "address": "1068 Meteor Street Apartments - Floor 4, Room 7",
+    "price": 125000,
+    "coords": [
+      1.0,
+      582.055
+    ]
+  },
+  {
+    "id": "100254",
+    "address": "1068 Meteor Street Apartments - Floor 4, Room 8",
+    "price": 125000,
+    "coords": [
+      1.0,
+      582.055
+    ]
+  },
+  {
+    "id": "100255",
+    "address": "1068 Meteor Street Apartments - Floor 5, Room 1",
+    "price": 125000,
+    "coords": [
+      1.0,
+      582.055
+    ]
+  },
+  {
+    "id": "100256",
+    "address": "1068 Meteor Street Apartments - Floor 5, Room 2",
+    "price": 125000,
+    "coords": [
+      1.0,
+      582.055
+    ]
+  },
+  {
+    "id": "100257",
+    "address": "1068 Meteor Street Apartments - Floor 5, Room 3",
+    "price": 125000,
+    "coords": [
+      1.0,
+      582.055
+    ]
+  },
+  {
+    "id": "100258",
+    "address": "1068 Meteor Street Apartments - Floor 5, Room 4",
+    "price": 125000,
+    "coords": [
+      1.0,
+      582.055
+    ]
+  },
+  {
+    "id": "100259",
+    "address": "1068 Meteor Street Apartments - Floor 5, Room 5",
+    "price": 125000,
+    "coords": [
+      1.0,
+      582.055
+    ]
+  },
+  {
+    "id": "100261",
+    "address": "1068 Meteor Street Apartments - Floor 5, Room 7",
+    "price": 125000,
+    "coords": [
+      1.0,
+      582.055
+    ]
+  },
+  {
+    "id": "100262",
+    "address": "1068 Meteor Street Apartments - Floor 5, Room 8",
+    "price": 125000,
+    "coords": [
+      1.0,
+      582.055
+    ]
+  },
+  {
+    "id": "100269",
+    "address": "1068 Meteor Street Apartments - Floor 6, Room 7",
+    "price": 125000,
+    "coords": [
+      1.0,
+      582.055
+    ]
+  },
+  {
+    "id": "100270",
+    "address": "1068 Meteor Street Apartments - Floor 6, Room 8",
+    "price": 125000,
+    "coords": [
+      1.0,
+      582.055
+    ]
+  },
+  {
+    "id": "100272",
+    "address": "1068 Meteor Street Apartments - Floor 7, Room 2",
+    "price": 125000,
+    "coords": [
+      1.0,
+      582.055
+    ]
+  },
+  {
+    "id": "100275",
+    "address": "1068 Meteor Street Apartments - Floor 7, Room 5",
+    "price": 125000,
+    "coords": [
+      1.0,
+      582.055
+    ]
+  },
+  {
+    "id": "100276",
+    "address": "1068 Meteor Street Apartments - Floor 7, Room 6",
+    "price": 125000,
+    "coords": [
+      1.0,
+      582.055
+    ]
+  },
+  {
+    "id": "100646",
+    "address": "The Emissary Apartment Complex - Floor 1, Room 2",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100650",
+    "address": "The Emissary Apartment Complex - Floor 1, Room 6",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100652",
+    "address": "The Emissary Apartment Complex - Floor 1, Room 8",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100653",
+    "address": "The Emissary Apartment Complex - Floor 1, Room 9",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100654",
+    "address": "The Emissary Apartment Complex - Floor 1, Room 10",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100655",
+    "address": "The Emissary Apartment Complex - Floor 1, Room 11",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100656",
+    "address": "The Emissary Apartment Complex - Floor 1, Room 12",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100657",
+    "address": "The Emissary Apartment Complex - Floor 1, Room 13",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100658",
+    "address": "The Emissary Apartment Complex - Floor 1, Room 14",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100660",
+    "address": "The Emissary Apartment Complex - Floor 1, Room 16",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100661",
+    "address": "The Emissary Apartment Complex - Floor 2, Room 1",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100662",
+    "address": "The Emissary Apartment Complex - Floor 2, Room 2",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100663",
+    "address": "The Emissary Apartment Complex - Floor 2, Room 3",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100665",
+    "address": "The Emissary Apartment Complex - Floor 2, Room 5",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100666",
+    "address": "The Emissary Apartment Complex - Floor 2, Room 6",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100667",
+    "address": "The Emissary Apartment Complex - Floor 2, Room 7",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100668",
+    "address": "The Emissary Apartment Complex - Floor 2, Room 8",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100669",
+    "address": "The Emissary Apartment Complex - Floor 2, Room 9",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100670",
+    "address": "The Emissary Apartment Complex - Floor 2, Room 10",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100671",
+    "address": "The Emissary Apartment Complex - Floor 2, Room 11",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100672",
+    "address": "The Emissary Apartment Complex - Floor 2, Room 12",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100673",
+    "address": "The Emissary Apartment Complex - Floor 2, Room 13",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100674",
+    "address": "The Emissary Apartment Complex - Floor 2, Room 14",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100675",
+    "address": "The Emissary Apartment Complex - Floor 2, Room 15",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100676",
+    "address": "The Emissary Apartment Complex - Floor 2, Room 16",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100677",
+    "address": "The Emissary Apartment Complex - Floor 3, Room 1",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100678",
+    "address": "The Emissary Apartment Complex - Floor 3, Room 2",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100679",
+    "address": "The Emissary Apartment Complex - Floor 3, Room 3",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100680",
+    "address": "The Emissary Apartment Complex - Floor 3, Room 4",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100681",
+    "address": "The Emissary Apartment Complex - Floor 3, Room 5",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100682",
+    "address": "The Emissary Apartment Complex - Floor 3, Room 6",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100683",
+    "address": "The Emissary Apartment Complex - Floor 3, Room 7",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100684",
+    "address": "The Emissary Apartment Complex - Floor 3, Room 8",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100685",
+    "address": "The Emissary Apartment Complex - Floor 3, Room 9",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100686",
+    "address": "The Emissary Apartment Complex - Floor 3, Room 10",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100687",
+    "address": "The Emissary Apartment Complex - Floor 3, Room 11",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100688",
+    "address": "The Emissary Apartment Complex - Floor 3, Room 12",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100689",
+    "address": "The Emissary Apartment Complex - Floor 3, Room 13",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100690",
+    "address": "The Emissary Apartment Complex - Floor 3, Room 14",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100691",
+    "address": "The Emissary Apartment Complex - Floor 3, Room 15",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100692",
+    "address": "The Emissary Apartment Complex - Floor 3, Room 16",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100693",
+    "address": "The Emissary Apartment Complex - Floor 4, Room 1",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100694",
+    "address": "The Emissary Apartment Complex - Floor 4, Room 2",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100695",
+    "address": "The Emissary Apartment Complex - Floor 4, Room 3",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100696",
+    "address": "The Emissary Apartment Complex - Floor 4, Room 4",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100697",
+    "address": "The Emissary Apartment Complex - Floor 4, Room 5",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100698",
+    "address": "The Emissary Apartment Complex - Floor 4, Room 6",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100699",
+    "address": "The Emissary Apartment Complex - Floor 4, Room 7",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100700",
+    "address": "The Emissary Apartment Complex - Floor 4, Room 8",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100701",
+    "address": "The Emissary Apartment Complex - Floor 4, Room 9",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100703",
+    "address": "The Emissary Apartment Complex - Floor 4, Room 11",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100704",
+    "address": "The Emissary Apartment Complex - Floor 4, Room 12",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100705",
+    "address": "The Emissary Apartment Complex - Floor 4, Room 13",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100706",
+    "address": "The Emissary Apartment Complex - Floor 4, Room 14",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100707",
+    "address": "The Emissary Apartment Complex - Floor 4, Room 15",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100708",
+    "address": "The Emissary Apartment Complex - Floor 4, Room 16",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100709",
+    "address": "The Emissary Apartment Complex - Floor 5, Room 1",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100710",
+    "address": "The Emissary Apartment Complex - Floor 5, Room 2",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100711",
+    "address": "The Emissary Apartment Complex - Floor 5, Room 3",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100712",
+    "address": "The Emissary Apartment Complex - Floor 5, Room 4",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100714",
+    "address": "The Emissary Apartment Complex - Floor 5, Room 6",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100715",
+    "address": "The Emissary Apartment Complex - Floor 5, Room 7",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100716",
+    "address": "The Emissary Apartment Complex - Floor 5, Room 8",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100718",
+    "address": "The Emissary Apartment Complex - Floor 5, Room 10",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100719",
+    "address": "The Emissary Apartment Complex - Floor 5, Room 11",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100720",
+    "address": "The Emissary Apartment Complex - Floor 5, Room 12",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100721",
+    "address": "The Emissary Apartment Complex - Floor 5, Room 13",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100722",
+    "address": "The Emissary Apartment Complex - Floor 5, Room 14",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100723",
+    "address": "The Emissary Apartment Complex - Floor 5, Room 15",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100724",
+    "address": "The Emissary Apartment Complex - Floor 5, Room 16",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100725",
+    "address": "The Emissary Apartment Complex - Floor 6, Room 1",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100726",
+    "address": "The Emissary Apartment Complex - Floor 6, Room 2",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100727",
+    "address": "The Emissary Apartment Complex - Floor 6, Room 3",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100728",
+    "address": "The Emissary Apartment Complex - Floor 6, Room 4",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100729",
+    "address": "The Emissary Apartment Complex - Floor 6, Room 5",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100730",
+    "address": "The Emissary Apartment Complex - Floor 6, Room 6",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100731",
+    "address": "The Emissary Apartment Complex - Floor 6, Room 7",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100732",
+    "address": "The Emissary Apartment Complex - Floor 6, Room 8",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100733",
+    "address": "The Emissary Apartment Complex - Floor 6, Room 9",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100734",
+    "address": "The Emissary Apartment Complex - Floor 6, Room 10",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100735",
+    "address": "The Emissary Apartment Complex - Floor 6, Room 11",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100736",
+    "address": "The Emissary Apartment Complex - Floor 6, Room 12",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100737",
+    "address": "The Emissary Apartment Complex - Floor 6, Room 13",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100738",
+    "address": "The Emissary Apartment Complex - Floor 6, Room 14",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100739",
+    "address": "The Emissary Apartment Complex - Floor 6, Room 15",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100740",
+    "address": "The Emissary Apartment Complex - Floor 6, Room 16",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100742",
+    "address": "The Emissary Apartment Complex - Floor 7, Room 2",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100743",
+    "address": "The Emissary Apartment Complex - Floor 7, Room 3",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100744",
+    "address": "The Emissary Apartment Complex - Floor 7, Room 4",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100745",
+    "address": "The Emissary Apartment Complex - Floor 7, Room 5",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100746",
+    "address": "The Emissary Apartment Complex - Floor 7, Room 6",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100747",
+    "address": "The Emissary Apartment Complex - Floor 7, Room 7",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100748",
+    "address": "The Emissary Apartment Complex - Floor 7, Room 8",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100750",
+    "address": "The Emissary Apartment Complex - Floor 7, Room 10",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100751",
+    "address": "The Emissary Apartment Complex - Floor 7, Room 11",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100754",
+    "address": "The Emissary Apartment Complex - Floor 7, Room 14",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100756",
+    "address": "The Emissary Apartment Complex - Floor 7, Room 16",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100758",
+    "address": "The Emissary Apartment Complex - Floor 8, Room 2",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100760",
+    "address": "The Emissary Apartment Complex - Floor 8, Room 4",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100761",
+    "address": "The Emissary Apartment Complex - Floor 8, Room 5",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100763",
+    "address": "The Emissary Apartment Complex - Floor 8, Room 7",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100764",
+    "address": "The Emissary Apartment Complex - Floor 8, Room 8",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100765",
+    "address": "The Emissary Apartment Complex - Floor 8, Room 9",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100766",
+    "address": "The Emissary Apartment Complex - Floor 8, Room 10",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100767",
+    "address": "The Emissary Apartment Complex - Floor 8, Room 11",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100768",
+    "address": "The Emissary Apartment Complex - Floor 8, Room 12",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100769",
+    "address": "The Emissary Apartment Complex - Floor 8, Room 13",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100771",
+    "address": "The Emissary Apartment Complex - Floor 8, Room 15",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100778",
+    "address": "The Emissary Apartment Complex - Floor 9, Room 6",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100798",
+    "address": "The Emissary Apartment Complex - Floor 10, Room 10",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100803",
+    "address": "The Emissary Apartment Complex - Floor 10, Room 15",
+    "price": 95000,
+    "coords": [
+      1.0,
+      82.3547
+    ]
+  },
+  {
+    "id": "100811",
+    "address": "Wisdahl Apartment Complex - Floor 1, Room 2",
+    "price": 75000,
+    "coords": [
+      1.0,
+      61.8781
+    ]
+  },
+  {
+    "id": "100813",
+    "address": "Wisdahl Apartment Complex - Floor 1, Room 4",
+    "price": 75000,
+    "coords": [
+      1.0,
+      61.8781
+    ]
+  },
+  {
+    "id": "100816",
+    "address": "Wisdahl Apartment Complex - Floor 1, Room 7",
+    "price": 75000,
+    "coords": [
+      1.0,
+      61.8781
+    ]
+  },
+  {
+    "id": "100818",
+    "address": "Wisdahl Apartment Complex - Floor 2, Room 1",
+    "price": 75000,
+    "coords": [
+      1.0,
+      61.8781
+    ]
+  },
+  {
+    "id": "100821",
+    "address": "Wisdahl Apartment Complex - Floor 2, Room 4",
+    "price": 75000,
+    "coords": [
+      1.0,
+      61.8781
+    ]
+  },
+  {
+    "id": "100823",
+    "address": "Wisdahl Apartment Complex - Floor 2, Room 6",
+    "price": 75000,
+    "coords": [
+      1.0,
+      61.8781
+    ]
+  },
+  {
+    "id": "100827",
+    "address": "Wisdahl Apartment Complex - Floor 3, Room 2",
+    "price": 75000,
+    "coords": [
+      1.0,
+      61.8781
+    ]
+  },
+  {
+    "id": "100828",
+    "address": "Wisdahl Apartment Complex - Floor 3, Room 3",
+    "price": 75000,
+    "coords": [
+      1.0,
+      61.8781
+    ]
+  },
+  {
+    "id": "100829",
+    "address": "Wisdahl Apartment Complex - Floor 3, Room 4",
+    "price": 75000,
+    "coords": [
+      1.0,
+      61.8781
+    ]
+  },
+  {
+    "id": "100830",
+    "address": "Wisdahl Apartment Complex - Floor 3, Room 5",
+    "price": 75000,
+    "coords": [
+      1.0,
+      61.8781
+    ]
+  },
+  {
+    "id": "100832",
+    "address": "Wisdahl Apartment Complex - Floor 3, Room 7",
+    "price": 75000,
+    "coords": [
+      1.0,
+      61.8781
+    ]
+  },
+  {
+    "id": "100833",
+    "address": "Wisdahl Apartment Complex - Floor 3, Room 8",
+    "price": 75000,
+    "coords": [
+      1.0,
+      61.8781
+    ]
+  },
+  {
+    "id": "100835",
+    "address": "Wisdahl Apartment Complex - Floor 4, Room 2",
+    "price": 75000,
+    "coords": [
+      1.0,
+      61.8781
+    ]
+  },
+  {
+    "id": "100836",
+    "address": "Wisdahl Apartment Complex - Floor 4, Room 3",
+    "price": 75000,
+    "coords": [
+      1.0,
+      61.8781
+    ]
+  },
+  {
+    "id": "100838",
+    "address": "Wisdahl Apartment Complex - Floor 4, Room 5",
+    "price": 75000,
+    "coords": [
+      1.0,
+      61.8781
+    ]
+  },
+  {
+    "id": "100839",
+    "address": "Wisdahl Apartment Complex - Floor 4, Room 6",
+    "price": 75000,
+    "coords": [
+      1.0,
+      61.8781
+    ]
+  },
+  {
+    "id": "100840",
+    "address": "Wisdahl Apartment Complex - Floor 4, Room 7",
+    "price": 75000,
+    "coords": [
+      1.0,
+      61.8781
+    ]
+  },
+  {
+    "id": "100843",
+    "address": "Wisdahl Apartment Complex - Floor 5, Room 2",
+    "price": 75000,
+    "coords": [
+      1.0,
+      61.8781
+    ]
+  },
+  {
+    "id": "100846",
+    "address": "Wisdahl Apartment Complex - Floor 5, Room 5",
+    "price": 75000,
+    "coords": [
+      1.0,
+      61.8781
+    ]
+  },
+  {
+    "id": "100848",
+    "address": "Wisdahl Apartment Complex - Floor 5, Room 7",
+    "price": 75000,
+    "coords": [
+      1.0,
+      61.8781
+    ]
+  },
+  {
+    "id": "100850",
+    "address": "Wisdahl Apartment Complex - Floor 6, Room 1",
+    "price": 75000,
+    "coords": [
+      1.0,
+      61.8781
+    ]
+  },
+  {
+    "id": "100851",
+    "address": "Wisdahl Apartment Complex - Floor 6, Room 2",
+    "price": 75000,
+    "coords": [
+      1.0,
+      61.8781
+    ]
+  },
+  {
+    "id": "100852",
+    "address": "Wisdahl Apartment Complex - Floor 6, Room 3",
+    "price": 75000,
+    "coords": [
+      1.0,
+      61.8781
+    ]
+  },
+  {
+    "id": "100853",
+    "address": "Wisdahl Apartment Complex - Floor 6, Room 4",
+    "price": 75000,
+    "coords": [
+      1.0,
+      61.8781
+    ]
+  },
+  {
+    "id": "100854",
+    "address": "Wisdahl Apartment Complex - Floor 6, Room 5",
+    "price": 75000,
+    "coords": [
+      1.0,
+      61.8781
+    ]
+  },
+  {
+    "id": "100857",
+    "address": "Wisdahl Apartment Complex - Floor 6, Room 8",
+    "price": 75000,
+    "coords": [
+      1.0,
+      61.8781
+    ]
+  },
+  {
+    "id": "100859",
+    "address": "Wisdahl Apartment Complex - Floor 7, Room 2",
+    "price": 75000,
+    "coords": [
+      1.0,
+      61.8781
+    ]
+  },
+  {
+    "id": "100862",
+    "address": "Wisdahl Apartment Complex - Floor 7, Room 5",
+    "price": 75000,
+    "coords": [
+      1.0,
+      61.8781
+    ]
+  },
+  {
+    "id": "100863",
+    "address": "Wisdahl Apartment Complex - Floor 7, Room 6",
+    "price": 75000,
+    "coords": [
+      1.0,
+      61.8781
+    ]
+  },
+  {
+    "id": "100865",
+    "address": "Wisdahl Apartment Complex - Floor 7, Room 8",
+    "price": 75000,
+    "coords": [
+      1.0,
+      61.8781
+    ]
+  },
+  {
+    "id": "100869",
+    "address": "Wisdahl Apartment Complex - Floor 8, Room 4",
+    "price": 75000,
+    "coords": [
+      1.0,
+      61.8781
+    ]
+  },
+  {
+    "id": "101452",
+    "address": "2115 Bay City Avenue - Floor 1, Room 2",
+    "price": 85000,
+    "coords": [
+      1.0,
+      -1070.32
+    ]
+  },
+  {
+    "id": "101472",
+    "address": "2238 Bay City Avenue - Apartment 4",
+    "price": 75000,
+    "coords": [
+      1.0,
+      -1245.7
+    ]
+  },
+  {
+    "id": "101782",
+    "address": "North Archer Avenue - Apartment Complex - Floor 1, Room 1",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101784",
+    "address": "North Archer Avenue - Apartment Complex - Floor 1, Room 3",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101785",
+    "address": "North Archer Avenue - Apartment Complex - Floor 1, Room 4",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101786",
+    "address": "North Archer Avenue - Apartment Complex - Floor 1, Room 5",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101788",
+    "address": "North Archer Avenue - Apartment Complex - Floor 1, Room 7",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101789",
+    "address": "North Archer Avenue - Apartment Complex - Floor 1, Room 8",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101792",
+    "address": "North Archer Avenue - Apartment Complex - Floor 2, Room 3",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101793",
+    "address": "North Archer Avenue - Apartment Complex - Floor 2, Room 4",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101796",
+    "address": "North Archer Avenue - Apartment Complex - Floor 2, Room 7",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101797",
+    "address": "North Archer Avenue - Apartment Complex - Floor 2, Room 8",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101798",
+    "address": "North Archer Avenue - Apartment Complex - Floor 3, Room 1",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101799",
+    "address": "North Archer Avenue - Apartment Complex - Floor 3, Room 2",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101800",
+    "address": "North Archer Avenue - Apartment Complex - Floor 3, Room 3",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101801",
+    "address": "North Archer Avenue - Apartment Complex - Floor 3, Room 4",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101802",
+    "address": "North Archer Avenue - Apartment Complex - Floor 3, Room 5",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101803",
+    "address": "North Archer Avenue - Apartment Complex - Floor 3, Room 6",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101804",
+    "address": "North Archer Avenue - Apartment Complex - Floor 3, Room 7",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101806",
+    "address": "North Archer Avenue - Apartment Complex - Floor 4, Room 1",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101807",
+    "address": "North Archer Avenue - Apartment Complex - Floor 4, Room 2",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101808",
+    "address": "North Archer Avenue - Apartment Complex - Floor 4, Room 3",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101812",
+    "address": "North Archer Avenue - Apartment Complex - Floor 4, Room 7",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101813",
+    "address": "North Archer Avenue - Apartment Complex - Floor 4, Room 8",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101814",
+    "address": "North Archer Avenue - Apartment Complex - Floor 5, Room 1",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101815",
+    "address": "North Archer Avenue - Apartment Complex - Floor 5, Room 2",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101816",
+    "address": "North Archer Avenue - Apartment Complex - Floor 5, Room 3",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101817",
+    "address": "North Archer Avenue - Apartment Complex - Floor 5, Room 4",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101819",
+    "address": "North Archer Avenue - Apartment Complex - Floor 5, Room 6",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101820",
+    "address": "North Archer Avenue - Apartment Complex - Floor 5, Room 7",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101821",
+    "address": "North Archer Avenue - Apartment Complex - Floor 5, Room 8",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101822",
+    "address": "North Archer Avenue - Apartment Complex - Floor 6, Room 1",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101824",
+    "address": "North Archer Avenue - Apartment Complex - Floor 6, Room 3",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101825",
+    "address": "North Archer Avenue - Apartment Complex - Floor 6, Room 4",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101826",
+    "address": "North Archer Avenue - Apartment Complex - Floor 6, Room 5",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101827",
+    "address": "North Archer Avenue - Apartment Complex - Floor 6, Room 6",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101828",
+    "address": "North Archer Avenue - Apartment Complex - Floor 6, Room 7",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101830",
+    "address": "North Archer Avenue - Apartment Complex - Floor 7, Room 1",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101831",
+    "address": "North Archer Avenue - Apartment Complex - Floor 7, Room 2",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101832",
+    "address": "North Archer Avenue - Apartment Complex - Floor 7, Room 3",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101833",
+    "address": "North Archer Avenue - Apartment Complex - Floor 7, Room 4",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101834",
+    "address": "North Archer Avenue - Apartment Complex - Floor 7, Room 5",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101840",
+    "address": "North Archer Avenue - Apartment Complex - Floor 8, Room 3",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "101842",
+    "address": "North Archer Avenue - Apartment Complex - Floor 8, Room 5",
+    "price": 110000,
+    "coords": [
+      1.0,
+      -68.312
+    ]
+  },
+  {
+    "id": "102320",
+    "address": "1000 Vinewood Blvd - Floor 2, Room 1",
+    "price": 125000,
+    "coords": [
+      1.0,
+      -974.092
+    ]
+  },
+  {
+    "id": "102321",
+    "address": "1000 Vinewood Blvd - Floor 2, Room 2",
+    "price": 125000,
+    "coords": [
+      1.0,
+      -974.092
+    ]
+  },
+  {
+    "id": "102322",
+    "address": "1000 Vinewood Blvd - Floor 2, Room 3",
+    "price": 125000,
+    "coords": [
+      1.0,
+      -974.092
+    ]
+  },
+  {
+    "id": "102323",
+    "address": "1000 Vinewood Blvd - Floor 2, Room 4",
+    "price": 125000,
+    "coords": [
+      1.0,
+      -974.092
+    ]
+  },
+  {
+    "id": "102324",
+    "address": "1000 Vinewood Blvd - Floor 2, Room 5",
+    "price": 125000,
+    "coords": [
+      1.0,
+      -974.092
+    ]
+  },
+  {
+    "id": "102325",
+    "address": "1000 Vinewood Blvd - Floor 3, Room 1",
+    "price": 125000,
+    "coords": [
+      1.0,
+      -974.092
+    ]
+  },
+  {
+    "id": "102326",
+    "address": "1000 Vinewood Blvd - Floor 3, Room 2",
+    "price": 125000,
+    "coords": [
+      1.0,
+      -974.092
+    ]
+  },
+  {
+    "id": "102327",
+    "address": "1000 Vinewood Blvd - Floor 3, Room 3",
+    "price": 125000,
+    "coords": [
+      1.0,
+      -974.092
+    ]
+  },
+  {
+    "id": "102328",
+    "address": "1000 Vinewood Blvd - Floor 3, Room 4",
+    "price": 125000,
+    "coords": [
+      1.0,
+      -974.092
+    ]
+  },
+  {
+    "id": "102329",
+    "address": "1000 Vinewood Blvd - Floor 3, Room 5",
+    "price": 125000,
+    "coords": [
+      1.0,
+      -974.092
+    ]
+  },
+  {
+    "id": "102536",
+    "address": "West Vinewood - Apartment Complex - Floor 1, Room 6",
+    "price": 125000,
+    "coords": [
+      1.0,
+      -719.145
+    ]
+  },
+  {
+    "id": "102537",
+    "address": "West Vinewood - Apartment Complex - Floor 1, Room 7",
+    "price": 125000,
+    "coords": [
+      1.0,
+      -719.145
+    ]
+  },
+  {
+    "id": "102538",
+    "address": "West Vinewood - Apartment Complex - Floor 1, Room 8",
+    "price": 125000,
+    "coords": [
+      1.0,
+      -719.145
+    ]
+  },
+  {
+    "id": "102539",
+    "address": "West Vinewood - Apartment Complex - Floor 1, Room 9",
+    "price": 125000,
+    "coords": [
+      1.0,
+      -719.145
+    ]
+  },
+  {
+    "id": "102540",
+    "address": "West Vinewood - Apartment Complex - Floor 1, Room 10",
+    "price": 125000,
+    "coords": [
+      1.0,
+      -719.145
+    ]
+  },
+  {
+    "id": "102541",
+    "address": "West Vinewood - Apartment Complex - Floor 2, Room 1",
+    "price": 125000,
+    "coords": [
+      1.0,
+      -719.145
+    ]
+  },
+  {
+    "id": "102543",
+    "address": "West Vinewood - Apartment Complex - Floor 2, Room 3",
+    "price": 125000,
+    "coords": [
+      1.0,
+      -719.145
+    ]
+  },
+  {
+    "id": "102546",
+    "address": "West Vinewood - Apartment Complex - Floor 2, Room 6",
+    "price": 125000,
+    "coords": [
+      1.0,
+      -719.145
+    ]
+  },
+  {
+    "id": "102547",
+    "address": "West Vinewood - Apartment Complex - Floor 2, Room 7",
+    "price": 125000,
+    "coords": [
+      1.0,
+      -719.145
+    ]
+  },
+  {
+    "id": "102548",
+    "address": "West Vinewood - Apartment Complex - Floor 2, Room 8",
+    "price": 125000,
+    "coords": [
+      1.0,
+      -719.145
+    ]
+  },
+  {
+    "id": "103992",
+    "address": "Galileo House - Floor 1, Room 1",
+    "price": 195000,
+    "coords": [
+      1.0,
+      367.44
+    ]
+  },
+  {
+    "id": "103993",
+    "address": "Galileo House - Floor 1, Room 2",
+    "price": 195000,
+    "coords": [
+      1.0,
+      367.44
+    ]
+  },
+  {
+    "id": "103994",
+    "address": "Galileo House - Floor 2, Room 1",
+    "price": 195000,
+    "coords": [
+      1.0,
+      367.44
+    ]
+  },
+  {
+    "id": "103995",
+    "address": "Galileo House - Floor 2, Room 2",
+    "price": 195000,
+    "coords": [
+      1.0,
+      367.44
+    ]
+  },
+  {
+    "id": "103997",
+    "address": "Galileo House - Floor 3, Room 2",
+    "price": 195000,
+    "coords": [
+      1.0,
+      367.44
+    ]
+  },
+  {
+    "id": "103998",
+    "address": "Galileo House - Floor 4, Room 1",
+    "price": 195000,
+    "coords": [
+      1.0,
+      367.44
+    ]
+  },
+  {
+    "id": "103999",
+    "address": "Galileo House - Floor 4, Room 2",
+    "price": 195000,
+    "coords": [
+      1.0,
+      367.44
+    ]
+  },
+  {
+    "id": "104000",
+    "address": "Galileo House - Floor 5, Room 1",
+    "price": 195000,
+    "coords": [
+      1.0,
+      367.44
+    ]
+  },
+  {
+    "id": "104001",
+    "address": "Galileo House - Floor 5, Room 2",
+    "price": 195000,
+    "coords": [
+      1.0,
+      367.44
+    ]
+  },
+  {
+    "id": "104002",
+    "address": "Galileo House - Floor 6, Room 1",
+    "price": 195000,
+    "coords": [
+      1.0,
+      367.44
+    ]
+  },
+  {
+    "id": "104003",
+    "address": "Galileo House - Floor 6, Room 2",
+    "price": 195000,
+    "coords": [
+      1.0,
+      367.44
+    ]
+  },
+  {
+    "id": "104004",
+    "address": "Galileo House - Floor 7, Room 1",
+    "price": 195000,
+    "coords": [
+      1.0,
+      367.44
+    ]
+  },
+  {
+    "id": "104005",
+    "address": "Galileo House - Floor 7, Room 2",
+    "price": 195000,
+    "coords": [
+      1.0,
+      367.44
+    ]
+  },
+  {
+    "id": "104007",
+    "address": "Galileo House - Floor 8, Room 2",
+    "price": 195000,
+    "coords": [
+      1.0,
+      367.44
+    ]
+  }
+]

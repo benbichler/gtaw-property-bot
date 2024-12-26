@@ -1,0 +1,20 @@
+[
+  {
+    "id": "7",
+    "address": "Mojito Inn",
+    "price": 5458,
+    "coords": [
+      -122.583,
+      6389.5
+    ]
+  },
+  {
+    "id": "8",
+    "address": "Magnolia Records Inc.",
+    "price": 9849,
+    "coords": [
+      -654.869,
+      -414.259
+    ]
+  }
+]

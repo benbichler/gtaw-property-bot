@@ -1,0 +1,1343 @@
+[
+  {
+    "id": "6121",
+    "address": "Harmony Storage Container #6",
+    "price": 7500,
+    "coords": [
+      -965.504,
+      -2989.65
+    ]
+  },
+  {
+    "id": "8971",
+    "address": "Seaview Road Storage Container B",
+    "price": 7000,
+    "coords": [
+      2480.0,
+      4123.0
+    ]
+  },
+  {
+    "id": "101007",
+    "address": "North Chumash Storage Unit #4",
+    "price": 8000,
+    "coords": [
+      -2210.7,
+      4239.03
+    ]
+  },
+  {
+    "id": "101008",
+    "address": "North Chumash Storage Unit #5",
+    "price": 8000,
+    "coords": [
+      -2212.51,
+      4236.2
+    ]
+  },
+  {
+    "id": "101010",
+    "address": "North Chumash Storage Unit #7",
+    "price": 8000,
+    "coords": [
+      -2216.7,
+      4231.8
+    ]
+  },
+  {
+    "id": "101011",
+    "address": "North Chumash Storage Unit #8",
+    "price": 8000,
+    "coords": [
+      -2219.24,
+      4230.19
+    ]
+  },
+  {
+    "id": "101012",
+    "address": "North Chumash Storage Unit #9",
+    "price": 8000,
+    "coords": [
+      -2221.61,
+      4228.26
+    ]
+  },
+  {
+    "id": "101013",
+    "address": "Red Shipping Container",
+    "price": 7500,
+    "coords": [
+      1709.91,
+      3680.03
+    ]
+  },
+  {
+    "id": "101017",
+    "address": "Blue Shipping Container B",
+    "price": 7500,
+    "coords": [
+      1729.16,
+      3681.64
+    ]
+  },
+  {
+    "id": "101018",
+    "address": "Blue Shipping Container A",
+    "price": 7500,
+    "coords": [
+      1704.35,
+      3707.17
+    ]
+  },
+  {
+    "id": "101245",
+    "address": "Grapeseed Storage Container #1",
+    "price": 8000,
+    "coords": [
+      2535.94,
+      4661.6
+    ]
+  },
+  {
+    "id": "101345",
+    "address": "Panorama Drive Storage Container #2",
+    "price": 8000,
+    "coords": [
+      1649.11,
+      3546.21
+    ]
+  },
+  {
+    "id": "101346",
+    "address": "Panorama Drive Storage Container #3",
+    "price": 8000,
+    "coords": [
+      1652.82,
+      3549.03
+    ]
+  },
+  {
+    "id": "101520",
+    "address": "Magellan Avenue Storage Unit #7",
+    "price": 10000,
+    "coords": [
+      -1229.79,
+      -1405.25
+    ]
+  },
+  {
+    "id": "101580",
+    "address": "El Rancho Boulevard Container #1",
+    "price": 8500,
+    "coords": [
+      1392.53,
+      -2036.49
+    ]
+  },
+  {
+    "id": "101581",
+    "address": "El Rancho Boulevard Container #2",
+    "price": 8500,
+    "coords": [
+      1415.21,
+      -2050.04
+    ]
+  },
+  {
+    "id": "101583",
+    "address": "El Rancho Boulevard Container #4",
+    "price": 8500,
+    "coords": [
+      1418.28,
+      -2055.73
+    ]
+  },
+  {
+    "id": "101584",
+    "address": "Elysian Fields Container #1",
+    "price": 7500,
+    "coords": [
+      1254.23,
+      -1931.88
+    ]
+  },
+  {
+    "id": "102239",
+    "address": "Murrieta Heights - Storage Container #2",
+    "price": 7000,
+    "coords": [
+      952.385,
+      -1206.67
+    ]
+  },
+  {
+    "id": "102241",
+    "address": "Murrieta Heights - Storage Container #4",
+    "price": 7000,
+    "coords": [
+      937.805,
+      -1206.81
+    ]
+  },
+  {
+    "id": "102242",
+    "address": "Murrieta Heights - Storage Container #5",
+    "price": 7000,
+    "coords": [
+      957.517,
+      -1226.83
+    ]
+  },
+  {
+    "id": "102244",
+    "address": "La Mesa - Storage Container #1",
+    "price": 7000,
+    "coords": [
+      933.198,
+      -1209.79
+    ]
+  },
+  {
+    "id": "102246",
+    "address": "La Mesa - Storage Container #3",
+    "price": 7000,
+    "coords": [
+      920.461,
+      -1201.99
+    ]
+  },
+  {
+    "id": "102247",
+    "address": "La Mesa - Storage Container #4",
+    "price": 7000,
+    "coords": [
+      912.728,
+      -1202.83
+    ]
+  },
+  {
+    "id": "102252",
+    "address": "Olympic Fwy - Storage Container #7",
+    "price": 7000,
+    "coords": [
+      871.318,
+      -1218.23
+    ]
+  },
+  {
+    "id": "102258",
+    "address": "Olympic Fwy - Storage Container #13",
+    "price": 7000,
+    "coords": [
+      848.92,
+      -1218.97
+    ]
+  },
+  {
+    "id": "102259",
+    "address": "Olympic Fwy - Storage Container #14",
+    "price": 7000,
+    "coords": [
+      845.591,
+      -1219.55
+    ]
+  },
+  {
+    "id": "102260",
+    "address": "Olympic Fwy - Storage Container #15",
+    "price": 7000,
+    "coords": [
+      842.963,
+      -1219.73
+    ]
+  },
+  {
+    "id": "102269",
+    "address": "Elysian Island - Storage Container #2",
+    "price": 7000,
+    "coords": [
+      154.132,
+      -2651.93
+    ]
+  },
+  {
+    "id": "102272",
+    "address": "Elysian Island - Storage Container #5",
+    "price": 8000,
+    "coords": [
+      200.921,
+      -2640.63
+    ]
+  },
+  {
+    "id": "102386",
+    "address": "Murrieta Heights Self Storage Facility #2",
+    "price": 10000,
+    "coords": [
+      967.658,
+      -1267.21
+    ]
+  },
+  {
+    "id": "102389",
+    "address": "Murrieta Heights Self Storage Facility #5",
+    "price": 10000,
+    "coords": [
+      976.868,
+      -1269.1
+    ]
+  },
+  {
+    "id": "102391",
+    "address": "Murrieta Heights Self Storage Facility #7",
+    "price": 10000,
+    "coords": [
+      977.074,
+      -1275.41
+    ]
+  },
+  {
+    "id": "102392",
+    "address": "Murrieta Heights Self Storage Facility #8",
+    "price": 10000,
+    "coords": [
+      976.979,
+      -1278.5
+    ]
+  },
+  {
+    "id": "102396",
+    "address": "Murrieta Heights Self Storage Facility #12",
+    "price": 10000,
+    "coords": [
+      965.447,
+      -1283.21
+    ]
+  },
+  {
+    "id": "102399",
+    "address": "Murrieta Heights Self Storage Facility #15",
+    "price": 10000,
+    "coords": [
+      964.911,
+      -1272.4
+    ]
+  },
+  {
+    "id": "102400",
+    "address": "Murrieta Heights Self Storage Facility #16",
+    "price": 10000,
+    "coords": [
+      941.539,
+      -1286.6
+    ]
+  },
+  {
+    "id": "102401",
+    "address": "Murrieta Heights Self Storage Facility #17",
+    "price": 10000,
+    "coords": [
+      938.39,
+      -1286.42
+    ]
+  },
+  {
+    "id": "102402",
+    "address": "Murrieta Heights Self Storage Facility #18",
+    "price": 10000,
+    "coords": [
+      935.191,
+      -1286.54
+    ]
+  },
+  {
+    "id": "102405",
+    "address": "Murrieta Heights Self Storage Facility #21",
+    "price": 10000,
+    "coords": [
+      943.947,
+      -1294.56
+    ]
+  },
+  {
+    "id": "102407",
+    "address": "Murrieta Heights Self Storage Facility #23",
+    "price": 10000,
+    "coords": [
+      937.619,
+      -1294.64
+    ]
+  },
+  {
+    "id": "102408",
+    "address": "Murrieta Heights Self Storage Facility #24",
+    "price": 10000,
+    "coords": [
+      934.521,
+      -1294.52
+    ]
+  },
+  {
+    "id": "102409",
+    "address": "Murrieta Heights Self Storage Facility #25",
+    "price": 10000,
+    "coords": [
+      931.425,
+      -1294.58
+    ]
+  },
+  {
+    "id": "102410",
+    "address": "Murrieta Heights Self Storage Facility #26",
+    "price": 10000,
+    "coords": [
+      928.249,
+      -1294.61
+    ]
+  },
+  {
+    "id": "102411",
+    "address": "Murrieta Heights Self Storage Facility #27",
+    "price": 10000,
+    "coords": [
+      910.114,
+      -1288.05
+    ]
+  },
+  {
+    "id": "102412",
+    "address": "Murrieta Heights Self Storage Facility #28",
+    "price": 10000,
+    "coords": [
+      907.01,
+      -1287.95
+    ]
+  },
+  {
+    "id": "102413",
+    "address": "Murrieta Heights Self Storage Facility #29",
+    "price": 10000,
+    "coords": [
+      904.013,
+      -1288.06
+    ]
+  },
+  {
+    "id": "102414",
+    "address": "Murrieta Heights Self Storage Facility #30",
+    "price": 10000,
+    "coords": [
+      900.799,
+      -1288.03
+    ]
+  },
+  {
+    "id": "102417",
+    "address": "Murrieta Heights Self Storage Facility #33",
+    "price": 10000,
+    "coords": [
+      908.137,
+      -1262.82
+    ]
+  },
+  {
+    "id": "102419",
+    "address": "Murrieta Heights Self Storage Facility #35",
+    "price": 10000,
+    "coords": [
+      775.161,
+      -1289.38
+    ]
+  },
+  {
+    "id": "102420",
+    "address": "Murrieta Heights Self Storage Facility #36",
+    "price": 10000,
+    "coords": [
+      775.23,
+      -1292.5
+    ]
+  },
+  {
+    "id": "102421",
+    "address": "Murrieta Heights Self Storage Facility #37",
+    "price": 10000,
+    "coords": [
+      775.276,
+      -1295.71
+    ]
+  },
+  {
+    "id": "102422",
+    "address": "Murrieta Heights Self Storage Facility #38",
+    "price": 10000,
+    "coords": [
+      775.222,
+      -1298.7
+    ]
+  },
+  {
+    "id": "102423",
+    "address": "Murrieta Heights Self Storage Facility #39",
+    "price": 10000,
+    "coords": [
+      775.174,
+      -1301.82
+    ]
+  },
+  {
+    "id": "102424",
+    "address": "Murrieta Heights Self Storage Facility #40",
+    "price": 10000,
+    "coords": [
+      775.229,
+      -1304.92
+    ]
+  },
+  {
+    "id": "102427",
+    "address": "Murrieta Heights Self Storage Facility #43",
+    "price": 10000,
+    "coords": [
+      775.148,
+      -1314.18
+    ]
+  },
+  {
+    "id": "102428",
+    "address": "Murrieta Heights Self Storage Facility #44",
+    "price": 10000,
+    "coords": [
+      775.225,
+      -1317.08
+    ]
+  },
+  {
+    "id": "102430",
+    "address": "Murrieta Heights Self Storage Facility #46",
+    "price": 10000,
+    "coords": [
+      775.296,
+      -1323.42
+    ]
+  },
+  {
+    "id": "102432",
+    "address": "Murrieta Heights Self Storage Facility #48",
+    "price": 10000,
+    "coords": [
+      768.82,
+      -1322.58
+    ]
+  },
+  {
+    "id": "102434",
+    "address": "Murrieta Heights Self Storage Facility #50",
+    "price": 10000,
+    "coords": [
+      768.846,
+      -1316.36
+    ]
+  },
+  {
+    "id": "102435",
+    "address": "Murrieta Heights Self Storage Facility #51",
+    "price": 10000,
+    "coords": [
+      768.939,
+      -1313.23
+    ]
+  },
+  {
+    "id": "102437",
+    "address": "Murrieta Heights Self Storage Facility #53",
+    "price": 10000,
+    "coords": [
+      768.923,
+      -1306.98
+    ]
+  },
+  {
+    "id": "102438",
+    "address": "Murrieta Heights Self Storage Facility #54",
+    "price": 10000,
+    "coords": [
+      768.963,
+      -1304.02
+    ]
+  },
+  {
+    "id": "102441",
+    "address": "Murrieta Heights Self Storage Facility #57",
+    "price": 10000,
+    "coords": [
+      769.002,
+      -1294.59
+    ]
+  },
+  {
+    "id": "102442",
+    "address": "Murrieta Heights Self Storage Facility #58",
+    "price": 10000,
+    "coords": [
+      768.917,
+      -1291.46
+    ]
+  },
+  {
+    "id": "102444",
+    "address": "Murrieta Heights Self Storage Facility #60",
+    "price": 10000,
+    "coords": [
+      775.98,
+      -1338.06
+    ]
+  },
+  {
+    "id": "102447",
+    "address": "Murrieta Heights Self Storage Facility #63",
+    "price": 10000,
+    "coords": [
+      781.89,
+      -1350.38
+    ]
+  },
+  {
+    "id": "102448",
+    "address": "Murrieta Heights Self Storage Facility #64",
+    "price": 10000,
+    "coords": [
+      778.854,
+      -1350.22
+    ]
+  },
+  {
+    "id": "102449",
+    "address": "Murrieta Heights Self Storage Facility #65",
+    "price": 10000,
+    "coords": [
+      775.515,
+      -1350.01
+    ]
+  },
+  {
+    "id": "102456",
+    "address": "Murrieta Heights Self Storage Facility #72",
+    "price": 10000,
+    "coords": [
+      770.424,
+      -1337.98
+    ]
+  },
+  {
+    "id": "102457",
+    "address": "Murrieta Heights Self Storage Facility #73",
+    "price": 10000,
+    "coords": [
+      772.257,
+      -1268.79
+    ]
+  },
+  {
+    "id": "102459",
+    "address": "Murrieta Heights Self Storage Facility #75",
+    "price": 10000,
+    "coords": [
+      765.955,
+      -1268.84
+    ]
+  },
+  {
+    "id": "102460",
+    "address": "Murrieta Heights Self Storage Facility #76",
+    "price": 10000,
+    "coords": [
+      762.943,
+      -1268.79
+    ]
+  },
+  {
+    "id": "102461",
+    "address": "Murrieta Heights Self Storage Facility #77",
+    "price": 10000,
+    "coords": [
+      758.562,
+      -1268.69
+    ]
+  },
+  {
+    "id": "102462",
+    "address": "Murrieta Heights Self Storage Facility #78",
+    "price": 10000,
+    "coords": [
+      758.547,
+      -1265.63
+    ]
+  },
+  {
+    "id": "102463",
+    "address": "Murrieta Heights Self Storage Facility #79",
+    "price": 10000,
+    "coords": [
+      758.486,
+      -1262.4
+    ]
+  },
+  {
+    "id": "102466",
+    "address": "Murrieta Heights Self Storage Facility #82",
+    "price": 10000,
+    "coords": [
+      763.577,
+      -1257.45
+    ]
+  },
+  {
+    "id": "102468",
+    "address": "Murrieta Heights Self Storage Facility #84",
+    "price": 10000,
+    "coords": [
+      769.776,
+      -1257.47
+    ]
+  },
+  {
+    "id": "102469",
+    "address": "Murrieta Heights Self Storage Facility #85",
+    "price": 10000,
+    "coords": [
+      772.868,
+      -1257.52
+    ]
+  },
+  {
+    "id": "102470",
+    "address": "Murrieta Heights Self Storage Facility #86",
+    "price": 10000,
+    "coords": [
+      775.899,
+      -1257.35
+    ]
+  },
+  {
+    "id": "102472",
+    "address": "Murrieta Heights Self Storage Facility #88",
+    "price": 10000,
+    "coords": [
+      776.726,
+      -1262.7
+    ]
+  },
+  {
+    "id": "102473",
+    "address": "Murrieta Heights Self Storage Facility #89",
+    "price": 10000,
+    "coords": [
+      776.728,
+      -1265.8
+    ]
+  },
+  {
+    "id": "102474",
+    "address": "Murrieta Heights Self Storage Facility #90",
+    "price": 10000,
+    "coords": [
+      776.828,
+      -1268.86
+    ]
+  },
+  {
+    "id": "102662",
+    "address": "El Burro Blvd Storage Container 2",
+    "price": 10000,
+    "coords": [
+      1568.86,
+      -2190.24
+    ]
+  },
+  {
+    "id": "102692",
+    "address": "Joad Lane Storage Container #4",
+    "price": 8000,
+    "coords": [
+      2305.82,
+      4847.78
+    ]
+  },
+  {
+    "id": "102820",
+    "address": "El Burro Blvd Storage Container 5",
+    "price": 9500,
+    "coords": [
+      1635.72,
+      -1885.69
+    ]
+  },
+  {
+    "id": "102822",
+    "address": "El Burro Blvd Storage Container 7",
+    "price": 10500,
+    "coords": [
+      1651.91,
+      -1892.92
+    ]
+  },
+  {
+    "id": "102947",
+    "address": "South Popular Street Storage Container #2",
+    "price": 10000,
+    "coords": [
+      712.618,
+      -2126.91
+    ]
+  },
+  {
+    "id": "102948",
+    "address": "South Popular Street Storage Container #3",
+    "price": 10000,
+    "coords": [
+      716.79,
+      -2124.69
+    ]
+  },
+  {
+    "id": "102949",
+    "address": "South Popular Street Storage Container #4",
+    "price": 10000,
+    "coords": [
+      714.04,
+      -2121.69
+    ]
+  },
+  {
+    "id": "102950",
+    "address": "South Popular Street Storage Container #5",
+    "price": 10000,
+    "coords": [
+      717.699,
+      -2119.25
+    ]
+  },
+  {
+    "id": "103146",
+    "address": "Union Road Storage Container",
+    "price": 8000,
+    "coords": [
+      2916.98,
+      4643.2
+    ]
+  },
+  {
+    "id": "103171",
+    "address": "Redwood Lights Track Container B",
+    "price": 8000,
+    "coords": [
+      874.884,
+      2357.02
+    ]
+  },
+  {
+    "id": "103317",
+    "address": "Labor Place Container #3",
+    "price": 9500,
+    "coords": [
+      1003.37,
+      -1912.17
+    ]
+  },
+  {
+    "id": "103318",
+    "address": "Labor Place Container #4",
+    "price": 9000,
+    "coords": [
+      1008.88,
+      -1922.49
+    ]
+  },
+  {
+    "id": "103319",
+    "address": "Labor Place Container #5",
+    "price": 9500,
+    "coords": [
+      1012.86,
+      -1926.81
+    ]
+  },
+  {
+    "id": "103320",
+    "address": "Labor Place Container #6",
+    "price": 9500,
+    "coords": [
+      1015.76,
+      -1927.7
+    ]
+  },
+  {
+    "id": "103321",
+    "address": "Labor Place Container #7",
+    "price": 9000,
+    "coords": [
+      993.895,
+      -1965.82
+    ]
+  },
+  {
+    "id": "103322",
+    "address": "Labor Place Shipping Container",
+    "price": 8000,
+    "coords": [
+      993.807,
+      -1969.28
+    ]
+  },
+  {
+    "id": "103374",
+    "address": "Joshua Road Storage Container #3",
+    "price": 8000,
+    "coords": [
+      311.002,
+      2893.72
+    ]
+  },
+  {
+    "id": "103437",
+    "address": "La Mesa - Popular Street Storage Container #2",
+    "price": 9500,
+    "coords": [
+      725.2,
+      -1513.26
+    ]
+  },
+  {
+    "id": "103442",
+    "address": "Paleto Bay Self Storage Facility #1",
+    "price": 7500,
+    "coords": [
+      -49.1758,
+      6365.19
+    ]
+  },
+  {
+    "id": "103443",
+    "address": "Paleto Bay Self Storage Facility #2",
+    "price": 7500,
+    "coords": [
+      -47.4739,
+      6366.76
+    ]
+  },
+  {
+    "id": "103444",
+    "address": "Paleto Bay Self Storage Facility #3",
+    "price": 7500,
+    "coords": [
+      -45.8656,
+      6368.24
+    ]
+  },
+  {
+    "id": "103445",
+    "address": "Paleto Bay Self Storage Facility #4",
+    "price": 7500,
+    "coords": [
+      -44.2458,
+      6369.73
+    ]
+  },
+  {
+    "id": "103446",
+    "address": "Paleto Bay Self Storage Facility #5",
+    "price": 7500,
+    "coords": [
+      -42.6965,
+      6371.27
+    ]
+  },
+  {
+    "id": "103447",
+    "address": "Paleto Bay Self Storage Facility #6",
+    "price": 7500,
+    "coords": [
+      -41.2616,
+      6372.87
+    ]
+  },
+  {
+    "id": "103448",
+    "address": "Paleto Bay Self Storage Facility #7",
+    "price": 7500,
+    "coords": [
+      -39.7517,
+      6374.26
+    ]
+  },
+  {
+    "id": "103449",
+    "address": "Paleto Bay Self Storage Facility #8",
+    "price": 7500,
+    "coords": [
+      -35.9915,
+      6378.06
+    ]
+  },
+  {
+    "id": "103450",
+    "address": "Paleto Bay Self Storage Facility #9",
+    "price": 7500,
+    "coords": [
+      -34.4167,
+      6379.61
+    ]
+  },
+  {
+    "id": "103451",
+    "address": "Paleto Bay Self Storage Facility #10",
+    "price": 7500,
+    "coords": [
+      -32.7937,
+      6381.13
+    ]
+  },
+  {
+    "id": "103455",
+    "address": "Paleto Bay Self Storage Facility #14",
+    "price": 10000,
+    "coords": [
+      -49.8012,
+      6379.39
+    ]
+  },
+  {
+    "id": "103456",
+    "address": "Paleto Bay Self Storage Facility #15",
+    "price": 10000,
+    "coords": [
+      -47.2993,
+      6381.87
+    ]
+  },
+  {
+    "id": "103457",
+    "address": "Paleto Bay Self Storage Facility #16",
+    "price": 7500,
+    "coords": [
+      -43.224,
+      6385.03
+    ]
+  },
+  {
+    "id": "103458",
+    "address": "Paleto Bay Self Storage Facility #17",
+    "price": 7500,
+    "coords": [
+      -41.7815,
+      6386.5
+    ]
+  },
+  {
+    "id": "103459",
+    "address": "Paleto Bay Self Storage Facility #18",
+    "price": 7500,
+    "coords": [
+      -40.3058,
+      6387.98
+    ]
+  },
+  {
+    "id": "103461",
+    "address": "Paleto Bay Self Storage Facility #20",
+    "price": 10000,
+    "coords": [
+      -40.1557,
+      6393.37
+    ]
+  },
+  {
+    "id": "103462",
+    "address": "Paleto Bay Self Storage Facility #21",
+    "price": 10000,
+    "coords": [
+      -42.6726,
+      6396.15
+    ]
+  },
+  {
+    "id": "103463",
+    "address": "Paleto Bay Self Storage Facility #22",
+    "price": 10000,
+    "coords": [
+      -45.2453,
+      6398.68
+    ]
+  },
+  {
+    "id": "103464",
+    "address": "Paleto Bay Self Storage Facility #23",
+    "price": 10000,
+    "coords": [
+      -48.4339,
+      6384.88
+    ]
+  },
+  {
+    "id": "103465",
+    "address": "Paleto Bay Self Storage Facility #24",
+    "price": 10000,
+    "coords": [
+      -50.8605,
+      6382.22
+    ]
+  },
+  {
+    "id": "103466",
+    "address": "Paleto Bay Self Storage Facility #25",
+    "price": 10000,
+    "coords": [
+      -53.2464,
+      6379.58
+    ]
+  },
+  {
+    "id": "103467",
+    "address": "Paleto Bay Self Storage Facility #26",
+    "price": 10000,
+    "coords": [
+      -55.8891,
+      6377.0
+    ]
+  },
+  {
+    "id": "103468",
+    "address": "Paleto Bay Self Storage Facility #27",
+    "price": 10000,
+    "coords": [
+      -65.355,
+      6376.96
+    ]
+  },
+  {
+    "id": "103469",
+    "address": "Paleto Bay Self Storage Facility #28",
+    "price": 10000,
+    "coords": [
+      -35.4501,
+      6390.34
+    ]
+  },
+  {
+    "id": "103471",
+    "address": "Paleto Bay Self Storage Facility #30",
+    "price": 10000,
+    "coords": [
+      -40.6483,
+      6395.2
+    ]
+  },
+  {
+    "id": "103472",
+    "address": "Paleto Bay Self Storage Facility #31",
+    "price": 10000,
+    "coords": [
+      -43.2304,
+      6394.14
+    ]
+  },
+  {
+    "id": "103473",
+    "address": "Paleto Bay Self Storage Facility #32",
+    "price": 10000,
+    "coords": [
+      -45.779,
+      6391.32
+    ]
+  },
+  {
+    "id": "103474",
+    "address": "Paleto Bay Self Storage Facility #33",
+    "price": 10000,
+    "coords": [
+      -48.5162,
+      6388.89
+    ]
+  },
+  {
+    "id": "103475",
+    "address": "Paleto Bay Self Storage Facility #34",
+    "price": 10000,
+    "coords": [
+      -50.8115,
+      6386.21
+    ]
+  },
+  {
+    "id": "103477",
+    "address": "Paleto Bay Self Storage Facility #36",
+    "price": 10000,
+    "coords": [
+      -55.8436,
+      6381.09
+    ]
+  },
+  {
+    "id": "103478",
+    "address": "Paleto Bay Self Storage Facility #37",
+    "price": 10000,
+    "coords": [
+      -58.3051,
+      6378.45
+    ]
+  },
+  {
+    "id": "103479",
+    "address": "Paleto Bay Self Storage Facility #38",
+    "price": 10000,
+    "coords": [
+      -60.9423,
+      6376.34
+    ]
+  },
+  {
+    "id": "103480",
+    "address": "Paleto Bay Self Storage Facility #39",
+    "price": 10000,
+    "coords": [
+      -61.0335,
+      6374.02
+    ]
+  },
+  {
+    "id": "103481",
+    "address": "Paleto Bay Self Storage Facility #40",
+    "price": 10000,
+    "coords": [
+      -58.5323,
+      6373.49
+    ]
+  },
+  {
+    "id": "103482",
+    "address": "Paleto Bay Self Storage Facility #41",
+    "price": 10000,
+    "coords": [
+      -56.0502,
+      6375.76
+    ]
+  },
+  {
+    "id": "103483",
+    "address": "Paleto Bay Self Storage Facility #42",
+    "price": 10000,
+    "coords": [
+      -53.7866,
+      6378.13
+    ]
+  },
+  {
+    "id": "103485",
+    "address": "Paleto Bay Self Storage Facility #44",
+    "price": 10000,
+    "coords": [
+      -48.7151,
+      6382.85
+    ]
+  },
+  {
+    "id": "103486",
+    "address": "Paleto Bay Self Storage Facility #45",
+    "price": 10000,
+    "coords": [
+      -45.4456,
+      6385.88
+    ]
+  },
+  {
+    "id": "103487",
+    "address": "Paleto Bay Self Storage Facility #46",
+    "price": 7500,
+    "coords": [
+      -38.4894,
+      6380.24
+    ]
+  },
+  {
+    "id": "103488",
+    "address": "Paleto Bay Self Storage Facility #47",
+    "price": 7500,
+    "coords": [
+      -40.1515,
+      6378.57
+    ]
+  },
+  {
+    "id": "103489",
+    "address": "Paleto Bay Self Storage Facility #48",
+    "price": 7500,
+    "coords": [
+      -41.8896,
+      6376.91
+    ]
+  },
+  {
+    "id": "103490",
+    "address": "Paleto Bay Self Storage Facility #49",
+    "price": 7500,
+    "coords": [
+      -43.6221,
+      6375.18
+    ]
+  },
+  {
+    "id": "103491",
+    "address": "Paleto Bay Self Storage Facility #50",
+    "price": 7500,
+    "coords": [
+      -45.3041,
+      6373.49
+    ]
+  },
+  {
+    "id": "103492",
+    "address": "Paleto Bay Self Storage Facility #51",
+    "price": 7500,
+    "coords": [
+      -47.0465,
+      6371.61
+    ]
+  },
+  {
+    "id": "103493",
+    "address": "Paleto Bay Self Storage Facility #52",
+    "price": 7500,
+    "coords": [
+      -48.9599,
+      6369.77
+    ]
+  },
+  {
+    "id": "103494",
+    "address": "Paleto Bay Self Storage Facility #53",
+    "price": 7500,
+    "coords": [
+      -50.7756,
+      6367.99
+    ]
+  },
+  {
+    "id": "103495",
+    "address": "Paleto Bay Self Storage Facility #54",
+    "price": 7500,
+    "coords": [
+      -52.6301,
+      6366.05
+    ]
+  },
+  {
+    "id": "103496",
+    "address": "Paleto Bay Self Storage Facility #55",
+    "price": 7500,
+    "coords": [
+      -54.4691,
+      6364.31
+    ]
+  }
+]
