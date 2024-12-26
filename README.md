@@ -1,1 +1,0 @@
-# gtaw-property-bot
