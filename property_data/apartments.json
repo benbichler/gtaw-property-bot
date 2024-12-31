@@ -81,6 +81,15 @@
     ]
   },
   {
+    "id": "2013",
+    "address": "924 Las Lagunas Boulevard, Apt. 6",
+    "price": 75000,
+    "coords": [
+      1.0,
+      -102.833
+    ]
+  },
+  {
     "id": "2018",
     "address": "926 Las Lagunas Boulevard, Apt. 5",
     "price": 115000,
@@ -1037,15 +1046,6 @@
   {
     "id": "2510",
     "address": "2103 Vespucci Blvd - Floor 5, Room 2",
-    "price": 80000,
-    "coords": [
-      1.0,
-      140.244
-    ]
-  },
-  {
-    "id": "2514",
-    "address": "2103 Vespucci Blvd - Floor 5, Room 6",
     "price": 80000,
     "coords": [
       1.0,
@@ -2943,6 +2943,15 @@
     ]
   },
   {
+    "id": "3394",
+    "address": "Abe Milton Pkwy House - Floor 2, Room 3",
+    "price": 300000,
+    "coords": [
+      1.0,
+      -466.279
+    ]
+  },
+  {
     "id": "3479",
     "address": "195 Spanish Avenue - Floor 1, Room 2",
     "price": 85000,
@@ -3948,6 +3957,15 @@
     "coords": [
       1.0,
       -1218.59
+    ]
+  },
+  {
+    "id": "3703",
+    "address": "4 Rub Street - Floor 1, Room 2",
+    "price": 80000,
+    "coords": [
+      1.0,
+      -932.609
     ]
   },
   {
@@ -8046,6 +8064,15 @@
     ]
   },
   {
+    "id": "8409",
+    "address": "1002 Strawberry Avenue - Floor 1, Room 5",
+    "price": 70000,
+    "coords": [
+      1.0,
+      290.877
+    ]
+  },
+  {
     "id": "8410",
     "address": "1002 Strawberry Avenue - Floor 1, Room 6",
     "price": 70000,
@@ -8133,6 +8160,15 @@
     "coords": [
       1.0,
       113.291
+    ]
+  },
+  {
+    "id": "8889",
+    "address": "Unit 14 - 105 Charleston Street",
+    "price": 65000,
+    "coords": [
+      1.0,
+      96.6664
     ]
   },
   {
@@ -9852,15 +9888,6 @@
     "coords": [
       1.0,
       61.8781
-    ]
-  },
-  {
-    "id": "101452",
-    "address": "2115 Bay City Avenue - Floor 1, Room 2",
-    "price": 85000,
-    "coords": [
-      1.0,
-      -1070.32
     ]
   },
   {

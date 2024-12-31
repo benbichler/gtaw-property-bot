@@ -126,6 +126,15 @@
     ]
   },
   {
+    "id": "7068",
+    "address": "1161 Spanish Avenue #15",
+    "price": 90000,
+    "coords": [
+      1.0,
+      -1055.81
+    ]
+  },
+  {
     "id": "7070",
     "address": "1161 Spanish Avenue #17",
     "price": 90000,
