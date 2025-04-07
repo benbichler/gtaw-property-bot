@@ -1008,6 +1008,7 @@ class PropertyBot(commands.Bot):
             
             # Initialize Chrome driver
             options = uc.ChromeOptions()
+            options.binary_location = "/usr/bin/google-chrome"
             if platform.system() == 'Linux':
                 options.add_argument('--headless')
                 options.add_argument('--no-sandbox')
