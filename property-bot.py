@@ -1314,6 +1314,19 @@ class PropertyBot(commands.Bot):
             for prop_type in self.property_types:
                 self.previous_properties[prop_type] = self.properties[prop_type].copy()
             
+            # Initialize Chrome driver
+            options = uc.ChromeOptions()
+            options.binary_location = "/usr/bin/google-chrome"
+            if platform.system() == 'Linux':
+                options.add_argument('--headless')
+                options.add_argument('--no-sandbox')
+                options.add_argument('--disable-dev-shm-usage')
+            else:
+                options.add_argument('--headless=new')
+            
+            driver = uc.Chrome(options=options)
+            driver.set_page_load_timeout(30)
+            
             # Initialize new properties dictionary
             new_properties = {prop_type: [] for prop_type in self.property_types}
             
