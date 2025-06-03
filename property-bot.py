@@ -14,13 +14,69 @@ import asyncio
 import sys
 import random
 import datetime
+import atexit
+import signal
+import psutil
+import subprocess
+import requests
+from logging.handlers import RotatingFileHandler
+
+# Discord webhook URL
+WEBHOOK_URL = "https://discord.com/api/webhooks/1379054082076971018/0sKwTVivzrp6ovP7aoCmK5B82YRoOqxGNK0-Ga9g6TyVJFE10SB1SUn3QY9s_dAAKdFB"
+
+class DiscordWebhookHandler(logging.Handler):
+    def __init__(self, webhook_url):
+        super().__init__()
+        self.webhook_url = webhook_url
+        self.log_buffer = []
+        self.buffer_size = 5  # Number of logs to accumulate before sending
+        self.last_send_time = datetime.datetime.now()
+        self.send_interval = 2  # Minimum seconds between sends
+
+    def emit(self, record):
+        try:
+            msg = self.format(record)
+            self.log_buffer.append(msg)
+            
+            current_time = datetime.datetime.now()
+            if (len(self.log_buffer) >= self.buffer_size or 
+                (current_time - self.last_send_time).total_seconds() >= self.send_interval):
+                self.flush()
+                
+        except Exception as e:
+            print(f"Error in DiscordWebhookHandler: {e}")
+
+    def flush(self):
+        if not self.log_buffer:
+            return
+            
+        try:
+            # Create a code block with the logs
+            log_text = "```\n" + "\n".join(self.log_buffer) + "\n```"
+            
+            # Send to Discord webhook
+            payload = {
+                "content": log_text,
+                "username": "Property Logger"
+            }
+            
+            response = requests.post(self.webhook_url, json=payload)
+            response.raise_for_status()
+            
+            self.log_buffer = []
+            self.last_send_time = datetime.datetime.now()
+            
+        except Exception as e:
+            print(f"Error sending logs to Discord: {e}")
 
 # Set up logging
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.StreamHandler(sys.stdout)
+        logging.StreamHandler(sys.stdout),
+        RotatingFileHandler('property-bot.log', maxBytes=1024*1024, backupCount=5),
+        DiscordWebhookHandler(WEBHOOK_URL)
     ]
 )
 logger = logging.getLogger('PropertyBot')
@@ -158,6 +214,134 @@ class BehaviorManager:
             logger.info(f"Waking up {late_by} minutes late today")
         
         return base_sleep_hour, base_wake_hour
+
+class ChromeDriverManager:
+    def __init__(self):
+        self.driver = None
+        self.max_retries = 3
+        self.retry_delay = 5  # seconds
+        self.last_error_time = None
+        self.error_count = 0
+        self.service_restart_threshold = 5  # Number of consecutive failures before restarting service
+        self.consecutive_failures = 0
+        atexit.register(self.cleanup)
+        signal.signal(signal.SIGTERM, self._signal_handler)
+        signal.signal(signal.SIGINT, self._signal_handler)
+
+    def _create_options(self):
+        options = uc.ChromeOptions()
+        if platform.system() == 'Linux':
+            options.add_argument('--headless')
+            options.add_argument('--no-sandbox')
+            options.add_argument('--disable-dev-shm-usage')
+            options.add_argument('--disable-gpu')
+            options.add_argument('--disable-software-rasterizer')
+            options.add_argument('--disable-extensions')
+            options.add_argument('--disable-logging')
+            options.add_argument('--log-level=3')
+            options.add_argument('--silent')
+        else:
+            options.add_argument('--headless=new')
+            options.add_argument('--disable-gpu')
+            options.add_argument('--disable-extensions')
+            options.add_argument('--disable-logging')
+            options.add_argument('--log-level=3')
+            options.add_argument('--silent')
+        return options
+
+    def _signal_handler(self, signum, frame):
+        self.cleanup()
+        sys.exit(0)
+
+    def _kill_chrome_processes(self):
+        """Kill any lingering Chrome processes"""
+        try:
+            if platform.system() == 'Windows':
+                subprocess.run(['taskkill', '/F', '/IM', 'chrome.exe'], capture_output=True)
+                subprocess.run(['taskkill', '/F', '/IM', 'chromedriver.exe'], capture_output=True)
+            else:
+                subprocess.run(['pkill', 'chrome'], capture_output=True)
+                subprocess.run(['pkill', 'chromedriver'], capture_output=True)
+        except Exception as e:
+            logger.error(f"Error killing Chrome processes: {e}")
+
+    def _should_retry(self):
+        """Determine if we should retry based on error count and timing"""
+        current_time = datetime.datetime.now()
+        if self.last_error_time is None:
+            return True
+        
+        # Reset error count if last error was more than 1 hour ago
+        if (current_time - self.last_error_time).total_seconds() > 3600:
+            self.error_count = 0
+            return True
+            
+        return self.error_count < self.max_retries
+
+    def _restart_service(self):
+        """Restart the systemd service"""
+        try:
+            logger.info("Attempting to restart the service...")
+            if platform.system() == 'Linux':
+                # Using systemctl directly since we're running as root
+                subprocess.run(['systemctl', 'restart', 'gtaw-property-bot.service'], 
+                             capture_output=True, text=True)
+                logger.info("Service restart command executed")
+            else:
+                logger.warning("Service restart only supported on Linux systems")
+        except Exception as e:
+            logger.error(f"Error restarting service: {e}")
+
+    def get_driver(self):
+        if self.driver is None or not self._is_driver_healthy():
+            self.cleanup()  # Clean up any existing driver
+            self._kill_chrome_processes()  # Kill any lingering processes
+            
+            if not self._should_retry():
+                self.consecutive_failures += 1
+                if self.consecutive_failures >= self.service_restart_threshold:
+                    logger.error(f"Reached {self.service_restart_threshold} consecutive failures. Restarting service...")
+                    self._restart_service()
+                raise Exception("Max retries exceeded. Please check system resources and Chrome installation.")
+            
+            try:
+                options = self._create_options()  # Create new options each time
+                self.driver = uc.Chrome(options=options)
+                self.driver.set_page_load_timeout(30)
+                self.error_count = 0  # Reset error count on successful creation
+                self.consecutive_failures = 0  # Reset consecutive failures on success
+                logger.info("Chrome driver initialized successfully")
+            except Exception as e:
+                self.error_count += 1
+                self.last_error_time = datetime.datetime.now()
+                logger.error(f"Error creating Chrome driver (attempt {self.error_count}/{self.max_retries}): {e}")
+                raise
+                
+        return self.driver
+
+    def _is_driver_healthy(self):
+        """Check if the current driver instance is healthy"""
+        if self.driver is None:
+            return False
+            
+        try:
+            # Try a simple operation to check if driver is responsive
+            self.driver.current_url
+            return True
+        except Exception:
+            return False
+
+    def cleanup(self):
+        if self.driver:
+            try:
+                self.driver.quit()
+            except Exception as e:
+                logger.error(f"Error closing Chrome driver: {e}")
+            finally:
+                self.driver = None
+
+    def __del__(self):
+        self.cleanup()
 
 # Define commands first before the bot class
 @app_commands.command(name="apartments", description="List available apartments")
@@ -695,6 +879,7 @@ class PropertyBot(commands.Bot):
         self.properties = {prop_type: [] for prop_type in self.property_types}
         self.previous_properties = {prop_type: [] for prop_type in self.property_types}
         
+        self.driver_manager = ChromeDriverManager()
         self.load_all_properties()
 
     def get_file_path(self, property_type: str) -> str:
@@ -941,8 +1126,8 @@ class PropertyBot(commands.Bot):
                 return
             
             embed = discord.Embed(
-                title=f"@everyone New {title_prefixes[property_type]} Listed!",
-                description=f"A new {property_type.rstrip('s').replace('_', ' ')} has been listed!",
+                title=f"New {title_prefixes[property_type]} Listed!",
+                description=f"@everyone A new {property_type.rstrip('s').replace('_', ' ')} has been listed!",
                 color=colors.get(property_type, discord.Color.default())
             )
             
@@ -980,98 +1165,75 @@ class PropertyBot(commands.Bot):
         except Exception as e:
             logger.error(f"Error creating property notification: {e}")
 
-    @tasks.loop(minutes=5) # Keep the base interval at 5 minutes
-    async def fetch_properties(self): 
-        """Main property fetching task with natural behavior patterns"""
-        driver = None
+    @tasks.loop(hours=24)  # Check for updates every 24 hours
+    async def check_dependencies(self):
+        """Check and update dependencies periodically"""
+        logger.info("Checking for dependency updates...")
         try:
-            # Check if we should take a break
-            should_break, break_duration, status = await self.behavior_manager.should_take_break()
-            if should_break:
-                logger.info(f"Taking a break for {break_duration} seconds: {status}")
-                if status:
-                    await self.change_presence(activity=discord.Game(name=status))
-                return
+            # Get the directory of the current script
+            script_dir = os.path.dirname(os.path.abspath(__file__))
             
-            # Get current activity level
-            activity = self.behavior_manager.get_current_activity_level()
-            self.fetch_properties.change_interval(minutes=activity['interval'])
-            logger.info(f"Current activity level: {activity['pattern']}, Next fetch in {activity['interval']} minutes")
+            # Run pip list to get current versions
+            current_packages = subprocess.check_output([sys.executable, '-m', 'pip', 'list', '--format=json']).decode()
+            current_packages = json.loads(current_packages)
             
-            # Set "working" status
-            await self.change_presence(activity=discord.Game(name="🔍 Checking listings"))
-            await asyncio.sleep(random.uniform(1.0, 3.0))
+            # Run pip list --outdated to get available updates
+            outdated_packages = subprocess.check_output([sys.executable, '-m', 'pip', 'list', '--outdated', '--format=json']).decode()
+            outdated_packages = json.loads(outdated_packages)
             
-            # Store current properties as previous
-            for prop_type in self.property_types:
-                self.previous_properties[prop_type] = self.properties[prop_type].copy()
-            
-            # Initialize Chrome driver
-            options = uc.ChromeOptions()
-            if platform.system() == 'Linux':
-                options.add_argument('--headless')
-                options.add_argument('--no-sandbox')
-                options.add_argument('--disable-dev-shm-usage')
-            else:
-                options.add_argument('--headless=new')
-            
-            driver = uc.Chrome(options=options)
-            driver.set_page_load_timeout(30)
-            
-            # Initialize new properties dictionary
-            new_properties = {prop_type: [] for prop_type in self.property_types}
-            
-            # Fetch properties with individual error handling
-            new_houses, new_apartments = await self.fetch_residential_properties(driver)
-            new_properties['houses'] = new_houses
-            new_properties['apartments'] = new_apartments
-            
-            new_businesses = await self.fetch_business_properties(driver)
-            new_properties['businesses'] = new_businesses
-            
-            new_storage, new_offices = await self.fetch_rental_properties(driver)
-            new_properties['storage_units'] = new_storage
-            new_properties['office_leases'] = new_offices
-            
-            # Process notifications and update properties
-            notifications_sent = 0
-            for property_type in self.property_types:
-                if not new_properties[property_type]:
-                    continue
-                    
-                previous_ids = {str(prop['id']) for prop in self.previous_properties[property_type]}
-                current_ids = {str(prop['id']) for prop in new_properties[property_type]}
-                new_ids = current_ids - previous_ids
+            if outdated_packages:
+                logger.info(f"Found {len(outdated_packages)} outdated packages")
                 
-                for property_data in new_properties[property_type]:
-                    if str(property_data['id']) in new_ids:
-                        try:
-                            await self.send_new_property_notification(property_data, property_type)
-                            notifications_sent += 1
-                            await asyncio.sleep(random.uniform(1.0, 2.0))
-                        except Exception as e:
-                            logger.error(f"Error sending notification for {property_type}: {e}")
+                # Create a requirements.txt with the latest versions
+                requirements = []
+                for package in outdated_packages:
+                    requirements.append(f"{package['name']}=={package['latest_version']}")
                 
-                # Update properties only if we have new data
-                self.properties[property_type] = new_properties[property_type]
-            
-            # Save all properties at once
-            self.save_all_properties()
-            logger.info(f"Property fetch completed. Total properties: {sum(len(props) for props in new_properties.values())}")
-            logger.info(f"Sent {notifications_sent} new property notifications")
-            
-        except Exception as e:
-            logger.error(f"Error during property fetch: {str(e)}")
-            logger.error(traceback.format_exc())
-        finally:
-            if driver:
+                # Write to temporary requirements file
+                temp_req_file = os.path.join(script_dir, 'temp_requirements.txt')
+                with open(temp_req_file, 'w') as f:
+                    f.write('\n'.join(requirements))
+                
                 try:
-                    driver.quit()
+                    # Update packages
+                    subprocess.check_call([sys.executable, '-m', 'pip', 'install', '-r', temp_req_file, '--upgrade'])
+                    logger.info("Successfully updated dependencies")
+                    
+                    # Notify in Discord if configured
+                    if NOTIFICATION_GUILD_ID and NOTIFICATION_CHANNEL_ID:
+                        guild = self.get_guild(NOTIFICATION_GUILD_ID)
+                        if guild:
+                            channel = guild.get_channel(NOTIFICATION_CHANNEL_ID)
+                            if channel:
+                                embed = discord.Embed(
+                                    title="🔄 Dependencies Updated",
+                                    description="The following packages were updated:",
+                                    color=discord.Color.green()
+                                )
+                                
+                                for package in outdated_packages:
+                                    embed.add_field(
+                                        name=package['name'],
+                                        value=f"Updated from {package['version']} to {package['latest_version']}",
+                                        inline=False
+                                    )
+                                
+                                await channel.send(embed=embed)
+                    
                 except Exception as e:
-                    logger.error(f"Error closing driver: {str(e)}")
+                    logger.error(f"Error updating dependencies: {e}")
+                finally:
+                    # Clean up temporary file
+                    if os.path.exists(temp_req_file):
+                        os.remove(temp_req_file)
+            else:
+                logger.info("All dependencies are up to date")
+                
+        except Exception as e:
+            logger.error(f"Error checking dependencies: {e}")
 
-    @fetch_properties.before_loop
-    async def before_fetch(self):
+    @check_dependencies.before_loop
+    async def before_check_dependencies(self):
         await self.wait_until_ready()
 
     async def setup_hook(self):
@@ -1079,7 +1241,14 @@ class PropertyBot(commands.Bot):
         logger.info("Setting up bot...")
         try:
             # Start the property fetch loop
+            logger.info("Starting property fetch task...")
             self.fetch_properties.start()
+            logger.info("Property fetch task started successfully")
+            
+            # Start the dependency checker
+            logger.info("Starting dependency checker...")
+            self.check_dependencies.start()
+            logger.info("Dependency checker started successfully")
             
             # Create the command tree if it doesn't exist
             if not hasattr(self, 'tree'):
@@ -1119,9 +1288,132 @@ class PropertyBot(commands.Bot):
             logger.error(f"Error in setup_hook: {e}")
             raise
 
+    @tasks.loop(minutes=5)
+    async def fetch_properties(self):
+        """Main property fetching task with natural behavior patterns"""
+        logger.info("Starting property fetch cycle...")
+        try:
+            # Check if we should take a break
+            should_break, break_duration, status = await self.behavior_manager.should_take_break()
+            if should_break:
+                logger.info(f"Taking a break for {break_duration} seconds: {status}")
+                if status:
+                    await self.change_presence(activity=discord.Game(name=status))
+                return
+            
+            # Get current activity level
+            activity = self.behavior_manager.get_current_activity_level()
+            self.fetch_properties.change_interval(minutes=activity['interval'])
+            logger.info(f"Current activity level: {activity['pattern']}, Next fetch in {activity['interval']} minutes")
+            
+            # Set "working" status
+            await self.change_presence(activity=discord.Game(name="🔍 Checking listings"))
+            await asyncio.sleep(random.uniform(1.0, 3.0))
+            
+            # Store current properties as previous
+            for prop_type in self.property_types:
+                self.previous_properties[prop_type] = self.properties[prop_type].copy()
+            
+            # Initialize new properties dictionary
+            new_properties = {prop_type: [] for prop_type in self.property_types}
+            
+            # Get Chrome driver with retry logic
+            max_attempts = 3
+            attempt = 0
+            driver = None
+            
+            while attempt < max_attempts:
+                try:
+                    logger.info(f"Initializing Chrome driver (attempt {attempt + 1}/{max_attempts})...")
+                    driver = self.driver_manager.get_driver()
+                    logger.info("Chrome driver initialized successfully")
+                    break
+                except Exception as e:
+                    attempt += 1
+                    logger.error(f"Failed to initialize Chrome driver (attempt {attempt}/{max_attempts}): {e}")
+                    if attempt < max_attempts:
+                        logger.info(f"Waiting {self.driver_manager.retry_delay} seconds before retrying...")
+                        await asyncio.sleep(self.driver_manager.retry_delay)
+                    else:
+                        logger.error("Max attempts reached. Using cached data for this cycle.")
+                        # Keep existing properties and continue with the cycle
+                        return
+            
+            if driver is None:
+                logger.error("Failed to initialize Chrome driver after all attempts. Using cached data.")
+                return
+            
+            try:
+                # Fetch properties with individual error handling
+                logger.info("Fetching residential properties...")
+                new_houses, new_apartments = await self.fetch_residential_properties(driver)
+                new_properties['houses'] = new_houses
+                new_properties['apartments'] = new_apartments
+                logger.info(f"Found {len(new_houses)} houses and {len(new_apartments)} apartments")
+                
+                logger.info("Fetching business properties...")
+                new_businesses = await self.fetch_business_properties(driver)
+                new_properties['businesses'] = new_businesses
+                logger.info(f"Found {len(new_businesses)} businesses")
+                
+                logger.info("Fetching rental properties...")
+                new_storage, new_offices = await self.fetch_rental_properties(driver)
+                new_properties['storage_units'] = new_storage
+                new_properties['office_leases'] = new_offices
+                logger.info(f"Found {len(new_storage)} storage units and {len(new_offices)} office leases")
+                
+                # Process notifications and update properties
+                notifications_sent = 0
+                for property_type in self.property_types:
+                    if not new_properties[property_type]:
+                        continue
+                        
+                    previous_ids = {str(prop['id']) for prop in self.previous_properties[property_type]}
+                    current_ids = {str(prop['id']) for prop in new_properties[property_type]}
+                    new_ids = current_ids - previous_ids
+                    
+                    for property_data in new_properties[property_type]:
+                        if str(property_data['id']) in new_ids:
+                            try:
+                                await self.send_new_property_notification(property_data, property_type)
+                                notifications_sent += 1
+                                await asyncio.sleep(random.uniform(1.0, 2.0))
+                            except Exception as e:
+                                logger.error(f"Error sending notification for {property_type}: {e}")
+                    
+                    # Update properties only if we have new data
+                    self.properties[property_type] = new_properties[property_type]
+                
+                # Save all properties at once
+                self.save_all_properties()
+                logger.info(f"Property fetch completed. Total properties: {sum(len(props) for props in new_properties.values())}")
+                logger.info(f"Sent {notifications_sent} new property notifications")
+                
+            except Exception as e:
+                logger.error(f"Error during property fetch: {str(e)}")
+                logger.error(traceback.format_exc())
+                # Clean up driver on error
+                self.driver_manager.cleanup()
+                
+        except Exception as e:
+            logger.error(f"Error in fetch_properties: {str(e)}")
+            logger.error(traceback.format_exc())
+
+    @fetch_properties.before_loop
+    async def before_fetch(self):
+        logger.info("Waiting for bot to be ready before starting fetch_properties task...")
+        await self.wait_until_ready()
+        logger.info("Bot is ready, fetch_properties task will start now")
+
     async def on_ready(self):
         logger.info(f'Logged in as {self.user} (ID: {self.user.id})')
         logger.info("Bot is ready!")
+        
+        # Register cleanup on bot shutdown
+        async def cleanup():
+            self.driver_manager.cleanup()
+        
+        self.loop.create_task(cleanup())
 
 class BotLifecycleManager:
     def __init__(self):
